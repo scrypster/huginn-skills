@@ -1,0 +1,17 @@
+id: official/proposal-writer
+name: proposal-writer
+display_name: Proposal Writer
+author: official
+description: 'Write winning sales proposals: executive summary, solution, ROI, and
+  social proof.'
+version: 1.0.0
+category: workflow
+tags:
+- sales
+- proposals
+- writing
+- business
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/proposal-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

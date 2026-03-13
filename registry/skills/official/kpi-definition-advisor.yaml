@@ -1,0 +1,17 @@
+id: official/kpi-definition-advisor
+name: kpi-definition-advisor
+display_name: KPI Definition Advisor
+author: official
+description: 'Define meaningful KPIs: leading vs. lagging, ownership, targets, and
+  dashboards.'
+version: 1.0.0
+category: workflow
+tags:
+- kpi
+- metrics
+- analytics
+- strategy
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kpi-definition-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

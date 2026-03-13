@@ -1,0 +1,15 @@
+id: official/objection-handler
+name: objection-handler
+display_name: Objection Handler
+author: official
+description: 'Address sales objections: acknowledge, explore, reframe, and validate.'
+version: 1.0.0
+category: workflow
+tags:
+- sales
+- objections
+- communication
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/objection-handler/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

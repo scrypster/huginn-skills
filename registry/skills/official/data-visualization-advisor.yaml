@@ -1,0 +1,17 @@
+id: official/data-visualization-advisor
+name: data-visualization-advisor
+display_name: Data Visualization Advisor
+author: official
+description: Choose the right chart, eliminate chartjunk, and make data tell a clear
+  story.
+version: 1.0.0
+category: workflow
+tags:
+- data-viz
+- charts
+- analytics
+- communication
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-visualization-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

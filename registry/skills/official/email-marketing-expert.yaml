@@ -1,0 +1,17 @@
+id: official/email-marketing-expert
+name: email-marketing-expert
+display_name: Email Marketing Expert
+author: official
+description: 'Build email marketing programs: list hygiene, segmentation, automation,
+  and deliverability.'
+version: 1.0.0
+category: workflow
+tags:
+- email-marketing
+- automation
+- sequences
+- deliverability
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/email-marketing-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

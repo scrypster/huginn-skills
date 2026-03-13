@@ -1,0 +1,17 @@
+id: official/difficult-conversation-coach
+name: difficult-conversation-coach
+display_name: Difficult Conversation Coach
+author: official
+description: 'Navigate difficult conversations: prepare, open, stay curious, and resolve
+  constructively.'
+version: 1.0.0
+category: workflow
+tags:
+- communication
+- conflict
+- leadership
+- interpersonal
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/difficult-conversation-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

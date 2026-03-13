@@ -1,0 +1,16 @@
+id: official/interview-question-writer
+name: interview-question-writer
+display_name: Interview Question Writer
+author: official
+description: 'Write structured interview questions: behavioral, technical, and role-specific.'
+version: 1.0.0
+category: workflow
+tags:
+- hr
+- interviewing
+- hiring
+- questions
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/interview-question-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

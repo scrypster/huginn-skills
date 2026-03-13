@@ -1,0 +1,17 @@
+id: official/product-metrics-advisor
+name: product-metrics-advisor
+display_name: Product Metrics Advisor
+author: official
+description: 'Define product metrics: north star, input metrics, guardrails, and metric
+  trees.'
+version: 1.0.0
+category: workflow
+tags:
+- product
+- metrics
+- north-star
+- analytics
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-metrics-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

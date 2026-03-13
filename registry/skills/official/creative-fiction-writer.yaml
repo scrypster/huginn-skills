@@ -1,0 +1,17 @@
+id: official/creative-fiction-writer
+name: creative-fiction-writer
+display_name: Creative Fiction Writer
+author: official
+description: 'Write compelling fiction: scene-setting, dialogue, conflict, and character
+  voice.'
+version: 1.0.0
+category: workflow
+tags:
+- fiction
+- writing
+- storytelling
+- creative
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/creative-fiction-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

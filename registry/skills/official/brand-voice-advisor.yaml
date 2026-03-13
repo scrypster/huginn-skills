@@ -1,0 +1,17 @@
+id: official/brand-voice-advisor
+name: brand-voice-advisor
+display_name: Brand Voice Advisor
+author: official
+description: 'Define brand voice: personality attributes, tone by context, and voice
+  do/don''ts.'
+version: 1.0.0
+category: workflow
+tags:
+- brand
+- voice
+- tone
+- copywriting
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/brand-voice-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,16 @@
+id: official/json-yaml-expert
+name: json-yaml-expert
+display_name: JSON/YAML Expert
+author: official
+description: 'Validate and transform JSON/YAML: schema, jq queries, and common pitfalls.'
+version: 1.0.0
+category: language
+tags:
+- json
+- yaml
+- configuration
+- data-formats
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/json-yaml-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

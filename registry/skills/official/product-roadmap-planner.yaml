@@ -1,0 +1,17 @@
+id: official/product-roadmap-planner
+name: product-roadmap-planner
+display_name: Product Roadmap Planner
+author: official
+description: 'Build outcome-based product roadmaps: themes, OKRs, quarterly planning,
+  and communication.'
+version: 1.0.0
+category: workflow
+tags:
+- product
+- roadmap
+- planning
+- strategy
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-roadmap-planner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

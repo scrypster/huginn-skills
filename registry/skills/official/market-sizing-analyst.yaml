@@ -1,0 +1,16 @@
+id: official/market-sizing-analyst
+name: market-sizing-analyst
+display_name: Market Sizing Analyst
+author: official
+description: 'Size markets rigorously: TAM/SAM/SOM with bottom-up and top-down approaches.'
+version: 1.0.0
+category: workflow
+tags:
+- strategy
+- market-research
+- tam
+- analysis
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/market-sizing-analyst/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

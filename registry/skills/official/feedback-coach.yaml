@@ -1,0 +1,17 @@
+id: official/feedback-coach
+name: feedback-coach
+display_name: Feedback Coach
+author: official
+description: 'Give and receive feedback effectively: SBI model, psychological safety,
+  and timing.'
+version: 1.0.0
+category: workflow
+tags:
+- feedback
+- management
+- communication
+- leadership
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/feedback-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

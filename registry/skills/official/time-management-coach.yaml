@@ -1,0 +1,16 @@
+id: official/time-management-coach
+name: time-management-coach
+display_name: Time Management Coach
+author: official
+description: 'Apply time management systems: time blocking, deep work, energy management.'
+version: 1.0.0
+category: workflow
+tags:
+- productivity
+- time-management
+- focus
+- planning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/time-management-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,16 @@
+id: official/churn-prevention-advisor
+name: churn-prevention-advisor
+display_name: Churn Prevention Advisor
+author: official
+description: Identify at-risk customers and design interventions to prevent churn.
+version: 1.0.0
+category: workflow
+tags:
+- customer-success
+- retention
+- churn
+- saas
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/churn-prevention-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

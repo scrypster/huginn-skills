@@ -1,0 +1,17 @@
+id: official/product-requirements-writer
+name: product-requirements-writer
+display_name: Product Requirements Writer
+author: official
+description: 'Write clear product requirements documents: user stories, acceptance
+  criteria, and scope.'
+version: 1.0.0
+category: workflow
+tags:
+- product
+- prd
+- requirements
+- specifications
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-requirements-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

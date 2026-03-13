@@ -1,0 +1,17 @@
+id: official/performance-review-writer
+name: performance-review-writer
+display_name: Performance Review Writer
+author: official
+description: 'Write honest, growth-oriented performance reviews: strengths, areas,
+  and goals.'
+version: 1.0.0
+category: workflow
+tags:
+- hr
+- performance
+- feedback
+- management
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/performance-review-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

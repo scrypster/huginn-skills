@@ -1,0 +1,17 @@
+id: official/customer-onboarding-designer
+name: customer-onboarding-designer
+display_name: Customer Onboarding Designer
+author: official
+description: 'Design customer onboarding: time-to-value, milestones, checkpoints,
+  and success criteria.'
+version: 1.0.0
+category: workflow
+tags:
+- customer-success
+- onboarding
+- activation
+- saas
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/customer-onboarding-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

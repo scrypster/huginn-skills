@@ -1,0 +1,17 @@
+id: official/habit-designer
+name: habit-designer
+display_name: Habit Designer
+author: official
+description: 'Design lasting habits using Atomic Habits principles: cue, routine,
+  reward, and identity.'
+version: 1.0.0
+category: workflow
+tags:
+- habits
+- behavior-change
+- psychology
+- productivity
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/habit-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

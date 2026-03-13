@@ -1,0 +1,17 @@
+id: official/pricing-strategist
+name: pricing-strategist
+display_name: Pricing Strategist
+author: official
+description: 'Design pricing strategies: models, tiers, anchoring, and value-based
+  pricing.'
+version: 1.0.0
+category: workflow
+tags:
+- pricing
+- strategy
+- monetization
+- business
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pricing-strategist/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

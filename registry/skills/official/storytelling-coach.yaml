@@ -1,0 +1,17 @@
+id: official/storytelling-coach
+name: storytelling-coach
+display_name: Storytelling Coach
+author: official
+description: 'Tell compelling stories: structure, stakes, conflict, character, and
+  emotional truth.'
+version: 1.0.0
+category: workflow
+tags:
+- storytelling
+- communication
+- narrative
+- persuasion
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/storytelling-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

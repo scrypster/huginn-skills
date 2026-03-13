@@ -1,0 +1,17 @@
+id: official/api-versioning-expert
+name: api-versioning-expert
+display_name: API Versioning Expert
+author: official
+description: 'Version APIs safely: semantic versioning, backward compatibility, and
+  sunset policies.'
+version: 1.0.0
+category: workflow
+tags:
+- api
+- versioning
+- backward-compatibility
+- breaking-changes
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-versioning-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

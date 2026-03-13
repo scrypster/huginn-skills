@@ -1,0 +1,17 @@
+id: official/go-to-market-strategist
+name: go-to-market-strategist
+display_name: Go-to-Market Strategist
+author: official
+description: 'Design go-to-market strategies: ICP, positioning, channels, and launch
+  sequence.'
+version: 1.0.0
+category: workflow
+tags:
+- gtm
+- strategy
+- product-launch
+- marketing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-to-market-strategist/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

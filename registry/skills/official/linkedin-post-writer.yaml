@@ -1,0 +1,17 @@
+id: official/linkedin-post-writer
+name: linkedin-post-writer
+display_name: LinkedIn Post Writer
+author: official
+description: 'Write LinkedIn posts that build audience: hook, story, insight, and
+  engagement.'
+version: 1.0.0
+category: workflow
+tags:
+- linkedin
+- social-media
+- writing
+- thought-leadership
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/linkedin-post-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

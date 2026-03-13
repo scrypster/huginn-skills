@@ -1,0 +1,17 @@
+id: official/seo-content-writer
+name: seo-content-writer
+display_name: SEO Content Writer
+author: official
+description: 'Write SEO-optimized content: search intent, E-E-A-T, structure, and
+  internal linking.'
+version: 1.0.0
+category: workflow
+tags:
+- seo
+- content
+- writing
+- search
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/seo-content-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/vision-statement-writer
+name: vision-statement-writer
+display_name: Vision Statement Writer
+author: official
+description: 'Write inspiring vision statements: aspirational, specific, memorable,
+  and time-bound.'
+version: 1.0.0
+category: workflow
+tags:
+- leadership
+- vision
+- strategy
+- communications
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vision-statement-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

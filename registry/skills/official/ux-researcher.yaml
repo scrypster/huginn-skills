@@ -1,0 +1,17 @@
+id: official/ux-researcher
+name: ux-researcher
+display_name: UX Researcher
+author: official
+description: 'Plan and conduct UX research: interviews, usability tests, surveys,
+  and synthesis.'
+version: 1.0.0
+category: workflow
+tags:
+- ux
+- research
+- user-interviews
+- usability
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ux-researcher/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,16 @@
+id: official/email-writer
+name: email-writer
+display_name: Email Writer
+author: official
+description: 'Write clear, effective emails: subject lines, structure, and a single
+  ask.'
+version: 1.0.0
+category: workflow
+tags:
+- email
+- communication
+- writing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/email-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

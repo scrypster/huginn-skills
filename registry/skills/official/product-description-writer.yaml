@@ -1,0 +1,17 @@
+id: official/product-description-writer
+name: product-description-writer
+display_name: Product Description Writer
+author: official
+description: 'Write product descriptions that convert: features-to-benefits, sensory
+  detail, social proof.'
+version: 1.0.0
+category: workflow
+tags:
+- ecommerce
+- writing
+- copywriting
+- conversion
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-description-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

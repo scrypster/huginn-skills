@@ -1,0 +1,16 @@
+id: official/feature-prioritization-advisor
+name: feature-prioritization-advisor
+display_name: Feature Prioritization Advisor
+author: official
+description: Prioritize features using RICE, ICE, MoSCoW, and impact-vs-effort frameworks.
+version: 1.0.0
+category: workflow
+tags:
+- product
+- prioritization
+- roadmap
+- strategy
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/feature-prioritization-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

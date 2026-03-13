@@ -1,0 +1,16 @@
+id: official/support-response-writer
+name: support-response-writer
+display_name: Support Response Writer
+author: official
+description: 'Write support responses that resolve issues and restore trust: empathy,
+  clarity, action.'
+version: 1.0.0
+category: workflow
+tags:
+- customer-support
+- writing
+- communication
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/support-response-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

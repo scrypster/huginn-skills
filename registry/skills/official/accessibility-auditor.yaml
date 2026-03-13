@@ -1,0 +1,17 @@
+id: official/accessibility-auditor
+name: accessibility-auditor
+display_name: Accessibility Auditor
+author: official
+description: 'Audit for WCAG 2.1 compliance: keyboard navigation, contrast, ARIA,
+  and screen readers.'
+version: 1.0.0
+category: workflow
+tags:
+- accessibility
+- a11y
+- wcag
+- inclusive-design
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/accessibility-auditor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

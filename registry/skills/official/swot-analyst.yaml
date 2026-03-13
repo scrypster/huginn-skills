@@ -1,0 +1,17 @@
+id: official/swot-analyst
+name: swot-analyst
+display_name: SWOT Analyst
+author: official
+description: 'Run rigorous SWOT analyses: internal factors, external forces, and strategic
+  implications.'
+version: 1.0.0
+category: workflow
+tags:
+- strategy
+- swot
+- analysis
+- planning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/swot-analyst/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

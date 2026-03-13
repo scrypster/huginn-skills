@@ -1,0 +1,17 @@
+id: official/research-methodology-advisor
+name: research-methodology-advisor
+display_name: Research Methodology Advisor
+author: official
+description: 'Design research studies: qualitative vs. quantitative, sampling, bias,
+  and validity.'
+version: 1.0.0
+category: workflow
+tags:
+- research
+- methodology
+- academia
+- analysis
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/research-methodology-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

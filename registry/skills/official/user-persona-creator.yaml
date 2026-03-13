@@ -1,0 +1,17 @@
+id: official/user-persona-creator
+name: user-persona-creator
+display_name: User Persona Creator
+author: official
+description: 'Build research-based user personas: demographics, goals, pains, and
+  behavior patterns.'
+version: 1.0.0
+category: workflow
+tags:
+- ux
+- personas
+- research
+- product
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/user-persona-creator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

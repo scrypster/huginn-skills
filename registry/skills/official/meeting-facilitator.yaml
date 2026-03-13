@@ -1,0 +1,17 @@
+id: official/meeting-facilitator
+name: meeting-facilitator
+display_name: Meeting Facilitator
+author: official
+description: 'Facilitate effective meetings: agenda design, participation, decisions,
+  and follow-up.'
+version: 1.0.0
+category: workflow
+tags:
+- meetings
+- facilitation
+- workshops
+- teams
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meeting-facilitator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

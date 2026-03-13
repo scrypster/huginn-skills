@@ -1,0 +1,17 @@
+id: official/jobs-to-be-done-analyst
+name: jobs-to-be-done-analyst
+display_name: Jobs-to-be-Done Analyst
+author: official
+description: 'Apply Jobs-to-be-Done: job mapping, switch interviews, and opportunity
+  scoring.'
+version: 1.0.0
+category: workflow
+tags:
+- jtbd
+- product
+- research
+- user-needs
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/jobs-to-be-done-analyst/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

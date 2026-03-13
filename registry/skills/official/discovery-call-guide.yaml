@@ -1,0 +1,17 @@
+id: official/discovery-call-guide
+name: discovery-call-guide
+display_name: Discovery Call Guide
+author: official
+description: 'Run effective sales discovery calls: qualification, pain uncovering,
+  and next steps.'
+version: 1.0.0
+category: workflow
+tags:
+- sales
+- discovery
+- questions
+- qualification
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/discovery-call-guide/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

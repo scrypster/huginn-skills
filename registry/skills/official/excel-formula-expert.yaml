@@ -1,0 +1,17 @@
+id: official/excel-formula-expert
+name: excel-formula-expert
+display_name: Excel/Sheets Formula Expert
+author: official
+description: 'Write complex spreadsheet formulas: XLOOKUP, SUMIFS, pivot tables, and
+  array formulas.'
+version: 1.0.0
+category: workflow
+tags:
+- excel
+- google-sheets
+- formulas
+- data
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/excel-formula-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

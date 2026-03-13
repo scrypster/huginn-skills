@@ -1,0 +1,16 @@
+id: official/growth-hacker
+name: growth-hacker
+display_name: Growth Hacker
+author: official
+description: Design growth loops, referral programs, and activation experiments.
+version: 1.0.0
+category: workflow
+tags:
+- growth
+- acquisition
+- retention
+- viral
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/growth-hacker/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/quiz-creator
+name: quiz-creator
+display_name: Quiz Creator
+author: official
+description: Create quizzes with effective distractors, clear stems, and difficulty
+  calibration.
+version: 1.0.0
+category: workflow
+tags:
+- education
+- quiz
+- assessment
+- learning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/quiz-creator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

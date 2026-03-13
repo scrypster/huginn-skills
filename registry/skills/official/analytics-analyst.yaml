@@ -1,0 +1,17 @@
+id: official/analytics-analyst
+name: analytics-analyst
+display_name: Analytics Expert
+author: official
+description: 'Set up and interpret product and marketing analytics: events, funnels,
+  and attribution.'
+version: 1.0.0
+category: data
+tags:
+- analytics
+- ga4
+- mixpanel
+- data-driven
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/analytics-analyst/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

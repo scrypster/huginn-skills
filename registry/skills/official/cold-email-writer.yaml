@@ -1,0 +1,17 @@
+id: official/cold-email-writer
+name: cold-email-writer
+display_name: Cold Email Writer
+author: official
+description: 'Write cold emails that get replies: hyper-personalized, brief, and clear
+  ask.'
+version: 1.0.0
+category: workflow
+tags:
+- email
+- outreach
+- sales
+- writing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cold-email-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

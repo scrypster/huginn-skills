@@ -1,0 +1,17 @@
+id: official/creative-brief-writer
+name: creative-brief-writer
+display_name: Creative Brief Writer
+author: official
+description: 'Write creative briefs that inspire great work: objective, audience,
+  message, and constraints.'
+version: 1.0.0
+category: workflow
+tags:
+- creative
+- brief
+- marketing
+- design
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/creative-brief-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/leadership-coach
+name: leadership-coach
+display_name: Leadership Coach
+author: official
+description: 'Coach leaders through common challenges: delegation, giving feedback,
+  and building trust.'
+version: 1.0.0
+category: workflow
+tags:
+- leadership
+- coaching
+- management
+- development
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/leadership-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

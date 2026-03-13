@@ -1,0 +1,17 @@
+id: official/information-architect
+name: information-architect
+display_name: Information Architect
+author: official
+description: 'Design information architecture: site maps, navigation, taxonomy, and
+  wayfinding.'
+version: 1.0.0
+category: workflow
+tags:
+- ia
+- ux
+- navigation
+- content-structure
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/information-architect/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

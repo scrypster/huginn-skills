@@ -1,0 +1,17 @@
+id: official/twitter-thread-writer
+name: twitter-thread-writer
+display_name: Twitter Thread Writer
+author: official
+description: 'Write compelling Twitter/X threads: hook tweet, value chain, and strong
+  closer.'
+version: 1.0.0
+category: workflow
+tags:
+- twitter
+- social-media
+- writing
+- threads
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/twitter-thread-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'
