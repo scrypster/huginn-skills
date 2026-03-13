@@ -1,0 +1,17 @@
+id: official/terms-of-service-writer
+name: terms-of-service-writer
+display_name: Terms of Service Writer
+author: official
+description: Draft clear, enforceable Terms of Service for websites, apps, and SaaS
+  platforms.
+version: 1.0.0
+category: workflow
+tags:
+- terms-of-service
+- legal
+- tos
+- platform
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/terms-of-service-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

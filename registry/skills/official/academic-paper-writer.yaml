@@ -1,0 +1,17 @@
+id: official/academic-paper-writer
+name: academic-paper-writer
+display_name: Academic Paper Writer
+author: official
+description: Write rigorous academic papers with proper structure, citation, and scholarly
+  conventions.
+version: 1.0.0
+category: workflow
+tags:
+- academic-writing
+- research
+- paper
+- peer-review
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/academic-paper-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

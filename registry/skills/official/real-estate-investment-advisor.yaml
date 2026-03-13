@@ -1,0 +1,17 @@
+id: official/real-estate-investment-advisor
+name: real-estate-investment-advisor
+display_name: Real Estate Investment Advisor
+author: official
+description: Analyze real estate investments, evaluate deals, and understand property
+  investing strategies.
+version: 1.0.0
+category: workflow
+tags:
+- real-estate
+- investing
+- rental-property
+- rei
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/real-estate-investment-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

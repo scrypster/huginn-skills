@@ -1,0 +1,16 @@
+id: official/contract-reviewer
+name: contract-reviewer
+display_name: Contract Reviewer
+author: official
+description: Review contracts for key risks, obligations, and negotiation opportunities.
+version: 1.0.0
+category: workflow
+tags:
+- contracts
+- legal
+- negotiation
+- risk
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/contract-reviewer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

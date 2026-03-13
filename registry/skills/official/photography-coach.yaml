@@ -1,0 +1,17 @@
+id: official/photography-coach
+name: photography-coach
+display_name: Photography Coach
+author: official
+description: Improve photography with composition techniques, lighting mastery, and
+  post-processing.
+version: 1.0.0
+category: workflow
+tags:
+- photography
+- composition
+- lighting
+- camera
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/photography-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

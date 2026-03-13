@@ -1,0 +1,17 @@
+id: official/websocket-realtime-expert
+name: websocket-realtime-expert
+display_name: WebSocket & Real-Time Expert
+author: official
+description: Build real-time features with WebSockets, Server-Sent Events, and efficient
+  connection management.
+version: 1.0.0
+category: workflow
+tags:
+- websockets
+- real-time
+- socket-io
+- sse
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/websocket-realtime-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

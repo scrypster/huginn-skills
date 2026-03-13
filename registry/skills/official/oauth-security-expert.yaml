@@ -1,0 +1,17 @@
+id: official/oauth-security-expert
+name: oauth-security-expert
+display_name: OAuth & Authentication Expert
+author: official
+description: Implement secure authentication and authorization with OAuth2, OIDC,
+  and JWT.
+version: 1.0.0
+category: language
+tags:
+- oauth
+- authentication
+- jwt
+- oidc
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/oauth-security-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

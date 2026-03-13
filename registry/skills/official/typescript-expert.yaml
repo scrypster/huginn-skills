@@ -2,14 +2,15 @@ id: official/typescript-expert
 name: typescript-expert
 display_name: TypeScript Expert
 author: official
-description: 'Write strict TypeScript: utility types, generics, discriminated unions,
-  type guards.'
+description: Write expressive, safe TypeScript with advanced types, generics, and
+  type-level programming.
 version: 1.0.0
 category: language
 tags:
 - typescript
 - types
 - generics
+- type-safety
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/typescript-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/cloud-cost-optimization
+name: cloud-cost-optimization
+display_name: Cloud Cost Optimization Expert
+author: official
+description: Reduce cloud infrastructure costs through rightsizing, reserved capacity,
+  and architectural improvements.
+version: 1.0.0
+category: devops
+tags:
+- cloud-costs
+- finops
+- aws-cost
+- optimization
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cloud-cost-optimization/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

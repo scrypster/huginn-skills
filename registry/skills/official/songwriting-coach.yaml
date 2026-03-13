@@ -1,0 +1,17 @@
+id: official/songwriting-coach
+name: songwriting-coach
+display_name: Songwriting Coach
+author: official
+description: Write compelling songs with strong melodies, memorable lyrics, and emotional
+  impact.
+version: 1.0.0
+category: workflow
+tags:
+- songwriting
+- lyrics
+- music
+- composition
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/songwriting-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

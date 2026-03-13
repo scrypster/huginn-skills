@@ -1,0 +1,17 @@
+id: official/music-production-advisor
+name: music-production-advisor
+display_name: Music Producer / Beat Maker
+author: official
+description: Produce music with DAW techniques, arrangement, mixing, and mastering
+  fundamentals.
+version: 1.0.0
+category: workflow
+tags:
+- music-production
+- daw
+- mixing
+- beats
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/music-production-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

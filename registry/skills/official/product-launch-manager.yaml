@@ -1,0 +1,16 @@
+id: official/product-launch-manager
+name: product-launch-manager
+display_name: Product Launch Manager
+author: official
+description: Plan and execute successful product launches with cross-functional coordination.
+version: 1.0.0
+category: workflow
+tags:
+- product-launch
+- go-to-market
+- launch-planning
+- marketing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-launch-manager/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

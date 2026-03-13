@@ -1,0 +1,17 @@
+id: official/serverless-expert
+name: serverless-expert
+display_name: Serverless Architecture Expert
+author: official
+description: Design and optimize serverless architectures with AWS Lambda, Vercel,
+  and Cloudflare Workers.
+version: 1.0.0
+category: devops
+tags:
+- serverless
+- lambda
+- functions
+- faas
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/serverless-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

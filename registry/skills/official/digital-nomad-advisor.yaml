@@ -1,0 +1,17 @@
+id: official/digital-nomad-advisor
+name: digital-nomad-advisor
+display_name: Digital Nomad Advisor
+author: official
+description: Build a location-independent lifestyle with remote work, visas, and practical
+  nomad strategies.
+version: 1.0.0
+category: workflow
+tags:
+- digital-nomad
+- remote-work
+- travel
+- location-independence
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/digital-nomad-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

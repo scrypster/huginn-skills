@@ -1,0 +1,17 @@
+id: official/remote-team-manager
+name: remote-team-manager
+display_name: Remote Team Manager
+author: official
+description: Manage distributed remote teams effectively with async communication
+  and culture building.
+version: 1.0.0
+category: workflow
+tags:
+- remote-work
+- management
+- async
+- distributed-teams
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/remote-team-manager/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

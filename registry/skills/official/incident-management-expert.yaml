@@ -1,0 +1,17 @@
+id: official/incident-management-expert
+name: incident-management-expert
+display_name: Incident Management Expert
+author: official
+description: Manage production incidents effectively with structured response and
+  blameless postmortems.
+version: 1.0.0
+category: devops
+tags:
+- incident-management
+- on-call
+- postmortem
+- sre
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/incident-management-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

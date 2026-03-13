@@ -1,0 +1,17 @@
+id: official/operations-process-designer
+name: operations-process-designer
+display_name: Operations Process Designer
+author: official
+description: Design and document efficient business operations and standard operating
+  procedures.
+version: 1.0.0
+category: workflow
+tags:
+- operations
+- process-design
+- sop
+- efficiency
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/operations-process-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

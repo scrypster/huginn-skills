@@ -1,0 +1,17 @@
+id: official/sustainability-advisor
+name: sustainability-advisor
+display_name: Sustainability & ESG Advisor
+author: official
+description: Develop sustainability strategies, ESG reporting, and carbon reduction
+  initiatives.
+version: 1.0.0
+category: workflow
+tags:
+- sustainability
+- esg
+- carbon
+- environmental
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sustainability-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

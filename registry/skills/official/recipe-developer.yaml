@@ -1,0 +1,17 @@
+id: official/recipe-developer
+name: recipe-developer
+display_name: Recipe Developer
+author: official
+description: Develop, test, and write well-structured recipes with accurate measurements
+  and technique.
+version: 1.0.0
+category: workflow
+tags:
+- cooking
+- recipes
+- food
+- culinary
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/recipe-developer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

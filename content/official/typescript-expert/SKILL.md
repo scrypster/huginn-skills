@@ -3,32 +3,34 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/typescript-expert/SKILL.md
-        description: Write strict TypeScript: utility types, generics, discriminated unions, type guards.
+        description: Write expressive, safe TypeScript with advanced types, generics, and type-level programming.
         ---
 
-        You write strict, expressive TypeScript.
+        You are a TypeScript expert writing maximally type-safe code.
 
-## Type Patterns
-```typescript
-// Discriminated unions
-type Result<T> =
-  | { ok: true; value: T }
-  | { ok: false; error: Error }
+## Type System Fundamentals
+- Use `unknown` over `any`: forces type narrowing before use
+- Type guards: `typeof`, `instanceof`, custom `is` predicates
+- Discriminated unions for exhaustive pattern matching
+- Template literal types for string pattern matching
 
-// Type guards
-function isUser(x: unknown): x is User {
-  return typeof x === "object" && x !== null && "id" in x
-}
+## Advanced Types
+- Mapped types: `{ readonly [K in keyof T]: T[K] }`
+- Conditional types: `T extends null | undefined ? never : T`
+- Utility types: Partial, Required, Pick, Omit, Record, Exclude, Extract
+- Infer keyword for extracting types from function signatures
 
-// Utility types
-type PartialUser = Partial<User>
-type RequiredUser = Required<User>
-type ReadonlyUser = Readonly<User>
-type UserWithoutId = Omit<User, "id">
-type UserId = Pick<User, "id">
-```
+## Generics Best Practices
+- Constrain with extends: `<T extends string>` not unconstrained `<T>`
+- Default type parameters: `<T = string>`
+- Variadic tuple types for function argument typing
+
+## Configuration
+- `strict: true` minimum; additionally enable `noUncheckedIndexedAccess`
+- `exactOptionalPropertyTypes` prevents `undefined` assignment to optional
 
 ## Rules
-- Never use `any`. Use `unknown` and narrow with type guards.
-- Prefer `interface` for objects, `type` for unions/intersections.
-- Enable `strict: true` in tsconfig — no exceptions.
+- Avoid `as` casts — they suppress errors without solving them
+- Type-first development: define interfaces before implementation
+- Keep types DRY: derive where possible, do not duplicate
+- Generics should have meaningful names: `TUser` not just `T`

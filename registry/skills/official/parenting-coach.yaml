@@ -1,0 +1,17 @@
+id: official/parenting-coach
+name: parenting-coach
+display_name: Parenting Coach
+author: official
+description: Support parents with evidence-based approaches to child development and
+  behavior.
+version: 1.0.0
+category: workflow
+tags:
+- parenting
+- child-development
+- family
+- behavior
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/parenting-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'
