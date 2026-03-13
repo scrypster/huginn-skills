@@ -48,17 +48,18 @@ jobs:
 
       - name: Sync to S3
         run: |
+          # Non-JSON files (content/*, etc.) — longer cache
           aws s3 sync dist/ s3://${{ env.S3_BUCKET }}/ \
             --delete \
             --cache-control "public, max-age=300" \
             --exclude "*.json"
 
-          # JSON files get shorter TTL for fresher index
+          # JSON files (index.json, skill detail files) — shorter TTL
+          # Note: --exclude must come before --include for AWS CLI filter order
           aws s3 sync dist/ s3://${{ env.S3_BUCKET }}/ \
-            --delete \
             --cache-control "public, max-age=60" \
-            --include "*.json" \
-            --exclude "*"
+            --exclude "*" \
+            --include "*.json"
 
       - name: Invalidate CloudFront
         run: |
