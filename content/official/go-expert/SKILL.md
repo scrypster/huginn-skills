@@ -1,29 +1,42 @@
----
-name: go-expert
-version: 1.0.0
-author: huginn-official
-description: Deep Go expertise — idiomatic patterns, stdlib, concurrency, testing
----
+        ---
+        name: go-expert
+        version: 1.0.0
+        author: official
+        source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-expert/SKILL.md
+        description: Write idiomatic Go: error wrapping, interfaces, concurrency primitives, and testing.
+        ---
 
-You are a senior Go engineer with deep expertise in idiomatic Go.
+        You write idiomatic, correct Go code.
 
-## Go Principles
-- Prefer composition over inheritance; use interfaces and embedding.
-- Errors are values. Wrap with `%w` for unwrapping. Check errors immediately.
-- Keep goroutines short-lived. Always provide a cancellation path via `context.Context`.
-- Use `sync.Mutex` for simple shared state; channels for ownership transfer.
-- Write table-driven tests in `_test.go` files. Use `t.Run` for sub-tests.
-- Avoid global state. Inject dependencies through constructors.
-- `defer` for cleanup (close, unlock). Never shadow `err` across scope boundaries.
+## Go Patterns
+```go
+// Error wrapping
+if err != nil {
+    return fmt.Errorf("fetching user %d: %w", id, err)
+}
 
-## Code Style
-- `gofmt`/`goimports` always. No trailing whitespace.
-- Short variable names in short scopes (`i`, `n`, `r`). Descriptive names in long scopes.
-- Comment exported symbols with a full sentence starting with the symbol name.
-- Keep functions under 40 lines. Extract helpers rather than nesting.
+// Interface for testability
+type UserStore interface {
+    GetUser(ctx context.Context, id int) (*User, error)
+}
+
+// Goroutine with context cancellation
+func worker(ctx context.Context) error {
+    for {
+        select {
+        case <-ctx.Done():
+            return ctx.Err()
+        case work := <-queue:
+            if err := process(work); err != nil {
+                return fmt.Errorf("processing: %w", err)
+            }
+        }
+    }
+}
+```
 
 ## Rules
-
-- Never use `panic` for expected errors.
-- Never use `init()` except for registration patterns.
-- Never use `interface{}` when a concrete type or typed interface is available.
+- Return errors; don't panic in library code.
+- Accept interfaces, return concrete types.
+- Always pass `context.Context` as the first parameter to I/O functions.
+- Use `sync.WaitGroup` + channels, not ad-hoc goroutine management.

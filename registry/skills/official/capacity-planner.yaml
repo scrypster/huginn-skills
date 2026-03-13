@@ -1,0 +1,16 @@
+id: official/capacity-planner
+name: capacity-planner
+display_name: Capacity Planner
+author: official
+description: Plan sprint capacity accounting for velocity, leave, and overhead realistically.
+version: 1.0.0
+category: workflow
+tags:
+- planning
+- capacity
+- sprints
+- velocity
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/capacity-planner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

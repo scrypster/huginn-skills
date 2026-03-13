@@ -1,0 +1,21 @@
+id: official/debugging-toolkit
+name: debugging-toolkit
+display_name: Debugging Toolkit
+author: official
+description: Systematic debugging skills for every problem type.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/error-investigator
+- official/performance-profiler
+- official/memory-leak-hunter
+- official/race-condition-detector
+- official/network-debugger
+- official/database-query-debugger
+- official/log-analyzer
+- official/crash-analyzer
+- official/flaky-test-fixer
+- official/environment-debugger
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

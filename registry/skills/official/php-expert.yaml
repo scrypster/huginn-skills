@@ -1,0 +1,15 @@
+id: official/php-expert
+name: php-expert
+display_name: PHP Expert
+author: official
+description: 'Write modern PHP 8.2+: enums, fibers, attributes, and strict types.'
+version: 1.0.0
+category: language
+tags:
+- php
+- modern-php
+- composer
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/php-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

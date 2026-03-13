@@ -1,0 +1,21 @@
+id: official/data-platform-pack
+name: data-platform-pack
+display_name: Data Platform Pack
+author: official
+description: Complete data engineering and analytics skills.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/kafka-expert
+- official/airflow-expert
+- official/dbt-expert
+- official/duckdb-expert
+- official/bigquery-expert
+- official/data-pipeline-designer
+- official/sql-analytics-expert
+- official/pandas-expert
+- official/spark-expert
+- official/data-quality-framework
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

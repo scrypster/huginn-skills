@@ -1,0 +1,16 @@
+id: official/python-power-pack
+name: python-power-pack
+display_name: Python Power Pack
+author: official
+description: Complete Python development skills for modern Python 3.11+.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/python-expert
+- official/python-async-expert
+- official/python-packaging-expert
+- official/python-testing-expert
+- official/python-dataclass-expert
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

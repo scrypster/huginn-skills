@@ -1,0 +1,16 @@
+id: official/race-condition-detector
+name: race-condition-detector
+display_name: Race Condition Detector
+author: official
+description: Diagnose race conditions and concurrency bugs through systematic lock/ordering
+  analysis.
+version: 1.0.0
+category: debugging
+tags:
+- concurrency
+- race-conditions
+- threading
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/race-condition-detector/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

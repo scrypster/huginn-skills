@@ -1,0 +1,17 @@
+id: official/monitoring-designer
+name: monitoring-designer
+display_name: Monitoring Designer
+author: official
+description: 'Design observability stacks: the four golden signals, dashboards, and
+  alert thresholds.'
+version: 1.0.0
+category: devops
+tags:
+- monitoring
+- observability
+- metrics
+- alerts
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/monitoring-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

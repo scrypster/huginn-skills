@@ -1,0 +1,17 @@
+id: official/js-frameworks-pack
+name: js-frameworks-pack
+display_name: JavaScript Frameworks Pack
+author: official
+description: Modern JS/TS framework skills.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/nextjs-expert
+- official/nuxtjs-expert
+- official/angular-expert
+- official/svelte-expert
+- official/nestjs-expert
+- official/expressjs-expert
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

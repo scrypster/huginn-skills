@@ -1,0 +1,22 @@
+id: official/workflow-essentials
+name: workflow-essentials
+display_name: Workflow Essentials
+author: official
+description: Process and communication skills for engineering teams.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/task-planner
+- official/standup-writer
+- official/sprint-retrospective
+- official/meeting-notes
+- official/project-kickoff
+- official/weekly-review
+- official/okr-writer
+- official/status-update-writer
+- official/postmortem-writer
+- official/changelog-writer
+- official/rfc-writer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

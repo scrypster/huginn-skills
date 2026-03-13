@@ -1,0 +1,21 @@
+id: official/security-advanced-pack
+name: security-advanced-pack
+display_name: Security Advanced Pack
+author: official
+description: Deep security skills for APIs and infrastructure.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/owasp-auditor
+- official/jwt-expert
+- official/oauth-expert
+- official/rate-limiter-designer
+- official/cors-expert
+- official/csrf-protection-expert
+- official/tls-auditor
+- official/secrets-scanner
+- official/auth-reviewer
+- official/dependency-auditor
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

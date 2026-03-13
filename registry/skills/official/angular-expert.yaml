@@ -1,0 +1,17 @@
+id: official/angular-expert
+name: angular-expert
+display_name: Angular Expert
+author: official
+description: Build Angular applications with signals, standalone components, and RxJS
+  patterns.
+version: 1.0.0
+category: language
+tags:
+- angular
+- typescript
+- rxjs
+- components
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/angular-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

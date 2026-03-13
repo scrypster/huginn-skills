@@ -1,0 +1,16 @@
+id: official/llm-output-parser
+name: llm-output-parser
+display_name: LLM Output Parser
+author: official
+description: Build reliable LLM output parsers with schema validation and retry logic.
+version: 1.0.0
+category: ai
+tags:
+- llm
+- parsing
+- structured-output
+- json
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-output-parser/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

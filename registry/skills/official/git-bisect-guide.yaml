@@ -1,0 +1,16 @@
+id: official/git-bisect-guide
+name: git-bisect-guide
+display_name: Git Bisect Guide
+author: official
+description: Run systematic git bisect sessions to find the exact commit that introduced
+  a bug.
+version: 1.0.0
+category: git
+tags:
+- git
+- bisect
+- regression
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/git-bisect-guide/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

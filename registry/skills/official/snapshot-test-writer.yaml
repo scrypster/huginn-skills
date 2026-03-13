@@ -1,0 +1,16 @@
+id: official/snapshot-test-writer
+name: snapshot-test-writer
+display_name: Snapshot Test Writer
+author: official
+description: Write focused snapshot tests with meaningful assertions and easy update
+  paths.
+version: 1.0.0
+category: testing
+tags:
+- snapshot-tests
+- ui-testing
+- visual
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/snapshot-test-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

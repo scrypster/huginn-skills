@@ -1,0 +1,17 @@
+id: official/python-web-pack
+name: python-web-pack
+display_name: Python Web Pack
+author: official
+description: Full-stack Python web development skills.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/fastapi-expert
+- official/django-expert
+- official/django-rest-framework-expert
+- official/flask-expert
+- official/sqlalchemy-expert
+- official/celery-expert
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

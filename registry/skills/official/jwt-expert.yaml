@@ -1,0 +1,17 @@
+id: official/jwt-expert
+name: jwt-expert
+display_name: JWT Expert
+author: official
+description: 'Implement JWTs securely: algorithm choice, validation, expiry, and refresh
+  flows.'
+version: 1.0.0
+category: security
+tags:
+- jwt
+- tokens
+- authentication
+- security
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/jwt-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

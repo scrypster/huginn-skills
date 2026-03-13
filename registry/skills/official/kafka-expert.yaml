@@ -1,0 +1,16 @@
+id: official/kafka-expert
+name: kafka-expert
+display_name: Apache Kafka Expert
+author: official
+description: Design Kafka topics, consumer groups, schemas, and exactly-once semantics.
+version: 1.0.0
+category: data
+tags:
+- kafka
+- streaming
+- events
+- messaging
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kafka-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

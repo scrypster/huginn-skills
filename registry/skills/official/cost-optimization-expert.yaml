@@ -1,0 +1,16 @@
+id: official/cost-optimization-expert
+name: cost-optimization-expert
+display_name: Cloud Cost Optimizer
+author: official
+description: 'Identify and fix cloud cost waste: right-sizing, reserved instances,
+  and idle resources.'
+version: 1.0.0
+category: devops
+tags:
+- cost-optimization
+- cloud
+- finops
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cost-optimization-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

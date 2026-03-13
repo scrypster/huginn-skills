@@ -1,0 +1,15 @@
+id: official/sprint-retrospective
+name: sprint-retrospective
+display_name: Sprint Retrospective
+author: official
+description: Facilitate structured sprint retrospectives with actionable outcomes.
+version: 1.0.0
+category: workflow
+tags:
+- retrospective
+- agile
+- team
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sprint-retrospective/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

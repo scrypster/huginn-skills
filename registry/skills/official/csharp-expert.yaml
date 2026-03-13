@@ -1,0 +1,15 @@
+id: official/csharp-expert
+name: csharp-expert
+display_name: C# Expert
+author: official
+description: Write modern C# with records, pattern matching, LINQ, and async/await.
+version: 1.0.0
+category: language
+tags:
+- csharp
+- dotnet
+- aspnet
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/csharp-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

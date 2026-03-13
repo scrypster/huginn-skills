@@ -1,0 +1,16 @@
+id: official/test-pyramid-advisor
+name: test-pyramid-advisor
+display_name: Test Pyramid Advisor
+author: official
+description: Audit test suites against the pyramid and recommend rebalancing for speed
+  and coverage.
+version: 1.0.0
+category: testing
+tags:
+- testing-strategy
+- test-pyramid
+- architecture
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/test-pyramid-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

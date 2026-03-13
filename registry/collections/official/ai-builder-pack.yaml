@@ -1,0 +1,17 @@
+id: official/ai-builder-pack
+name: ai-builder-pack
+display_name: AI Builder Pack
+author: official
+description: Skills for building reliable LLM-powered features.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/prompt-engineer
+- official/rag-architect
+- official/llm-output-parser
+- official/ai-evaluation-designer
+- official/fine-tuning-guide
+- official/agent-designer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

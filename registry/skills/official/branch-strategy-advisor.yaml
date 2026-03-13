@@ -1,0 +1,16 @@
+id: official/branch-strategy-advisor
+name: branch-strategy-advisor
+display_name: Branch Strategy Advisor
+author: official
+description: 'Advise on branch strategies: trunk-based development, GitFlow, and feature
+  flags.'
+version: 1.0.0
+category: git
+tags:
+- branching
+- gitflow
+- trunk-based
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/branch-strategy-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

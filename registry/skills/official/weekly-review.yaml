@@ -1,0 +1,15 @@
+id: official/weekly-review
+name: weekly-review
+display_name: Weekly Review
+author: official
+description: Run a GTD-style weekly review to clear inboxes and set weekly priorities.
+version: 1.0.0
+category: workflow
+tags:
+- productivity
+- review
+- gtd
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/weekly-review/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

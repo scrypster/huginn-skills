@@ -1,0 +1,15 @@
+id: official/postmortem-writer
+name: postmortem-writer
+display_name: Postmortem Writer
+author: official
+description: 'Write blameless postmortems: timeline, root cause, impact, remediation.'
+version: 1.0.0
+category: workflow
+tags:
+- postmortem
+- incident
+- reliability
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/postmortem-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

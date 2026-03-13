@@ -1,0 +1,16 @@
+id: official/readme-writer
+name: readme-writer
+display_name: README Writer
+author: official
+description: 'Write clear, complete READMEs: install, quickstart, config reference,
+  and examples.'
+version: 1.0.0
+category: documentation
+tags:
+- documentation
+- readme
+- markdown
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/readme-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

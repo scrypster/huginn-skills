@@ -1,0 +1,15 @@
+id: official/commit-splitter
+name: commit-splitter
+display_name: Commit Splitter
+author: official
+description: Split large commits into focused, atomic commits using git add -p.
+version: 1.0.0
+category: git
+tags:
+- git
+- commits
+- history
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/commit-splitter/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

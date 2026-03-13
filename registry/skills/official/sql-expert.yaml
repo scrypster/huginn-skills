@@ -1,0 +1,15 @@
+id: official/sql-expert
+name: sql-expert
+display_name: SQL Expert
+author: official
+description: 'Write correct, efficient SQL: joins, CTEs, window functions, and indexes.'
+version: 1.0.0
+category: language
+tags:
+- sql
+- postgresql
+- query-optimization
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sql-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

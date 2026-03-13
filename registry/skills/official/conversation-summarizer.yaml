@@ -1,0 +1,16 @@
+id: official/conversation-summarizer
+name: conversation-summarizer
+display_name: Conversation Summarizer
+author: official
+description: Summarize long conversations, preserving decisions, context, and open
+  questions.
+version: 1.0.0
+category: meta
+tags:
+- meta
+- summarization
+- memory
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/conversation-summarizer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

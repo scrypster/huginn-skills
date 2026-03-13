@@ -1,0 +1,16 @@
+id: official/input-validator
+name: input-validator
+display_name: Input Validator
+author: official
+description: Design input validation schemas that block injection, XSS, and malformed
+  data.
+version: 1.0.0
+category: security
+tags:
+- security
+- validation
+- sanitization
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/input-validator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

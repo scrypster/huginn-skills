@@ -1,0 +1,15 @@
+id: official/python-dataclass-expert
+name: python-dataclass-expert
+display_name: Python Dataclass Expert
+author: official
+description: Design clean Python data models using dataclasses and Pydantic v2.
+version: 1.0.0
+category: language
+tags:
+- python
+- dataclasses
+- pydantic
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/python-dataclass-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

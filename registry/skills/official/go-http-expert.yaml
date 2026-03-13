@@ -1,0 +1,17 @@
+id: official/go-http-expert
+name: go-http-expert
+display_name: Go HTTP Expert
+author: official
+description: Build Go HTTP servers with correct middleware, routing, and graceful
+  shutdown.
+version: 1.0.0
+category: language
+tags:
+- go
+- http
+- rest
+- server
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-http-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

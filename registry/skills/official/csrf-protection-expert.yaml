@@ -1,0 +1,17 @@
+id: official/csrf-protection-expert
+name: csrf-protection-expert
+display_name: CSRF Protection Expert
+author: official
+description: 'Implement CSRF protection: synchronizer tokens, SameSite cookies, and
+  double submit.'
+version: 1.0.0
+category: security
+tags:
+- csrf
+- security
+- web
+- tokens
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/csrf-protection-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

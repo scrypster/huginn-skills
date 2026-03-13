@@ -1,0 +1,17 @@
+id: official/jsdoc-writer
+name: jsdoc-writer
+display_name: JSDoc Writer
+author: official
+description: Write complete JSDoc comments for public APIs with types, params, and
+  examples.
+version: 1.0.0
+category: documentation
+tags:
+- documentation
+- jsdoc
+- typescript
+- api
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/jsdoc-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

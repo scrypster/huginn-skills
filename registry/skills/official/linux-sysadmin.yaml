@@ -1,0 +1,16 @@
+id: official/linux-sysadmin
+name: linux-sysadmin
+display_name: Linux SysAdmin Expert
+author: official
+description: 'Diagnose Linux systems: CPU, memory, I/O, network, and process issues.'
+version: 1.0.0
+category: devops
+tags:
+- linux
+- sysadmin
+- performance
+- debugging
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/linux-sysadmin/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

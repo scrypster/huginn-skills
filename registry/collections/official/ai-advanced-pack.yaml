@@ -1,0 +1,20 @@
+id: official/ai-advanced-pack
+name: ai-advanced-pack
+display_name: AI Advanced Pack
+author: official
+description: Advanced AI engineering skills for production LLM systems.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/prompt-engineer
+- official/rag-architect
+- official/llm-output-parser
+- official/ai-evaluation-designer
+- official/langchain-expert
+- official/vector-database-expert
+- official/embeddings-expert
+- official/llm-safety-expert
+- official/agent-designer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

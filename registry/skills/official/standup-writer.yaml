@@ -1,0 +1,15 @@
+id: official/standup-writer
+name: standup-writer
+display_name: Standup Writer
+author: official
+description: Draft concise daily standups from raw notes, commits, or stream-of-consciousness.
+version: 1.0.0
+category: workflow
+tags:
+- standup
+- communication
+- async
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/standup-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

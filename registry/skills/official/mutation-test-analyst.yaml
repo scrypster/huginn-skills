@@ -1,0 +1,16 @@
+id: official/mutation-test-analyst
+name: mutation-test-analyst
+display_name: Mutation Test Analyst
+author: official
+description: Analyze mutation test results to identify weak assertions and improve
+  test quality.
+version: 1.0.0
+category: testing
+tags:
+- mutation-testing
+- coverage
+- quality
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mutation-test-analyst/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

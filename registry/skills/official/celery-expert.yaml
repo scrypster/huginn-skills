@@ -1,0 +1,17 @@
+id: official/celery-expert
+name: celery-expert
+display_name: Celery Expert
+author: official
+description: 'Build reliable Celery task queues: retries, chords, monitoring, and
+  error handling.'
+version: 1.0.0
+category: language
+tags:
+- python
+- celery
+- tasks
+- queues
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/celery-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

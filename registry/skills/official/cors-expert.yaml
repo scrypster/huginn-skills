@@ -1,0 +1,17 @@
+id: official/cors-expert
+name: cors-expert
+display_name: CORS Expert
+author: official
+description: 'Configure CORS correctly: origins, methods, credentials, and preflight
+  handling.'
+version: 1.0.0
+category: security
+tags:
+- cors
+- security
+- http
+- browser
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cors-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

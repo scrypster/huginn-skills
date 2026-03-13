@@ -1,0 +1,16 @@
+id: official/onboarding-guide-writer
+name: onboarding-guide-writer
+display_name: Onboarding Guide Writer
+author: official
+description: 'Write developer onboarding guides: setup, architecture, key workflows,
+  and norms.'
+version: 1.0.0
+category: documentation
+tags:
+- documentation
+- onboarding
+- developer-experience
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/onboarding-guide-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

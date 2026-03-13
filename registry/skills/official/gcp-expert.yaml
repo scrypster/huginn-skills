@@ -1,0 +1,16 @@
+id: official/gcp-expert
+name: gcp-expert
+display_name: GCP Expert
+author: official
+description: 'Design GCP architectures: Cloud Run, GKE, Pub/Sub, BigQuery, and IAM.'
+version: 1.0.0
+category: devops
+tags:
+- gcp
+- google-cloud
+- cloud
+- architecture
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/gcp-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

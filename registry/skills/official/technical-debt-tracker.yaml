@@ -1,0 +1,16 @@
+id: official/technical-debt-tracker
+name: technical-debt-tracker
+display_name: Technical Debt Tracker
+author: official
+description: Identify, categorize, and prioritize technical debt with business impact
+  framing.
+version: 1.0.0
+category: workflow
+tags:
+- technical-debt
+- refactoring
+- maintenance
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-debt-tracker/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

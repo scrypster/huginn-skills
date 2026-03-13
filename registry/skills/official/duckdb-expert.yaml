@@ -1,0 +1,17 @@
+id: official/duckdb-expert
+name: duckdb-expert
+display_name: DuckDB Expert
+author: official
+description: 'Use DuckDB for embedded analytics: SQL on files, Parquet, and Python
+  integration.'
+version: 1.0.0
+category: data
+tags:
+- duckdb
+- olap
+- analytics
+- python
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/duckdb-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

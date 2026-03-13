@@ -1,0 +1,16 @@
+id: official/user-story-writer
+name: user-story-writer
+display_name: User Story Writer
+author: official
+description: 'Write well-formed user stories: As a/I want/So that with testable acceptance
+  criteria.'
+version: 1.0.0
+category: workflow
+tags:
+- agile
+- user-stories
+- acceptance-criteria
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/user-story-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

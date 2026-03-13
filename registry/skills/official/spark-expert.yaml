@@ -1,0 +1,16 @@
+id: official/spark-expert
+name: spark-expert
+display_name: Apache Spark Expert
+author: official
+description: 'Write efficient PySpark jobs: partitioning, caching, and avoiding shuffles.'
+version: 1.0.0
+category: data
+tags:
+- spark
+- pyspark
+- big-data
+- distributed
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/spark-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

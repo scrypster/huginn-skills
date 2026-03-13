@@ -1,0 +1,16 @@
+id: official/crash-analyzer
+name: crash-analyzer
+display_name: Crash Analyzer
+author: official
+description: Analyze crash dumps, segfaults, and panics to identify root cause and
+  fix.
+version: 1.0.0
+category: debugging
+tags:
+- crashes
+- core-dump
+- segfault
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/crash-analyzer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

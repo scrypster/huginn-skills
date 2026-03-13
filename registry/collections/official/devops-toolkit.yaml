@@ -1,0 +1,19 @@
+id: official/devops-toolkit
+name: devops-toolkit
+display_name: DevOps Toolkit
+author: official
+description: Container, cloud, and infrastructure skills.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/docker-expert
+- official/kubernetes-expert
+- official/terraform-expert
+- official/ci-cd-designer
+- official/monitoring-designer
+- official/aws-architect
+- official/helm-chart-writer
+- official/ansible-expert
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

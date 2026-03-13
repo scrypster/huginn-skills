@@ -1,0 +1,16 @@
+id: official/pandas-expert
+name: pandas-expert
+display_name: Pandas Expert
+author: official
+description: 'Use pandas efficiently: vectorized operations, memory management, and
+  method chains.'
+version: 1.0.0
+category: data
+tags:
+- python
+- pandas
+- data-analysis
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pandas-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

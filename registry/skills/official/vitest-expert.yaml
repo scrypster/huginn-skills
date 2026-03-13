@@ -1,0 +1,16 @@
+id: official/vitest-expert
+name: vitest-expert
+display_name: Vitest Expert
+author: official
+description: 'Write Vitest tests: mocking, snapshot testing, and browser mode.'
+version: 1.0.0
+category: testing
+tags:
+- vitest
+- testing
+- javascript
+- vite
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vitest-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

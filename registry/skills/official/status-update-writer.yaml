@@ -1,0 +1,15 @@
+id: official/status-update-writer
+name: status-update-writer
+display_name: Status Update Writer
+author: official
+description: 'Write crisp executive status updates: RAG status, progress, risks, asks.'
+version: 1.0.0
+category: workflow
+tags:
+- communication
+- reporting
+- stakeholders
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/status-update-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

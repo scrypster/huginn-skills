@@ -1,0 +1,17 @@
+id: official/cassandra-expert
+name: cassandra-expert
+display_name: Cassandra Expert
+author: official
+description: 'Design Cassandra data models: partition keys, clustering, and query-first
+  design.'
+version: 1.0.0
+category: language
+tags:
+- cassandra
+- nosql
+- distributed
+- time-series
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cassandra-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

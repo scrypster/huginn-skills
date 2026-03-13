@@ -1,0 +1,17 @@
+id: official/sqlalchemy-expert
+name: sqlalchemy-expert
+display_name: SQLAlchemy Expert
+author: official
+description: Use SQLAlchemy 2.0 with async sessions, relationships, and efficient
+  query patterns.
+version: 1.0.0
+category: language
+tags:
+- python
+- sqlalchemy
+- orm
+- database
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sqlalchemy-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

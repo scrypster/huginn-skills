@@ -1,0 +1,17 @@
+id: official/security-toolkit
+name: security-toolkit
+display_name: Security Toolkit
+author: official
+description: Security review and hardening skills.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/owasp-auditor
+- official/secrets-scanner
+- official/auth-reviewer
+- official/input-validator
+- official/tls-auditor
+- official/dependency-auditor
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

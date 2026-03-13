@@ -1,0 +1,17 @@
+id: official/event-driven-architect
+name: event-driven-architect
+display_name: Event-Driven Architect
+author: official
+description: 'Design event-driven systems: event schemas, consumers, idempotency,
+  and ordering.'
+version: 1.0.0
+category: devops
+tags:
+- event-driven
+- kafka
+- messaging
+- architecture
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/event-driven-architect/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/python-packaging-expert
+name: python-packaging-expert
+display_name: Python Packaging Expert
+author: official
+description: Set up modern Python packages with pyproject.toml, uv, and publishing
+  best practices.
+version: 1.0.0
+category: language
+tags:
+- python
+- packaging
+- pyproject
+- pip
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/python-packaging-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

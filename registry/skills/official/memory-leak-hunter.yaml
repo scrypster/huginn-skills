@@ -1,0 +1,15 @@
+id: official/memory-leak-hunter
+name: memory-leak-hunter
+display_name: Memory Leak Hunter
+author: official
+description: Identify and fix memory leaks through heap analysis and lifecycle tracing.
+version: 1.0.0
+category: debugging
+tags:
+- memory
+- leaks
+- profiling
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/memory-leak-hunter/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

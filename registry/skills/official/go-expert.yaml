@@ -2,15 +2,15 @@ id: official/go-expert
 name: go-expert
 display_name: Go Expert
 author: official
-description: Deep Go expertise — idiomatic patterns, stdlib, concurrency, testing
-long_description: |
-  A senior Go engineer persona with deep expertise in idiomatic Go. Covers stdlib,
-  goroutines, channels, interfaces, error handling patterns, benchmarking, and testing.
-  Pushes back on non-idiomatic code and explains the Go way.
-version: "1.0.0"
+description: 'Write idiomatic Go: error wrapping, interfaces, concurrency primitives,
+  and testing.'
+version: 1.0.0
 category: language
-tags: [golang, go, language, concurrency, testing]
-license: MIT
+tags:
+- go
+- golang
+- idioms
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-expert/SKILL.md
-created_at: "2025-03-01"
-updated_at: "2025-03-01"
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

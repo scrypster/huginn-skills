@@ -1,0 +1,17 @@
+id: official/playwright-expert
+name: playwright-expert
+display_name: Playwright Expert
+author: official
+description: 'Write Playwright tests: page objects, parallel runs, traces, and API
+  testing.'
+version: 1.0.0
+category: testing
+tags:
+- playwright
+- e2e
+- testing
+- frontend
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/playwright-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

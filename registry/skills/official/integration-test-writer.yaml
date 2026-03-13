@@ -1,0 +1,15 @@
+id: official/integration-test-writer
+name: integration-test-writer
+display_name: Integration Test Writer
+author: official
+description: Write integration tests that validate real system interactions end-to-end.
+version: 1.0.0
+category: testing
+tags:
+- integration-tests
+- e2e
+- api-testing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/integration-test-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

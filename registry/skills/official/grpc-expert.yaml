@@ -1,0 +1,16 @@
+id: official/grpc-expert
+name: grpc-expert
+display_name: gRPC Expert
+author: official
+description: Design gRPC services with proto3 schemas, streaming, and error handling.
+version: 1.0.0
+category: language
+tags:
+- grpc
+- protobuf
+- microservices
+- api
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/grpc-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

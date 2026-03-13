@@ -1,0 +1,15 @@
+id: official/java-expert
+name: java-expert
+display_name: Java Expert
+author: official
+description: 'Write modern Java: records, sealed classes, pattern matching, and streams.'
+version: 1.0.0
+category: language
+tags:
+- java
+- spring
+- jvm
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/java-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

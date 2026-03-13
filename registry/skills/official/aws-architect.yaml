@@ -1,0 +1,16 @@
+id: official/aws-architect
+name: aws-architect
+display_name: AWS Architect
+author: official
+description: 'Design AWS architectures: compute, storage, networking, and cost optimization.'
+version: 1.0.0
+category: devops
+tags:
+- aws
+- cloud
+- architecture
+- serverless
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/aws-architect/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

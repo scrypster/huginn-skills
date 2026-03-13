@@ -1,0 +1,16 @@
+id: official/network-debugger
+name: network-debugger
+display_name: Network Debugger
+author: official
+description: 'Debug network issues: DNS, TLS, HTTP, latency, packet loss step by step.'
+version: 1.0.0
+category: debugging
+tags:
+- networking
+- http
+- dns
+- tcp
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/network-debugger/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

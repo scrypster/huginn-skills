@@ -1,0 +1,17 @@
+id: official/architecture-diagram-guide
+name: architecture-diagram-guide
+display_name: Architecture Diagram Guide
+author: official
+description: 'Create clear architecture diagrams with Mermaid: system context, component,
+  sequence.'
+version: 1.0.0
+category: documentation
+tags:
+- documentation
+- diagrams
+- architecture
+- mermaid
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/architecture-diagram-guide/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

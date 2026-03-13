@@ -1,0 +1,17 @@
+id: official/rust-web-expert
+name: rust-web-expert
+display_name: Rust Web Expert
+author: official
+description: 'Build Rust web services with Axum: extractors, layers, state, and error
+  types.'
+version: 1.0.0
+category: language
+tags:
+- rust
+- axum
+- web
+- rest-api
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rust-web-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

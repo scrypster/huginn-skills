@@ -1,0 +1,21 @@
+id: official/team-lead-pack
+name: team-lead-pack
+display_name: Team Lead Pack
+author: official
+description: Skills for engineering leads and managers.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/task-planner
+- official/capacity-planner
+- official/delegation-framework
+- official/technical-debt-tracker
+- official/incident-commander
+- official/postmortem-writer
+- official/okr-writer
+- official/rfc-writer
+- official/code-review-best-practices
+- official/onboarding-guide-writer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

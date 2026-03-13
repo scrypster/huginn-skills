@@ -1,0 +1,17 @@
+id: official/git-history-cleaner
+name: git-history-cleaner
+display_name: Git History Cleaner
+author: official
+description: 'Clean up messy commit history with interactive rebase: squash, fixup,
+  reword.'
+version: 1.0.0
+category: git
+tags:
+- git
+- rebase
+- history
+- interactive
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/git-history-cleaner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

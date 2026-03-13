@@ -1,0 +1,15 @@
+id: official/helm-chart-writer
+name: helm-chart-writer
+display_name: Helm Chart Writer
+author: official
+description: Write maintainable Helm charts with sane defaults and documented values.
+version: 1.0.0
+category: devops
+tags:
+- kubernetes
+- helm
+- helm-charts
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/helm-chart-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

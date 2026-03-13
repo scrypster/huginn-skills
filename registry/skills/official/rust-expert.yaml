@@ -1,0 +1,16 @@
+id: official/rust-expert
+name: rust-expert
+display_name: Rust Expert
+author: official
+description: 'Write idiomatic Rust: ownership, error handling with ?, and iterator
+  chains.'
+version: 1.0.0
+category: language
+tags:
+- rust
+- ownership
+- lifetimes
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rust-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

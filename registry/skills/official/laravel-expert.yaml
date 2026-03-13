@@ -1,0 +1,16 @@
+id: official/laravel-expert
+name: laravel-expert
+display_name: Laravel Expert
+author: official
+description: Build Laravel applications with Eloquent, queues, and proper service
+  architecture.
+version: 1.0.0
+category: language
+tags:
+- php
+- laravel
+- eloquent
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/laravel-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

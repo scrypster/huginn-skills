@@ -1,0 +1,16 @@
+id: official/nuxtjs-expert
+name: nuxtjs-expert
+display_name: Nuxt 3 Expert
+author: official
+description: Build Nuxt 3 apps with composables, server routes, and auto-imports.
+version: 1.0.0
+category: language
+tags:
+- nuxt
+- vue
+- ssr
+- composables
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nuxtjs-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

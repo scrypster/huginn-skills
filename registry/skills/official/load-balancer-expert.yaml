@@ -1,0 +1,17 @@
+id: official/load-balancer-expert
+name: load-balancer-expert
+display_name: Load Balancer Expert
+author: official
+description: 'Configure load balancers: algorithms, health checks, sticky sessions,
+  and SSL.'
+version: 1.0.0
+category: devops
+tags:
+- load-balancing
+- networking
+- aws-alb
+- nginx
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/load-balancer-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

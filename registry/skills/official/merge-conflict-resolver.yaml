@@ -1,0 +1,16 @@
+id: official/merge-conflict-resolver
+name: merge-conflict-resolver
+display_name: Merge Conflict Resolver
+author: official
+description: 'Resolve merge conflicts systematically: understand intent, preserve
+  both changes.'
+version: 1.0.0
+category: git
+tags:
+- merge-conflicts
+- rebase
+- git
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/merge-conflict-resolver/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

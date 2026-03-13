@@ -1,0 +1,18 @@
+id: official/documentation-pack
+name: documentation-pack
+display_name: Documentation Pack
+author: official
+description: Write docs that developers actually use.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/api-doc-writer
+- official/readme-writer
+- official/adr-writer
+- official/code-comment-writer
+- official/jsdoc-writer
+- official/openapi-writer
+- official/changelog-writer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

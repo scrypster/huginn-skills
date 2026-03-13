@@ -1,0 +1,17 @@
+id: official/go-database-expert
+name: go-database-expert
+display_name: Go Database Expert
+author: official
+description: 'Use database/sql and pgx correctly: connection pools, transactions,
+  and scanning.'
+version: 1.0.0
+category: language
+tags:
+- go
+- database
+- sql
+- pgx
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-database-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

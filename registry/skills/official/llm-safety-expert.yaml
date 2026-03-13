@@ -1,0 +1,17 @@
+id: official/llm-safety-expert
+name: llm-safety-expert
+display_name: LLM Safety Expert
+author: official
+description: 'Implement LLM safety guardrails: input filtering, output validation,
+  and moderation.'
+version: 1.0.0
+category: ai
+tags:
+- ai-safety
+- guardrails
+- llm
+- jailbreak
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-safety-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

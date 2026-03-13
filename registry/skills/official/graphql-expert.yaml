@@ -1,0 +1,17 @@
+id: official/graphql-expert
+name: graphql-expert
+display_name: GraphQL Expert
+author: official
+description: Design GraphQL schemas with proper types, mutations, subscriptions, and
+  N+1 fixes.
+version: 1.0.0
+category: language
+tags:
+- graphql
+- schema
+- resolvers
+- api
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/graphql-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

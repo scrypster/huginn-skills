@@ -1,0 +1,17 @@
+id: official/ai-evaluation-designer
+name: ai-evaluation-designer
+display_name: AI Evaluation Designer
+author: official
+description: 'Design LLM evaluation suites: golden datasets, metrics, and regression
+  tests.'
+version: 1.0.0
+category: ai
+tags:
+- ai
+- evaluation
+- evals
+- llm
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ai-evaluation-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

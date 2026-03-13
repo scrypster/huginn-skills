@@ -1,0 +1,19 @@
+id: official/architecture-pack
+name: architecture-pack
+display_name: Architecture Pack
+author: official
+description: System design and architecture patterns.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/microservices-architect
+- official/event-driven-architect
+- official/domain-driven-design
+- official/cqrs-expert
+- official/api-design-expert
+- official/graphql-expert
+- official/grpc-expert
+- official/webhook-designer
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

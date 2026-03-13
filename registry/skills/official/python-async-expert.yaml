@@ -1,0 +1,15 @@
+id: official/python-async-expert
+name: python-async-expert
+display_name: Python Async Expert
+author: official
+description: 'Write correct asyncio code: event loops, tasks, cancellation, timeouts.'
+version: 1.0.0
+category: language
+tags:
+- python
+- asyncio
+- async-await
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/python-async-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,16 @@
+id: official/ansible-expert
+name: ansible-expert
+display_name: Ansible Expert
+author: official
+description: Write idempotent Ansible playbooks with roles, handlers, and vault for
+  secrets.
+version: 1.0.0
+category: devops
+tags:
+- ansible
+- automation
+- configuration-management
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ansible-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

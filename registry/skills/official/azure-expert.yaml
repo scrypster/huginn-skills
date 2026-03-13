@@ -1,0 +1,17 @@
+id: official/azure-expert
+name: azure-expert
+display_name: Azure Expert
+author: official
+description: 'Design Azure architectures: AKS, App Service, SQL, and Azure DevOps
+  pipelines.'
+version: 1.0.0
+category: devops
+tags:
+- azure
+- microsoft
+- cloud
+- aks
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/azure-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

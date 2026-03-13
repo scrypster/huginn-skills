@@ -1,0 +1,16 @@
+id: official/kotlin-expert
+name: kotlin-expert
+display_name: Kotlin Expert
+author: official
+description: 'Write idiomatic Kotlin: data classes, coroutines, sealed classes, and
+  extensions.'
+version: 1.0.0
+category: language
+tags:
+- kotlin
+- jvm
+- coroutines
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kotlin-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

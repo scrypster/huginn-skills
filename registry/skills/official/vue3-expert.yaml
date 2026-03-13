@@ -1,0 +1,15 @@
+id: official/vue3-expert
+name: vue3-expert
+display_name: Vue 3 Expert
+author: official
+description: Build Vue 3 apps with Composition API, Pinia, and reactive patterns.
+version: 1.0.0
+category: language
+tags:
+- vue
+- composition-api
+- pinia
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vue3-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

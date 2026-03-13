@@ -1,0 +1,15 @@
+id: official/naming-conventions-guide
+name: naming-conventions-guide
+display_name: Naming Conventions Guide
+author: official
+description: 'Name variables, functions, and modules clearly: intent over abbreviation.'
+version: 1.0.0
+category: meta
+tags:
+- naming
+- readability
+- conventions
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/naming-conventions-guide/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

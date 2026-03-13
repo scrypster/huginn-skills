@@ -1,0 +1,16 @@
+id: official/postgresql-expert
+name: postgresql-expert
+display_name: PostgreSQL Expert
+author: official
+description: 'Tune PostgreSQL: indexes, VACUUM, connection pools, and configuration.'
+version: 1.0.0
+category: language
+tags:
+- postgresql
+- postgres
+- database
+- sql
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/postgresql-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,16 @@
+id: official/adr-writer
+name: adr-writer
+display_name: Architecture Decision Record Writer
+author: official
+description: Write concise ADRs that capture context, decision, and consequences.
+version: 1.0.0
+category: documentation
+tags:
+- documentation
+- adr
+- architecture
+- decisions
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/adr-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

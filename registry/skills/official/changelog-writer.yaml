@@ -1,0 +1,15 @@
+id: official/changelog-writer
+name: changelog-writer
+display_name: Changelog Writer
+author: official
+description: Generate user-facing changelogs from commits, PRs, or feature notes.
+version: 1.0.0
+category: workflow
+tags:
+- changelog
+- release-notes
+- communication
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/changelog-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

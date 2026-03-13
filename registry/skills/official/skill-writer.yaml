@@ -1,0 +1,16 @@
+id: official/skill-writer
+name: skill-writer
+display_name: Skill Writer
+author: official
+description: 'Write effective Huginn skills: clear persona, focused scope, and actionable
+  rules.'
+version: 1.0.0
+category: meta
+tags:
+- skills
+- huginn
+- meta
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/skill-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

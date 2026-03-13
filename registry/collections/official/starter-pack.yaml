@@ -1,0 +1,19 @@
+id: official/starter-pack
+name: starter-pack
+display_name: Starter Pack
+author: official
+description: Essential skills for any engineering workflow.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/task-planner
+- official/unit-test-writer
+- official/pr-description-writer
+- official/debug-assistant
+- official/code-reviewer
+- official/commit-writer
+- official/readme-writer
+- official/error-investigator
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

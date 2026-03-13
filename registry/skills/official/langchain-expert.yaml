@@ -1,0 +1,16 @@
+id: official/langchain-expert
+name: langchain-expert
+display_name: LangChain Expert
+author: official
+description: 'Build LangChain pipelines: chains, agents, memory, and LCEL patterns.'
+version: 1.0.0
+category: ai
+tags:
+- langchain
+- llm
+- chains
+- python
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/langchain-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

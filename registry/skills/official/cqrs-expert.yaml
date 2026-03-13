@@ -1,0 +1,16 @@
+id: official/cqrs-expert
+name: cqrs-expert
+display_name: CQRS Expert
+author: official
+description: 'Implement CQRS: separate read/write models, command handlers, and query
+  projections.'
+version: 1.0.0
+category: workflow
+tags:
+- cqrs
+- event-sourcing
+- architecture
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cqrs-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

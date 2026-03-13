@@ -1,0 +1,21 @@
+id: official/testing-toolkit
+name: testing-toolkit
+display_name: Testing Toolkit
+author: official
+description: Comprehensive testing skills from unit to load.
+version: 1.0.0
+license: MIT
+tags: []
+skills:
+- official/unit-test-writer
+- official/integration-test-writer
+- official/test-data-factory
+- official/api-test-writer
+- official/load-test-designer
+- official/snapshot-test-writer
+- official/flaky-test-fixer
+- official/contract-test-writer
+- official/mutation-test-analyst
+- official/test-pyramid-advisor
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

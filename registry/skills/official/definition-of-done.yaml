@@ -1,0 +1,16 @@
+id: official/definition-of-done
+name: definition-of-done
+display_name: Definition of Done
+author: official
+description: Create team-specific Definitions of Done that prevent scope creep and
+  ensure quality.
+version: 1.0.0
+category: workflow
+tags:
+- dod
+- agile
+- quality
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/definition-of-done/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

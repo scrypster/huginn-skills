@@ -1,0 +1,15 @@
+id: official/rust-async-expert
+name: rust-async-expert
+display_name: Rust Async Expert
+author: official
+description: 'Build async Rust services with Tokio: tasks, channels, and select!'
+version: 1.0.0
+category: language
+tags:
+- rust
+- tokio
+- async
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rust-async-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

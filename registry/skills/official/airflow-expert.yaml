@@ -1,0 +1,17 @@
+id: official/airflow-expert
+name: airflow-expert
+display_name: Apache Airflow Expert
+author: official
+description: 'Design Airflow DAGs: task dependencies, sensors, dynamic tasks, and
+  backfill.'
+version: 1.0.0
+category: data
+tags:
+- airflow
+- orchestration
+- etl
+- pipelines
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/airflow-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'
