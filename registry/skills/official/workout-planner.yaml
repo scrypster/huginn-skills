@@ -1,0 +1,18 @@
+id: official/workout-planner
+name: workout-planner
+display_name: Workout Planner
+author: official
+description: Design evidence-based workout programs tailored to goals, schedule, and
+  equipment.
+version: 1.0.0
+category: workflow
+tags:
+- fitness
+- exercise
+- training
+- strength
+- cardio
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/workout-planner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

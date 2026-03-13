@@ -1,0 +1,17 @@
+id: official/meditation-script-writer
+name: meditation-script-writer
+display_name: Meditation Script Writer
+author: official
+description: Write calming, effective guided meditation scripts for any style or duration.
+version: 1.0.0
+category: workflow
+tags:
+- meditation
+- mindfulness
+- guided
+- wellness
+- script
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meditation-script-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

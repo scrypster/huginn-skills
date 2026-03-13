@@ -1,0 +1,17 @@
+id: official/shell-script-writer
+name: shell-script-writer
+display_name: Shell Script Writer
+author: official
+description: Write reliable, portable shell scripts for automation and system administration.
+version: 1.0.0
+category: devops
+tags:
+- bash
+- shell
+- scripting
+- automation
+- linux
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/shell-script-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

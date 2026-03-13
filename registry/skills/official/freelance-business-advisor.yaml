@@ -1,0 +1,18 @@
+id: official/freelance-business-advisor
+name: freelance-business-advisor
+display_name: Freelance Business Advisor
+author: official
+description: Build a sustainable freelance business with pricing, clients, contracts,
+  and operations.
+version: 1.0.0
+category: workflow
+tags:
+- freelance
+- consulting
+- business
+- self-employed
+- contracts
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/freelance-business-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

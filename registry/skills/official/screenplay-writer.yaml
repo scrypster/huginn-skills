@@ -1,0 +1,18 @@
+id: official/screenplay-writer
+name: screenplay-writer
+display_name: Screenplay Writer
+author: official
+description: Write properly formatted screenplays with compelling scenes, dialogue,
+  and structure.
+version: 1.0.0
+category: workflow
+tags:
+- screenplay
+- film
+- script
+- storytelling
+- creative
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/screenplay-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

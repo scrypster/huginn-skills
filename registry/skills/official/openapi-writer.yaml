@@ -2,15 +2,15 @@ id: official/openapi-writer
 name: openapi-writer
 display_name: OpenAPI Spec Writer
 author: official
-description: Write complete OpenAPI 3.1 specifications with schemas, examples, and
-  error responses.
+description: Design clear, complete OpenAPI 3.x specifications for REST APIs.
 version: 1.0.0
 category: documentation
 tags:
-- documentation
 - openapi
 - swagger
-- api-spec
+- api
+- rest
+- documentation
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/openapi-writer/SKILL.md
 license: MIT
 created_at: '2026-03-13'

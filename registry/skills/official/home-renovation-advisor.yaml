@@ -1,0 +1,18 @@
+id: official/home-renovation-advisor
+name: home-renovation-advisor
+display_name: Home Renovation Advisor
+author: official
+description: Plan and manage home renovations from budget through contractor selection
+  to completion.
+version: 1.0.0
+category: workflow
+tags:
+- home
+- renovation
+- diy
+- contractors
+- remodeling
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/home-renovation-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

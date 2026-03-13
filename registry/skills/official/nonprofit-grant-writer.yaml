@@ -1,0 +1,18 @@
+id: official/nonprofit-grant-writer
+name: nonprofit-grant-writer
+display_name: Nonprofit Grant Writer
+author: official
+description: Write compelling nonprofit grant proposals that align with funder priorities
+  and win awards.
+version: 1.0.0
+category: workflow
+tags:
+- nonprofit
+- grant
+- fundraising
+- foundation
+- proposal
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nonprofit-grant-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

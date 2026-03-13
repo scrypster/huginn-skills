@@ -1,0 +1,18 @@
+id: official/risk-assessment-advisor
+name: risk-assessment-advisor
+display_name: Risk Assessment Advisor
+author: official
+description: Identify, quantify, and prioritize risks across business, technical,
+  and operational domains.
+version: 1.0.0
+category: workflow
+tags:
+- risk
+- assessment
+- business
+- strategy
+- compliance
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/risk-assessment-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

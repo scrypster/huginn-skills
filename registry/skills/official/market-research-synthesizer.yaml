@@ -1,0 +1,17 @@
+id: official/market-research-synthesizer
+name: market-research-synthesizer
+display_name: Market Research Synthesizer
+author: official
+description: Synthesize market research data into clear insights and actionable recommendations.
+version: 1.0.0
+category: workflow
+tags:
+- market-research
+- analysis
+- synthesis
+- strategy
+- business
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/market-research-synthesizer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

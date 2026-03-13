@@ -1,0 +1,18 @@
+id: official/lab-results-explainer
+name: lab-results-explainer
+display_name: Lab Results Explainer
+author: official
+description: Explain medical lab results in plain language to help patients understand
+  their health data.
+version: 1.0.0
+category: workflow
+tags:
+- health
+- lab-results
+- medical
+- blood-work
+- wellness
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/lab-results-explainer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

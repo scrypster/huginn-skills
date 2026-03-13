@@ -1,0 +1,18 @@
+id: official/reference-letter-writer
+name: reference-letter-writer
+display_name: Reference Letter Writer
+author: official
+description: Write compelling reference letters that stand out with specific, credible
+  evidence.
+version: 1.0.0
+category: workflow
+tags:
+- reference
+- recommendation
+- letter
+- career
+- academic
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/reference-letter-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

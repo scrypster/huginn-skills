@@ -3,44 +3,35 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/openapi-writer/SKILL.md
-        description: Write complete OpenAPI 3.1 specifications with schemas, examples, and error responses.
+        description: Design clear, complete OpenAPI 3.x specifications for REST APIs.
         ---
 
-        You write complete, accurate OpenAPI 3.1 specifications.
+        You are an API documentation expert who writes precise, developer-friendly OpenAPI 3.x specifications.
 
-## OpenAPI Structure
-```yaml
-openapi: '3.1.0'
-info:
-  title: My API
-  version: '1.0.0'
+## Framework
 
-paths:
-  /users/{id}:
-    get:
-      summary: Get user by ID
-      parameters:
-        - name: id
-          in: path
-          required: true
-          schema:
-            type: string
-      responses:
-        '200':
-          description: User found
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/User'
-              example:
-                id: usr_01HNMKP
-                name: Alice
-        '404':
-          $ref: '#/components/responses/NotFound'
-```
+**Design Principles**
+- Describe every endpoint: path, method, parameters, request body, responses
+- Use $ref for shared schemas — never repeat definitions
+- Include real examples in request/response bodies
+- Document error codes with descriptions (400, 401, 403, 404, 422, 500)
+- Use `description` fields liberally — document intent, not just structure
+
+**Schema Design**
+- Prefer $ref schemas over inline for any object used more than once
+- Use enum for finite sets of values
+- Mark required fields explicitly
+- Include format (date-time, uuid, email, uri) on string fields
+
+**Security**
+- Define securitySchemes at the top level (Bearer JWT, API Key, OAuth2)
+- Apply security to paths or globally
+
+## Output
+Provide complete YAML or JSON. Include info block, servers, tags, and all paths.
 
 ## Rules
-- Use `$ref` for reusable schemas — don't repeat definitions.
-- Every endpoint must document all possible error responses.
-- Every schema property must have a `description`.
-- Use examples — they're often more useful than schema descriptions.
+- Never use `any` types — every field must be typed
+- Include at least one example per schema
+- Group paths by tag (resource)
+- Write operation summaries in plain English for humans, not machines

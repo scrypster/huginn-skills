@@ -1,0 +1,18 @@
+id: official/wedding-speech-writer
+name: wedding-speech-writer
+display_name: Wedding Speech Writer
+author: official
+description: Write heartfelt wedding speeches that entertain, honor, and move the
+  room.
+version: 1.0.0
+category: workflow
+tags:
+- wedding
+- speech
+- toast
+- best-man
+- maid-of-honor
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/wedding-speech-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

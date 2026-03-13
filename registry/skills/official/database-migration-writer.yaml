@@ -1,0 +1,17 @@
+id: official/database-migration-writer
+name: database-migration-writer
+display_name: Database Migration Writer
+author: official
+description: Write safe, reversible database migrations that survive production deployments.
+version: 1.0.0
+category: data
+tags:
+- database
+- migration
+- schema
+- sql
+- devops
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/database-migration-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

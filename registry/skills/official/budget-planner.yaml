@@ -1,0 +1,18 @@
+id: official/budget-planner
+name: budget-planner
+display_name: Budget Planner
+author: official
+description: Build realistic budgets that align spending with goals for individuals
+  and businesses.
+version: 1.0.0
+category: workflow
+tags:
+- budget
+- finance
+- planning
+- personal-finance
+- business
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/budget-planner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

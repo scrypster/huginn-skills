@@ -2,15 +2,16 @@ id: official/white-paper-writer
 name: white-paper-writer
 display_name: White Paper Writer
 author: official
-description: 'Write white papers that establish authority: research-backed, structured,
-  actionable.'
+description: Write authoritative white papers that establish credibility and drive
+  business decisions.
 version: 1.0.0
 category: documentation
 tags:
-- writing
 - white-paper
 - thought-leadership
 - research
+- b2b
+- business
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/white-paper-writer/SKILL.md
 license: MIT
 created_at: '2026-03-13'

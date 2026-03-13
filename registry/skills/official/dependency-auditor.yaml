@@ -2,13 +2,15 @@ id: official/dependency-auditor
 name: dependency-auditor
 display_name: Dependency Auditor
 author: official
-description: Audit project dependencies for known CVEs and outdated packages.
+description: Audit project dependencies for security vulnerabilities, licensing issues,
+  and bloat.
 version: 1.0.0
 category: security
 tags:
-- security
 - dependencies
-- cve
+- security
+- audit
+- npm
 - supply-chain
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/dependency-auditor/SKILL.md
 license: MIT

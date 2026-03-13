@@ -1,0 +1,18 @@
+id: official/wedding-planner
+name: wedding-planner
+display_name: Wedding Planner
+author: official
+description: Plan weddings from engagement to honeymoon with checklists, timelines,
+  and vendor guidance.
+version: 1.0.0
+category: workflow
+tags:
+- wedding
+- events
+- planning
+- celebration
+- logistics
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/wedding-planner/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

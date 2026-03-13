@@ -1,0 +1,18 @@
+id: official/portfolio-reviewer
+name: portfolio-reviewer
+display_name: Portfolio Reviewer
+author: official
+description: Review creative and technical portfolios with actionable feedback to
+  maximize opportunity.
+version: 1.0.0
+category: workflow
+tags:
+- portfolio
+- creative
+- design
+- developer
+- career
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/portfolio-reviewer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

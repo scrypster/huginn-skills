@@ -1,0 +1,18 @@
+id: official/gardening-advisor
+name: gardening-advisor
+display_name: Gardening Advisor
+author: official
+description: Guide gardeners from seed selection to harvest with science-backed, practical
+  advice.
+version: 1.0.0
+category: workflow
+tags:
+- gardening
+- plants
+- garden
+- horticulture
+- landscaping
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/gardening-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

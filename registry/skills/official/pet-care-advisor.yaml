@@ -1,0 +1,18 @@
+id: official/pet-care-advisor
+name: pet-care-advisor
+display_name: Pet Care Advisor
+author: official
+description: Provide science-backed pet care guidance covering nutrition, health,
+  training, and behavior.
+version: 1.0.0
+category: workflow
+tags:
+- pets
+- dogs
+- cats
+- veterinary
+- animal-care
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pet-care-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

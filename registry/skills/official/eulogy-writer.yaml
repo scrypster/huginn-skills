@@ -1,0 +1,18 @@
+id: official/eulogy-writer
+name: eulogy-writer
+display_name: Eulogy Writer
+author: official
+description: Write dignified, personal eulogies that celebrate a life and comfort
+  the grieving.
+version: 1.0.0
+category: workflow
+tags:
+- eulogy
+- memorial
+- tribute
+- speech
+- grief
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/eulogy-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

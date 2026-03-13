@@ -1,0 +1,18 @@
+id: official/systematic-review-advisor
+name: systematic-review-advisor
+display_name: Systematic Review Advisor
+author: official
+description: Design and conduct systematic literature reviews to synthesize research
+  evidence.
+version: 1.0.0
+category: workflow
+tags:
+- research
+- literature
+- systematic-review
+- academic
+- evidence
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/systematic-review-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

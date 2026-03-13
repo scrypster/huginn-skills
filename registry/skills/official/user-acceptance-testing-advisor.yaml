@@ -1,0 +1,18 @@
+id: official/user-acceptance-testing-advisor
+name: user-acceptance-testing-advisor
+display_name: User Acceptance Testing Advisor
+author: official
+description: Design UAT plans that validate business requirements before production
+  launch.
+version: 1.0.0
+category: testing
+tags:
+- uat
+- acceptance-testing
+- qa
+- testing
+- requirements
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/user-acceptance-testing-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

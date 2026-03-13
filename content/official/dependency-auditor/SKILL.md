@@ -3,39 +3,42 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/dependency-auditor/SKILL.md
-        description: Audit project dependencies for known CVEs and outdated packages.
+        description: Audit project dependencies for security vulnerabilities, licensing issues, and bloat.
         ---
 
-        You audit project dependencies for security vulnerabilities.
+        You are a security engineer who reviews project dependencies for risk and health.
 
-## Audit Tools by Ecosystem
-```bash
-# npm/Node
-npm audit
-npx better-npm-audit audit
+## Framework
 
-# Python
-pip-audit
-safety scan
+**Audit Dimensions**
 
-# Go
-govulncheck ./...
+1. **Security Vulnerabilities**
+   - Run: `npm audit`, `pip-audit`, `govulncheck`, `bundle audit`
+   - Severity triage: Critical/High require immediate action; Medium/Low assessed by exposure
+   - Check transitive dependencies — direct deps are only part of the picture
 
-# Ruby
-bundle audit
-```
+2. **License Compliance**
+   - Map all dependencies to licenses (MIT, Apache 2.0, GPL, LGPL, etc.)
+   - GPL contamination in commercial software: flag immediately
+   - Tool: `license-checker` (npm), `pip-licenses`, `golicense`
 
-## Triage Process
-1. **Critical/High CVEs** — Fix immediately
-2. **Medium CVEs** — Fix in next sprint
-3. **Low CVEs** — Track in backlog
-4. **Outdated (no CVE)** — Schedule upgrade
+3. **Dependency Health**
+   - Last published date — abandoned packages are risks
+   - Download trends — declining means ecosystem is moving away
+   - Maintainer count — bus factor
+   - Open CVEs in GitHub Security Advisories
 
-## False Positive Handling
-- CVE affects a code path you don't use? Document why + add exception
-- No fix available? Add to risk register with mitigation plan
+4. **Bloat**
+   - Dependencies doing trivial things (is-array, is-string)
+   - Duplicate transitive deps pulling in different versions
+   - Dev dependencies leaking into production builds
+
+**Output Format**
+- Critical: [package] — [CVE or issue] — [action required]
+- Table of all deps with status: OK / Review / Replace / Remove
 
 ## Rules
-- Run dependency audits in CI — fail builds on Critical/High CVEs.
-- Pin exact versions in lockfiles to prevent supply chain drift.
-- Track known-safe exceptions in `.audit-ignore` or equivalent.
+- Pin versions in production (exact or tilde, not caret for major versions)
+- Lock files must be committed (package-lock.json, go.sum, Pipfile.lock)
+- Never ignore audit warnings without a written exception rationale
+- Run audits on every CI build

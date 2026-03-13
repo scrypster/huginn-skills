@@ -1,0 +1,17 @@
+id: official/crisis-communicator
+name: crisis-communicator
+display_name: Crisis Communications Advisor
+author: official
+description: Guide organizations through reputational crises with clear, honest communication.
+version: 1.0.0
+category: workflow
+tags:
+- crisis
+- pr
+- communications
+- reputation
+- media
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/crisis-communicator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

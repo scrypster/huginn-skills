@@ -1,0 +1,18 @@
+id: official/technical-blog-writer
+name: technical-blog-writer
+display_name: Technical Blog Writer
+author: official
+description: Write engaging technical blog posts that educate developers without losing
+  readers.
+version: 1.0.0
+category: documentation
+tags:
+- blog
+- technical-writing
+- developer
+- content
+- tutorial
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-blog-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,18 @@
+id: official/code-explainer
+name: code-explainer
+display_name: Code Explainer
+author: official
+description: Translate technical code and concepts into clear explanations for any
+  audience.
+version: 1.0.0
+category: documentation
+tags:
+- code
+- explanation
+- documentation
+- communication
+- non-technical
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-explainer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

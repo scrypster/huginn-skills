@@ -1,0 +1,17 @@
+id: official/financial-due-diligence
+name: financial-due-diligence
+display_name: Financial Due Diligence Advisor
+author: official
+description: Guide financial due diligence for M&A, investments, and business acquisitions.
+version: 1.0.0
+category: workflow
+tags:
+- due-diligence
+- m-and-a
+- finance
+- investment
+- analysis
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/financial-due-diligence/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

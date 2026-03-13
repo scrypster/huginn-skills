@@ -1,0 +1,18 @@
+id: official/code-migration-advisor
+name: code-migration-advisor
+display_name: Code Migration Advisor
+author: official
+description: Plan safe, incremental migrations between frameworks, languages, or major
+  versions.
+version: 1.0.0
+category: workflow
+tags:
+- migration
+- refactoring
+- upgrade
+- framework
+- modernization
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-migration-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

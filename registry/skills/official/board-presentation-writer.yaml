@@ -1,0 +1,18 @@
+id: official/board-presentation-writer
+name: board-presentation-writer
+display_name: Board Presentation Writer
+author: official
+description: Write board decks that inform decisions, surface risks, and build director
+  confidence.
+version: 1.0.0
+category: workflow
+tags:
+- board
+- presentation
+- investor
+- governance
+- executive
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/board-presentation-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'
