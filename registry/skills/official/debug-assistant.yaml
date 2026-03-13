@@ -1,7 +1,7 @@
 id: official/debug-assistant
 name: debug-assistant
 display_name: Debug Assistant
-author: official
+author: community
 description: Root-cause-first debugging — reproduce → trace → hypothesis → minimal fix
 long_description: |
   Systematic debugger that never guesses. Follows a strict reproduce → trace → hypothesis →

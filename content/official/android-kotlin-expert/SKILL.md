@@ -1,7 +1,7 @@
         ---
         name: android-kotlin-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/android-kotlin-expert/SKILL.md
         description: Expert Android development with Kotlin — Jetpack Compose, Coroutines, and Material Design.
         ---

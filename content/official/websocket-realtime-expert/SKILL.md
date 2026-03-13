@@ -1,7 +1,7 @@
         ---
         name: websocket-realtime-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/websocket-realtime-expert/SKILL.md
         description: Build real-time features with WebSockets, Server-Sent Events, and efficient connection management.
         ---

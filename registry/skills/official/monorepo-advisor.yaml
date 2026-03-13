@@ -1,7 +1,7 @@
 id: official/monorepo-advisor
 name: monorepo-advisor
 display_name: Monorepo Advisor
-author: official
+author: community
 description: Design and optimize monorepos for multi-package TypeScript/JS projects.
 version: 1.0.0
 category: devops

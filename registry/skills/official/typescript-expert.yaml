@@ -1,7 +1,7 @@
 id: official/typescript-expert
 name: typescript-expert
 display_name: TypeScript Expert
-author: official
+author: community
 description: Write expressive, safe TypeScript with advanced types, generics, and
   type-level programming.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/dependency-auditor
 name: dependency-auditor
 display_name: Dependency Auditor
-author: official
+author: community
 description: Audit project dependencies for security vulnerabilities, licensing issues,
   and bloat.
 version: 1.0.0

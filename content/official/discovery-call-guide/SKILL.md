@@ -1,7 +1,7 @@
         ---
         name: discovery-call-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/discovery-call-guide/SKILL.md
         description: Run effective sales discovery calls: qualification, pain uncovering, and next steps.
         ---

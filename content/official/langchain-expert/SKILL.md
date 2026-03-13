@@ -1,7 +1,7 @@
         ---
         name: langchain-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/langchain-expert/SKILL.md
         description: Build LangChain pipelines: chains, agents, memory, and LCEL patterns.
         ---

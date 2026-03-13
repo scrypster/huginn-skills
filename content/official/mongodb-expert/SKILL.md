@@ -1,7 +1,7 @@
         ---
         name: mongodb-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mongodb-expert/SKILL.md
         description: Design document schemas, write aggregation pipelines, and operate MongoDB in production.
         ---

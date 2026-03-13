@@ -1,7 +1,7 @@
         ---
         name: angular-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/angular-expert/SKILL.md
         description: Build enterprise-scale SPAs with Angular, RxJS, and strong typing.
         ---

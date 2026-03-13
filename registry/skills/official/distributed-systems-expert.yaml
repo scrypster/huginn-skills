@@ -1,7 +1,7 @@
 id: official/distributed-systems-expert
 name: distributed-systems-expert
 display_name: Distributed Systems Expert
-author: official
+author: community
 description: Design and reason about distributed systems including consensus, replication,
   and fault tolerance.
 version: 1.0.0

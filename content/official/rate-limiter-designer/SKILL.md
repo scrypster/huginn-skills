@@ -1,7 +1,7 @@
         ---
         name: rate-limiter-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rate-limiter-designer/SKILL.md
         description: Design rate limiting strategies: token bucket, sliding window, and per-user limits.
         ---

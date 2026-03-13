@@ -1,7 +1,7 @@
         ---
         name: rust-web-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rust-web-expert/SKILL.md
         description: Build Rust web services with Axum: extractors, layers, state, and error types.
         ---

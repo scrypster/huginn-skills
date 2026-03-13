@@ -1,7 +1,7 @@
         ---
         name: technical-debt-tracker
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-debt-tracker/SKILL.md
         description: Identify, categorize, and prioritize technical debt with business impact framing.
         ---

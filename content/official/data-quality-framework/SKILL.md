@@ -1,7 +1,7 @@
         ---
         name: data-quality-framework
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-quality-framework/SKILL.md
         description: Design data quality checks: schema, completeness, consistency, and freshness.
         ---

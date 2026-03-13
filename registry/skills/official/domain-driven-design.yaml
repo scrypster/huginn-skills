@@ -1,7 +1,7 @@
 id: official/domain-driven-design
 name: domain-driven-design
 display_name: DDD Expert
-author: official
+author: community
 description: 'Apply DDD concepts: aggregates, entities, value objects, and bounded
   contexts.'
 version: 1.0.0

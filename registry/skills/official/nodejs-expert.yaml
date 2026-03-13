@@ -1,7 +1,7 @@
 id: official/nodejs-expert
 name: nodejs-expert
 display_name: Node.js Expert
-author: official
+author: community
 description: Build Node.js servers with proper error handling, streaming, and backpressure.
 version: 1.0.0
 category: language

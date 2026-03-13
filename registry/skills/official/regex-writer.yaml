@@ -1,7 +1,7 @@
 id: official/regex-writer
 name: regex-writer
 display_name: Regular Expression Writer
-author: official
+author: community
 description: Write, explain, and debug regular expressions for any language or use
   case.
 version: 1.0.0

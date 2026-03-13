@@ -1,7 +1,7 @@
         ---
         name: technical-interview-prep
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-interview-prep/SKILL.md
         description: Prepare for technical interviews: patterns, complexity analysis, and communication.
         ---

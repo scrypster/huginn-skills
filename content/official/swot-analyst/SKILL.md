@@ -1,7 +1,7 @@
         ---
         name: swot-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/swot-analyst/SKILL.md
         description: Run rigorous SWOT analyses: internal factors, external forces, and strategic implications.
         ---

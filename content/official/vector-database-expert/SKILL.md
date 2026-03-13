@@ -1,7 +1,7 @@
         ---
         name: vector-database-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vector-database-expert/SKILL.md
         description: Choose and use vector databases: Pgvector, Pinecone, Qdrant, and Chroma.
         ---

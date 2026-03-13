@@ -1,7 +1,7 @@
 id: official/nlp-engineer
 name: nlp-engineer
 display_name: NLP Engineer
-author: official
+author: community
 description: Build natural language processing pipelines for text classification,
   NER, and generation.
 version: 1.0.0

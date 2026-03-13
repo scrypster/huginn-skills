@@ -1,7 +1,7 @@
 id: official/kubernetes-expert
 name: kubernetes-expert
 display_name: Kubernetes Expert
-author: official
+author: community
 description: Design, deploy, and operate production Kubernetes clusters and workloads.
 version: 1.0.0
 category: devops

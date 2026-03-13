@@ -1,7 +1,7 @@
         ---
         name: nutrition-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nutrition-advisor/SKILL.md
         description: Provide evidence-based nutrition guidance for health, performance, and body composition goals.
         ---

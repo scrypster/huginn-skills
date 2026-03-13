@@ -1,7 +1,7 @@
         ---
         name: contract-reviewer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/contract-reviewer/SKILL.md
         description: Review contracts for key risks, obligations, and negotiation opportunities.
         ---

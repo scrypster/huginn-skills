@@ -1,7 +1,7 @@
 id: official/ml-engineer
 name: ml-engineer
 display_name: ML Engineer
-author: official
+author: community
 description: Train, evaluate, and deploy machine learning models to production systems.
 version: 1.0.0
 category: ai

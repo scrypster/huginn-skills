@@ -1,7 +1,7 @@
 id: official/excel-formula-expert
 name: excel-formula-expert
 display_name: Excel/Sheets Formula Expert
-author: official
+author: community
 description: 'Write complex spreadsheet formulas: XLOOKUP, SUMIFS, pivot tables, and
   array formulas.'
 version: 1.0.0

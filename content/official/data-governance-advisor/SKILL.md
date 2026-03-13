@@ -1,7 +1,7 @@
         ---
         name: data-governance-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-governance-advisor/SKILL.md
         description: Establish data governance frameworks for quality, lineage, and regulatory compliance.
         ---

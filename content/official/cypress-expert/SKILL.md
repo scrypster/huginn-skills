@@ -1,7 +1,7 @@
         ---
         name: cypress-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cypress-expert/SKILL.md
         description: Write Cypress E2E tests: commands, fixtures, intercepts, and CI integration.
         ---

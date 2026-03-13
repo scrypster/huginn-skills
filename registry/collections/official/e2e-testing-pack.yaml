@@ -1,7 +1,7 @@
 id: official/e2e-testing-pack
 name: e2e-testing-pack
 display_name: E2E Testing Pack
-author: official
+author: community
 description: Browser automation and end-to-end testing.
 version: 1.0.0
 license: MIT

@@ -1,7 +1,7 @@
         ---
         name: observability-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/observability-expert/SKILL.md
         description: Instrument applications with logs, metrics, and traces using OpenTelemetry.
         ---

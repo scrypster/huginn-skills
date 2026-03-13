@@ -1,7 +1,7 @@
         ---
         name: model-evaluation-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/model-evaluation-expert/SKILL.md
         description: Choose the right metrics and evaluation frameworks for ML model assessment.
         ---

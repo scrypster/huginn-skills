@@ -1,7 +1,7 @@
         ---
         name: jsdoc-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/jsdoc-writer/SKILL.md
         description: Write complete JSDoc comments for public APIs with types, params, and examples.
         ---

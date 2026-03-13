@@ -1,7 +1,7 @@
         ---
         name: context-window-optimizer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/context-window-optimizer/SKILL.md
         description: Optimize context window usage: compress, summarize, and prioritize information.
         ---

@@ -1,7 +1,7 @@
 id: official/rate-limiter-designer
 name: rate-limiter-designer
 display_name: Rate Limiter Designer
-author: official
+author: community
 description: 'Design rate limiting strategies: token bucket, sliding window, and per-user
   limits.'
 version: 1.0.0

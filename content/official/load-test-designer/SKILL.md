@@ -1,7 +1,7 @@
         ---
         name: load-test-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/load-test-designer/SKILL.md
         description: Design load test scenarios that surface real bottlenecks under realistic traffic.
         ---

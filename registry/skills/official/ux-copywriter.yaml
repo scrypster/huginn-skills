@@ -1,7 +1,7 @@
 id: official/ux-copywriter
 name: ux-copywriter
 display_name: UX Copywriter
-author: official
+author: community
 description: 'Write UI microcopy: buttons, error messages, empty states, and onboarding
   flows.'
 version: 1.0.0

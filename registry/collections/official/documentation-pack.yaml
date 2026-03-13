@@ -1,7 +1,7 @@
 id: official/documentation-pack
 name: documentation-pack
 display_name: Documentation Pack
-author: official
+author: community
 description: Write docs that developers actually use.
 version: 1.0.0
 license: MIT

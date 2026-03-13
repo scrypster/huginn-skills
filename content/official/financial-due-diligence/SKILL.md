@@ -1,7 +1,7 @@
         ---
         name: financial-due-diligence
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/financial-due-diligence/SKILL.md
         description: Guide financial due diligence for M&A, investments, and business acquisitions.
         ---

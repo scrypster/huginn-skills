@@ -1,7 +1,7 @@
 id: official/mongodb-expert
 name: mongodb-expert
 display_name: MongoDB Expert
-author: official
+author: community
 description: Design document schemas, write aggregation pipelines, and operate MongoDB
   in production.
 version: 1.0.0

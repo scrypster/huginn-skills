@@ -1,7 +1,7 @@
 id: official/kanban-practitioner
 name: kanban-practitioner
 display_name: Kanban Practitioner
-author: official
+author: community
 description: Implement Kanban systems to visualize flow, limit WIP, and improve throughput.
 version: 1.0.0
 category: workflow

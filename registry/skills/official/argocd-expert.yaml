@@ -1,7 +1,7 @@
 id: official/argocd-expert
 name: argocd-expert
 display_name: ArgoCD Expert
-author: official
+author: community
 description: 'Configure ArgoCD GitOps workflows: apps, app-of-apps, sync policies,
   and RBAC.'
 version: 1.0.0

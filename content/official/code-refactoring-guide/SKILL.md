@@ -1,7 +1,7 @@
         ---
         name: code-refactoring-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-refactoring-guide/SKILL.md
         description: Refactor code safely: extract, inline, rename, and restructure without breaking.
         ---

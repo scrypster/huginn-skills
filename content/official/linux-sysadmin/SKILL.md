@@ -1,7 +1,7 @@
         ---
         name: linux-sysadmin
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/linux-sysadmin/SKILL.md
         description: Diagnose Linux systems: CPU, memory, I/O, network, and process issues.
         ---

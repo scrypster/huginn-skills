@@ -1,7 +1,7 @@
         ---
         name: naming-conventions-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/naming-conventions-guide/SKILL.md
         description: Name variables, functions, and modules clearly: intent over abbreviation.
         ---

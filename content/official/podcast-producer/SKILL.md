@@ -1,7 +1,7 @@
         ---
         name: podcast-producer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/podcast-producer/SKILL.md
         description: Produce engaging podcasts with compelling interviews, editing, and growth strategy.
         ---

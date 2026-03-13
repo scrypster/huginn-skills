@@ -1,7 +1,7 @@
 id: official/task-planner
 name: task-planner
 display_name: Task Planner
-author: official
+author: community
 description: Break any goal into a sequenced, dependency-aware task list with time
   estimates.
 version: 1.0.0

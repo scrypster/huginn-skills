@@ -1,7 +1,7 @@
         ---
         name: branch-strategy-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/branch-strategy-advisor/SKILL.md
         description: Advise on branch strategies: trunk-based development, GitFlow, and feature flags.
         ---

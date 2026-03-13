@@ -1,7 +1,7 @@
         ---
         name: incident-management-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/incident-management-expert/SKILL.md
         description: Manage production incidents effectively with structured response and blameless postmortems.
         ---

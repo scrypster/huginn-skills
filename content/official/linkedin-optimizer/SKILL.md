@@ -1,7 +1,7 @@
         ---
         name: linkedin-optimizer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/linkedin-optimizer/SKILL.md
         description: Optimize LinkedIn profiles for visibility, credibility, and opportunity attraction.
         ---

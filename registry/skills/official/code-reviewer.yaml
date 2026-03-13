@@ -1,7 +1,7 @@
 id: official/code-reviewer
 name: code-reviewer
 display_name: Code Reviewer
-author: official
+author: community
 description: Systematic code review — correctness, security, maintainability, tests
 long_description: |
   A meticulous code reviewer that covers correctness, edge cases, security vulnerabilities,

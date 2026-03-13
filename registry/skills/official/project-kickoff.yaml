@@ -1,7 +1,7 @@
 id: official/project-kickoff
 name: project-kickoff
 display_name: Project Kickoff
-author: official
+author: community
 description: Run structured project kickoffs that surface assumptions and align teams
   early.
 version: 1.0.0

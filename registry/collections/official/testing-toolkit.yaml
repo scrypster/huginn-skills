@@ -1,7 +1,7 @@
 id: official/testing-toolkit
 name: testing-toolkit
 display_name: Testing Toolkit
-author: official
+author: community
 description: Comprehensive testing skills from unit to load.
 version: 1.0.0
 license: MIT

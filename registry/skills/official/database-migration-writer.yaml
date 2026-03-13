@@ -1,7 +1,7 @@
 id: official/database-migration-writer
 name: database-migration-writer
 display_name: Database Migration Writer
-author: official
+author: community
 description: Write safe, reversible database migrations that survive production deployments.
 version: 1.0.0
 category: data

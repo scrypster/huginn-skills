@@ -1,7 +1,7 @@
         ---
         name: kafka-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kafka-expert/SKILL.md
         description: Design Kafka topics, consumer groups, schemas, and exactly-once semantics.
         ---

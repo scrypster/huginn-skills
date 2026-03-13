@@ -1,7 +1,7 @@
         ---
         name: personal-brand-builder
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/personal-brand-builder/SKILL.md
         description: Build a compelling personal brand through content, visibility, and authentic positioning.
         ---

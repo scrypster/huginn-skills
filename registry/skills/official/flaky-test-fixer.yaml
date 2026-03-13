@@ -1,7 +1,7 @@
 id: official/flaky-test-fixer
 name: flaky-test-fixer
 display_name: Flaky Test Fixer
-author: official
+author: community
 description: 'Diagnose and fix flaky tests: timing, ordering, shared state, and environment
   issues.'
 version: 1.0.0

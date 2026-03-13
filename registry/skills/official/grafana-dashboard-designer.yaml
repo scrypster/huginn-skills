@@ -1,7 +1,7 @@
 id: official/grafana-dashboard-designer
 name: grafana-dashboard-designer
 display_name: Grafana Dashboard Designer
-author: official
+author: community
 description: 'Design Grafana dashboards: panel types, variables, thresholds, and alerting.'
 version: 1.0.0
 category: devops

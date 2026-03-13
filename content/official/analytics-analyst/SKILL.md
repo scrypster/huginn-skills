@@ -1,7 +1,7 @@
         ---
         name: analytics-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/analytics-analyst/SKILL.md
         description: Set up and interpret product and marketing analytics: events, funnels, and attribution.
         ---

@@ -1,7 +1,7 @@
 id: official/incident-commander
 name: incident-commander
 display_name: Incident Commander
-author: official
+author: community
 description: 'Run structured incident response: commander, scribe, timeline, and communication.'
 version: 1.0.0
 category: workflow

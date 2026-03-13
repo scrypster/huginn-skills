@@ -1,7 +1,7 @@
         ---
         name: risk-assessment-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/risk-assessment-advisor/SKILL.md
         description: Identify, quantify, and prioritize risks across business, technical, and operational domains.
         ---

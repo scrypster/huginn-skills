@@ -1,7 +1,7 @@
         ---
         name: music-production-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/music-production-advisor/SKILL.md
         description: Produce music with DAW techniques, arrangement, mixing, and mastering fundamentals.
         ---

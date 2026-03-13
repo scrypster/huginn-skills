@@ -1,7 +1,7 @@
         ---
         name: childrens-book-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/childrens-book-writer/SKILL.md
         description: Write age-appropriate children's books with rhythm, heart, and clear moral themes.
         ---

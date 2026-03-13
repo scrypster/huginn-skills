@@ -1,7 +1,7 @@
         ---
         name: scrum-master
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/scrum-master/SKILL.md
         description: Facilitate Scrum ceremonies, remove impediments, and coach teams to agile excellence.
         ---

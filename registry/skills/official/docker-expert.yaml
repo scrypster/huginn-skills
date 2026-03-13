@@ -1,7 +1,7 @@
 id: official/docker-expert
 name: docker-expert
 display_name: Docker Expert
-author: official
+author: community
 description: Write optimized Dockerfiles, compose configurations, and container best
   practices.
 version: 1.0.0

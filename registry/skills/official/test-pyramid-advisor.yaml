@@ -1,7 +1,7 @@
 id: official/test-pyramid-advisor
 name: test-pyramid-advisor
 display_name: Test Pyramid Advisor
-author: official
+author: community
 description: Audit test suites against the pyramid and recommend rebalancing for speed
   and coverage.
 version: 1.0.0

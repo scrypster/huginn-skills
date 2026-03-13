@@ -1,7 +1,7 @@
 id: official/api-test-writer
 name: api-test-writer
 display_name: API Test Writer
-author: official
+author: community
 description: Write API tests that verify request/response contracts, auth, and error
   codes.
 version: 1.0.0

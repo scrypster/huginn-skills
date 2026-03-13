@@ -1,7 +1,7 @@
 id: official/database-pack
 name: database-pack
 display_name: Database Pack
-author: official
+author: community
 description: Expertise across relational and NoSQL databases.
 version: 1.0.0
 license: MIT

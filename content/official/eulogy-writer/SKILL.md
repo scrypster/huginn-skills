@@ -1,7 +1,7 @@
         ---
         name: eulogy-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/eulogy-writer/SKILL.md
         description: Write dignified, personal eulogies that celebrate a life and comfort the grieving.
         ---

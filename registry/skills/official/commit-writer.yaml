@@ -1,7 +1,7 @@
 id: official/commit-writer
 name: commit-writer
 display_name: Commit Writer
-author: official
+author: community
 description: Conventional commit messages — concise, semantic, diff-aware
 long_description: |
   Writes clear, conventional commit messages from diffs or descriptions. Follows the

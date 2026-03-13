@@ -1,7 +1,7 @@
         ---
         name: design-thinking-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/design-thinking-guide/SKILL.md
         description: Apply design thinking: empathize, define, ideate, prototype, and test.
         ---

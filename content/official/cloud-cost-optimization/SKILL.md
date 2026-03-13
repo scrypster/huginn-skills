@@ -1,7 +1,7 @@
         ---
         name: cloud-cost-optimization
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cloud-cost-optimization/SKILL.md
         description: Reduce cloud infrastructure costs through rightsizing, reserved capacity, and architectural improvements.
         ---

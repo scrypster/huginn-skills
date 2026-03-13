@@ -1,7 +1,7 @@
 id: official/tutorial-writer
 name: tutorial-writer
 display_name: Tutorial Writer
-author: official
+author: community
 description: 'Write tutorials people complete: prerequisites, steps, expected output,
   and troubleshooting.'
 version: 1.0.0

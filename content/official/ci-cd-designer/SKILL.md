@@ -1,7 +1,7 @@
         ---
         name: ci-cd-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ci-cd-designer/SKILL.md
         description: Design CI/CD pipelines: test, build, security scan, and deploy with rollback.
         ---

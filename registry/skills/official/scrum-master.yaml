@@ -1,7 +1,7 @@
 id: official/scrum-master
 name: scrum-master
 display_name: Scrum Master / Agile Coach
-author: official
+author: community
 description: Facilitate Scrum ceremonies, remove impediments, and coach teams to agile
   excellence.
 version: 1.0.0

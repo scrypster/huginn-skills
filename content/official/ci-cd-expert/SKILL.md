@@ -1,7 +1,7 @@
         ---
         name: ci-cd-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ci-cd-expert/SKILL.md
         description: Design and implement continuous integration and delivery pipelines.
         ---

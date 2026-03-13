@@ -1,7 +1,7 @@
         ---
         name: elasticsearch-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/elasticsearch-expert/SKILL.md
         description: Design indices, write queries, and operate Elasticsearch for full-text search and analytics.
         ---

@@ -1,7 +1,7 @@
 id: official/nginx-expert
 name: nginx-expert
 display_name: Nginx Expert
-author: official
+author: community
 description: 'Configure Nginx: reverse proxy, TLS termination, rate limiting, and
   caching.'
 version: 1.0.0

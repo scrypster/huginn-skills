@@ -1,7 +1,7 @@
 id: official/debugging-toolkit
 name: debugging-toolkit
 display_name: Debugging Toolkit
-author: official
+author: community
 description: Systematic debugging skills for every problem type.
 version: 1.0.0
 license: MIT

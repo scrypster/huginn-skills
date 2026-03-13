@@ -1,7 +1,7 @@
 id: official/ai-builder-pack
 name: ai-builder-pack
 display_name: AI Builder Pack
-author: official
+author: community
 description: Skills for building reliable LLM-powered features.
 version: 1.0.0
 license: MIT

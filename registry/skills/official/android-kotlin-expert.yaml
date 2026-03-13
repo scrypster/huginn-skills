@@ -1,7 +1,7 @@
 id: official/android-kotlin-expert
 name: android-kotlin-expert
 display_name: Android Kotlin Expert
-author: official
+author: community
 description: Expert Android development with Kotlin — Jetpack Compose, Coroutines,
   and Material Design.
 version: 1.0.0

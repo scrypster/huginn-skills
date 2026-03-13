@@ -1,7 +1,7 @@
 id: official/status-update-writer
 name: status-update-writer
 display_name: Status Update Writer
-author: official
+author: community
 description: 'Write crisp executive status updates: RAG status, progress, risks, asks.'
 version: 1.0.0
 category: workflow

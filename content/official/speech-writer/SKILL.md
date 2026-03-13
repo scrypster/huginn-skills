@@ -1,7 +1,7 @@
         ---
         name: speech-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/speech-writer/SKILL.md
         description: Write memorable speeches: opening hook, single message, stories, and strong close.
         ---

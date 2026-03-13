@@ -1,7 +1,7 @@
 id: official/fact-checker
 name: fact-checker
 display_name: Fact Checker
-author: official
+author: community
 description: Verify claims with primary sources and flag misinformation with clear
   evidence chains.
 version: 1.0.0

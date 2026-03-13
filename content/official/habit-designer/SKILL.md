@@ -1,7 +1,7 @@
         ---
         name: habit-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/habit-designer/SKILL.md
         description: Design lasting habits using Atomic Habits principles: cue, routine, reward, and identity.
         ---

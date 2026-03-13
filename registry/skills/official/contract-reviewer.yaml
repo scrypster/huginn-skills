@@ -1,7 +1,7 @@
 id: official/contract-reviewer
 name: contract-reviewer
 display_name: Contract Reviewer
-author: official
+author: community
 description: Review contracts for key risks, obligations, and negotiation opportunities.
 version: 1.0.0
 category: workflow

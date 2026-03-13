@@ -1,7 +1,7 @@
 id: official/feature-prioritization-advisor
 name: feature-prioritization-advisor
 display_name: Feature Prioritization Advisor
-author: official
+author: community
 description: Prioritize features using RICE, ICE, MoSCoW, and impact-vs-effort frameworks.
 version: 1.0.0
 category: workflow

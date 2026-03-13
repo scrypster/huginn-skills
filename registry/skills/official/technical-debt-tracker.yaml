@@ -1,7 +1,7 @@
 id: official/technical-debt-tracker
 name: technical-debt-tracker
 display_name: Technical Debt Tracker
-author: official
+author: community
 description: Identify, categorize, and prioritize technical debt with business impact
   framing.
 version: 1.0.0

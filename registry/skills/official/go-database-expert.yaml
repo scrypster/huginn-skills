@@ -1,7 +1,7 @@
 id: official/go-database-expert
 name: go-database-expert
 display_name: Go Database Expert
-author: official
+author: community
 description: 'Use database/sql and pgx correctly: connection pools, transactions,
   and scanning.'
 version: 1.0.0

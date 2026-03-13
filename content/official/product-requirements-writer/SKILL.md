@@ -1,7 +1,7 @@
         ---
         name: product-requirements-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-requirements-writer/SKILL.md
         description: Write clear product requirements documents: user stories, acceptance criteria, and scope.
         ---

@@ -1,7 +1,7 @@
 id: official/python-packaging-expert
 name: python-packaging-expert
 display_name: Python Packaging Expert
-author: official
+author: community
 description: Set up modern Python packages with pyproject.toml, uv, and publishing
   best practices.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: agent-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/agent-designer/SKILL.md
         description: Design reliable AI agent systems: tools, memory, planning, and failure handling.
         ---

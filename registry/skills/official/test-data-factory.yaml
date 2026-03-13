@@ -1,7 +1,7 @@
 id: official/test-data-factory
 name: test-data-factory
 display_name: Test Data Factory
-author: official
+author: community
 description: Create maintainable test data factories that produce valid, realistic
   test objects.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: data-visualization-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-visualization-advisor/SKILL.md
         description: Choose the right chart, eliminate chartjunk, and make data tell a clear story.
         ---

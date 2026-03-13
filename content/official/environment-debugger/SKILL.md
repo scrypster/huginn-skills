@@ -1,7 +1,7 @@
         ---
         name: environment-debugger
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/environment-debugger/SKILL.md
         description: Debug environment-specific failures: config, secrets, paths, and runtime differences.
         ---

@@ -1,7 +1,7 @@
         ---
         name: diversity-inclusion-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/diversity-inclusion-advisor/SKILL.md
         description: Build more equitable, inclusive workplaces through evidence-based DEI strategies.
         ---

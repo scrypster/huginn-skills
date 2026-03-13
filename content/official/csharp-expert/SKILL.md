@@ -1,7 +1,7 @@
         ---
         name: csharp-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/csharp-expert/SKILL.md
         description: Write modern C# with records, pattern matching, LINQ, and async/await.
         ---

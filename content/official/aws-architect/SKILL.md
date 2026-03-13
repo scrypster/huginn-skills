@@ -1,7 +1,7 @@
         ---
         name: aws-architect
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/aws-architect/SKILL.md
         description: Design AWS architectures: compute, storage, networking, and cost optimization.
         ---

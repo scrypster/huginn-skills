@@ -1,7 +1,7 @@
 id: official/csrf-protection-expert
 name: csrf-protection-expert
 display_name: CSRF Protection Expert
-author: official
+author: community
 description: 'Implement CSRF protection: synchronizer tokens, SameSite cookies, and
   double submit.'
 version: 1.0.0

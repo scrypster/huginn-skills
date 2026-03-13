@@ -1,7 +1,7 @@
         ---
         name: intellectual-property-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/intellectual-property-advisor/SKILL.md
         description: Understand and protect intellectual property through patents, trademarks, and copyright.
         ---

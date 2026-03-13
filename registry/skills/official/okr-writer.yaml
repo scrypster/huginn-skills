@@ -1,7 +1,7 @@
 id: official/okr-writer
 name: okr-writer
 display_name: OKR Writer
-author: official
+author: community
 description: 'Write well-formed OKRs: ambitious objectives + measurable, binary key
   results.'
 version: 1.0.0

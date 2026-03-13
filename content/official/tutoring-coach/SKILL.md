@@ -1,7 +1,7 @@
         ---
         name: tutoring-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tutoring-coach/SKILL.md
         description: Teach complex concepts effectively with proven pedagogical techniques.
         ---

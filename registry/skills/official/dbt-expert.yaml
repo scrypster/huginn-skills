@@ -1,7 +1,7 @@
 id: official/dbt-expert
 name: dbt-expert
 display_name: dbt Expert
-author: official
+author: community
 description: 'Build dbt projects: model layering, tests, incremental models, and documentation.'
 version: 1.0.0
 category: data

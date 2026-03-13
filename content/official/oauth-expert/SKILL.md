@@ -1,7 +1,7 @@
         ---
         name: oauth-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/oauth-expert/SKILL.md
         description: Implement OAuth 2.0 and OIDC flows: authorization code, PKCE, and token handling.
         ---

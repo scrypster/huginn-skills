@@ -1,7 +1,7 @@
         ---
         name: excel-formula-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/excel-formula-expert/SKILL.md
         description: Write complex spreadsheet formulas: XLOOKUP, SUMIFS, pivot tables, and array formulas.
         ---

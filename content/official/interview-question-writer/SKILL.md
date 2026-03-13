@@ -1,7 +1,7 @@
         ---
         name: interview-question-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/interview-question-writer/SKILL.md
         description: Write structured interview questions: behavioral, technical, and role-specific.
         ---

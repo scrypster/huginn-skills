@@ -1,7 +1,7 @@
 id: official/llm-engineer
 name: llm-engineer
 display_name: LLM Engineer
-author: official
+author: community
 description: Build production LLM applications with RAG, fine-tuning, and evaluation
   frameworks.
 version: 1.0.0

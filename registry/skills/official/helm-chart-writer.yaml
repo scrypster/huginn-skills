@@ -1,7 +1,7 @@
 id: official/helm-chart-writer
 name: helm-chart-writer
 display_name: Helm Chart Writer
-author: official
+author: community
 description: Write maintainable Helm charts with sane defaults and documented values.
 version: 1.0.0
 category: devops

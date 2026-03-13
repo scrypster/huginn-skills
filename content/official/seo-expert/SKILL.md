@@ -1,7 +1,7 @@
         ---
         name: seo-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/seo-expert/SKILL.md
         description: Optimize for search: keyword research, on-page, technical SEO, and link building.
         ---

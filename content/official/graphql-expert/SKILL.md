@@ -1,7 +1,7 @@
         ---
         name: graphql-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/graphql-expert/SKILL.md
         description: Design and implement GraphQL APIs and clients with schemas, resolvers, and subscriptions.
         ---

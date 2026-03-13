@@ -1,7 +1,7 @@
         ---
         name: nextjs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nextjs-expert/SKILL.md
         description: Build full-stack web applications with Next.js App Router, RSC, and edge deployments.
         ---

@@ -1,7 +1,7 @@
         ---
         name: json-yaml-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/json-yaml-expert/SKILL.md
         description: Validate and transform JSON/YAML: schema, jq queries, and common pitfalls.
         ---

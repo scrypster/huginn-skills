@@ -1,7 +1,7 @@
         ---
         name: kanban-practitioner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kanban-practitioner/SKILL.md
         description: Implement Kanban systems to visualize flow, limit WIP, and improve throughput.
         ---

@@ -1,7 +1,7 @@
         ---
         name: songwriting-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/songwriting-coach/SKILL.md
         description: Write compelling songs with strong melodies, memorable lyrics, and emotional impact.
         ---

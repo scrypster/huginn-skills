@@ -1,7 +1,7 @@
         ---
         name: mental-health-support-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mental-health-support-guide/SKILL.md
         description: Provide psychoeducation and evidence-based coping strategies for common mental health challenges.
         ---

@@ -1,7 +1,7 @@
         ---
         name: k6-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/k6-expert/SKILL.md
         description: Write k6 load tests: scenarios, thresholds, and realistic traffic modeling.
         ---

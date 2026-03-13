@@ -1,7 +1,7 @@
 id: official/unit-test-writer
 name: unit-test-writer
 display_name: Unit Test Writer
-author: official
+author: community
 description: 'Write thorough unit tests: happy path, error paths, edge cases, and
   mocks.'
 version: 1.0.0

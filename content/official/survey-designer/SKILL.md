@@ -1,7 +1,7 @@
         ---
         name: survey-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/survey-designer/SKILL.md
         description: Design surveys that yield actionable data: question design, scales, and pilot testing.
         ---

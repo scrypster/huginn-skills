@@ -1,7 +1,7 @@
 id: official/python-async-expert
 name: python-async-expert
 display_name: Python Async Expert
-author: official
+author: community
 description: 'Write correct asyncio code: event loops, tasks, cancellation, timeouts.'
 version: 1.0.0
 category: language

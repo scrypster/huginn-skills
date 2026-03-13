@@ -1,7 +1,7 @@
         ---
         name: github-actions-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/github-actions-expert/SKILL.md
         description: Write efficient GitHub Actions workflows: caching, matrices, and reusable workflows.
         ---

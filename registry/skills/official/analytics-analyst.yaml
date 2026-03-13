@@ -1,7 +1,7 @@
 id: official/analytics-analyst
 name: analytics-analyst
 display_name: Analytics Expert
-author: official
+author: community
 description: 'Set up and interpret product and marketing analytics: events, funnels,
   and attribution.'
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/ci-cd-designer
 name: ci-cd-designer
 display_name: CI/CD Designer
-author: official
+author: community
 description: 'Design CI/CD pipelines: test, build, security scan, and deploy with
   rollback.'
 version: 1.0.0

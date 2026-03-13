@@ -1,7 +1,7 @@
         ---
         name: elixir-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/elixir-expert/SKILL.md
         description: Write idiomatic Elixir: pattern matching, GenServer, pipelines, and LiveView.
         ---

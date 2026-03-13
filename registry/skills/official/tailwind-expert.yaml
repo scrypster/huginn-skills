@@ -1,7 +1,7 @@
 id: official/tailwind-expert
 name: tailwind-expert
 display_name: Tailwind CSS Expert
-author: official
+author: community
 description: Build UIs rapidly with Tailwind CSS utility classes and design system
   conventions.
 version: 1.0.0

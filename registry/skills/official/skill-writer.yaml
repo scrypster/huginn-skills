@@ -1,7 +1,7 @@
 id: official/skill-writer
 name: skill-writer
 display_name: Skill Writer
-author: official
+author: community
 description: 'Write effective Huginn skills: clear persona, focused scope, and actionable
   rules.'
 version: 1.0.0

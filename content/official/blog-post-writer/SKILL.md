@@ -1,7 +1,7 @@
         ---
         name: blog-post-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/blog-post-writer/SKILL.md
         description: Write engaging blog posts: hook, structure, storytelling, and a strong CTA.
         ---

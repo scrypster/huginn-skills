@@ -1,7 +1,7 @@
         ---
         name: accessibility-auditor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/accessibility-auditor/SKILL.md
         description: Audit for WCAG 2.1 compliance: keyboard navigation, contrast, ARIA, and screen readers.
         ---

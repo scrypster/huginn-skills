@@ -1,7 +1,7 @@
         ---
         name: dependency-auditor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/dependency-auditor/SKILL.md
         description: Audit project dependencies for security vulnerabilities, licensing issues, and bloat.
         ---

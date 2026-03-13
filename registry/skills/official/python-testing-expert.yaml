@@ -1,7 +1,7 @@
 id: official/python-testing-expert
 name: python-testing-expert
 display_name: Python Testing Expert
-author: official
+author: community
 description: Write pytest suites with fixtures, parametrize, and async support.
 version: 1.0.0
 category: language

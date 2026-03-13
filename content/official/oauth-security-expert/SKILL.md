@@ -1,7 +1,7 @@
         ---
         name: oauth-security-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/oauth-security-expert/SKILL.md
         description: Implement secure authentication and authorization with OAuth2, OIDC, and JWT.
         ---

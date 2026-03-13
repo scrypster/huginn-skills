@@ -1,7 +1,7 @@
         ---
         name: airflow-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/airflow-expert/SKILL.md
         description: Design Airflow DAGs: task dependencies, sensors, dynamic tasks, and backfill.
         ---

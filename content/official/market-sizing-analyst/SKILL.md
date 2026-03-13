@@ -1,7 +1,7 @@
         ---
         name: market-sizing-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/market-sizing-analyst/SKILL.md
         description: Size markets rigorously: TAM/SAM/SOM with bottom-up and top-down approaches.
         ---

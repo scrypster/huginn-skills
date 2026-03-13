@@ -1,7 +1,7 @@
 id: official/remote-team-manager
 name: remote-team-manager
 display_name: Remote Team Manager
-author: official
+author: community
 description: Manage distributed remote teams effectively with async communication
   and culture building.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/network-debugger
 name: network-debugger
 display_name: Network Debugger
-author: official
+author: community
 description: 'Debug network issues: DNS, TLS, HTTP, latency, packet loss step by step.'
 version: 1.0.0
 category: debugging

@@ -1,7 +1,7 @@
         ---
         name: fact-checker
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/fact-checker/SKILL.md
         description: Verify claims with primary sources and flag misinformation with clear evidence chains.
         ---

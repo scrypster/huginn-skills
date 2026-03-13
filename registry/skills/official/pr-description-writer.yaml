@@ -1,7 +1,7 @@
 id: official/pr-description-writer
 name: pr-description-writer
 display_name: PR Description Writer
-author: official
+author: community
 description: Write clear, reviewer-friendly PR descriptions with context, changes,
   and test plan.
 version: 1.0.0

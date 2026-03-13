@@ -1,7 +1,7 @@
         ---
         name: feature-engineering-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/feature-engineering-expert/SKILL.md
         description: Transform raw data into powerful features that improve model performance.
         ---

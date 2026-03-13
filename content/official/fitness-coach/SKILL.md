@@ -1,7 +1,7 @@
         ---
         name: fitness-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/fitness-coach/SKILL.md
         description: Design personalized workout programs and help people achieve their fitness goals.
         ---

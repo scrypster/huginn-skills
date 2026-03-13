@@ -1,7 +1,7 @@
 id: official/json-yaml-expert
 name: json-yaml-expert
 display_name: JSON/YAML Expert
-author: official
+author: community
 description: 'Validate and transform JSON/YAML: schema, jq queries, and common pitfalls.'
 version: 1.0.0
 category: language

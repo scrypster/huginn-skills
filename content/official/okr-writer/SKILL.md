@@ -1,7 +1,7 @@
         ---
         name: okr-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/okr-writer/SKILL.md
         description: Write well-formed OKRs: ambitious objectives + measurable, binary key results.
         ---

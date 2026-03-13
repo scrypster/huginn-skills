@@ -1,7 +1,7 @@
 id: official/django-rest-framework-expert
 name: django-rest-framework-expert
 display_name: DRF Expert
-author: official
+author: community
 description: Build DRF APIs with serializers, viewsets, permissions, and pagination.
 version: 1.0.0
 category: language

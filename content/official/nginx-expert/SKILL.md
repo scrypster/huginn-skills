@@ -1,7 +1,7 @@
         ---
         name: nginx-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nginx-expert/SKILL.md
         description: Configure Nginx: reverse proxy, TLS termination, rate limiting, and caching.
         ---

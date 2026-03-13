@@ -1,7 +1,7 @@
 id: official/gdpr-compliance-advisor
 name: gdpr-compliance-advisor
 display_name: GDPR Compliance Advisor
-author: official
+author: community
 description: 'Implement GDPR compliance: lawful basis, consent, DSARs, and breach
   response.'
 version: 1.0.0

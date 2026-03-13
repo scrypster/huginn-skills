@@ -1,7 +1,7 @@
 id: official/data-quality-framework
 name: data-quality-framework
 display_name: Data Quality Framework
-author: official
+author: community
 description: 'Design data quality checks: schema, completeness, consistency, and freshness.'
 version: 1.0.0
 category: data

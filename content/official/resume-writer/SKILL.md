@@ -1,7 +1,7 @@
         ---
         name: resume-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/resume-writer/SKILL.md
         description: Write ATS-optimized resumes that highlight impact and get interviews.
         ---

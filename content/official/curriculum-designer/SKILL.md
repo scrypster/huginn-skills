@@ -1,7 +1,7 @@
         ---
         name: curriculum-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/curriculum-designer/SKILL.md
         description: Design effective learning curricula with clear objectives, assessments, and instructional strategies.
         ---

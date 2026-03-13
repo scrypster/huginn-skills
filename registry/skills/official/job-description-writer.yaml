@@ -1,7 +1,7 @@
 id: official/job-description-writer
 name: job-description-writer
 display_name: Job Description Writer
-author: official
+author: community
 description: Write inclusive, effective job descriptions that attract the right candidates.
 version: 1.0.0
 category: workflow

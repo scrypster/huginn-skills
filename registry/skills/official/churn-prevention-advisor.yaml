@@ -1,7 +1,7 @@
 id: official/churn-prevention-advisor
 name: churn-prevention-advisor
 display_name: Churn Prevention Advisor
-author: official
+author: community
 description: Identify at-risk customers and design interventions to prevent churn.
 version: 1.0.0
 category: workflow

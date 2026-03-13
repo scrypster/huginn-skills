@@ -1,7 +1,7 @@
 id: official/swift-expert
 name: swift-expert
 display_name: Swift Expert
-author: official
+author: community
 description: 'Write idiomatic Swift: optionals, Codable, async/await, and SwiftUI
   patterns.'
 version: 1.0.0

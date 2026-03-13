@@ -1,7 +1,7 @@
 id: official/tls-auditor
 name: tls-auditor
 display_name: TLS Auditor
-author: official
+author: community
 description: Audit TLS configurations for cipher suites, certificate chains, and HSTS.
 version: 1.0.0
 category: security

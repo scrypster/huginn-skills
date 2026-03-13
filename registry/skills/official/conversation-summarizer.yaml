@@ -1,7 +1,7 @@
 id: official/conversation-summarizer
 name: conversation-summarizer
 display_name: Conversation Summarizer
-author: official
+author: community
 description: Summarize long conversations, preserving decisions, context, and open
   questions.
 version: 1.0.0

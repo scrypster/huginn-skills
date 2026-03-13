@@ -1,7 +1,7 @@
 id: official/database-design-expert
 name: database-design-expert
 display_name: Database Design Expert
-author: official
+author: community
 description: Design normalized, performant, and maintainable database schemas.
 version: 1.0.0
 category: data

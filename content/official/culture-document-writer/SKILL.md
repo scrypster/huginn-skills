@@ -1,7 +1,7 @@
         ---
         name: culture-document-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/culture-document-writer/SKILL.md
         description: Write culture documents: values with behaviors, anti-patterns, and real examples.
         ---

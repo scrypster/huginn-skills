@@ -1,7 +1,7 @@
 id: official/rfc-writer
 name: rfc-writer
 display_name: RFC Writer
-author: official
+author: community
 description: Write structured RFCs / design docs that capture context, options, and
   decisions.
 version: 1.0.0

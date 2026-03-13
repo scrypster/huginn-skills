@@ -1,7 +1,7 @@
         ---
         name: feedback-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/feedback-coach/SKILL.md
         description: Give and receive feedback effectively: SBI model, psychological safety, and timing.
         ---

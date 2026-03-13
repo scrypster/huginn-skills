@@ -1,7 +1,7 @@
 id: official/grant-writer
 name: grant-writer
 display_name: Grant Writer
-author: official
+author: community
 description: 'Write grant proposals: needs statement, goals, methodology, and evaluation
   plan.'
 version: 1.0.0

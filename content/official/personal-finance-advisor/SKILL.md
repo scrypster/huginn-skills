@@ -1,7 +1,7 @@
         ---
         name: personal-finance-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/personal-finance-advisor/SKILL.md
         description: Build financial foundations with budgeting, debt payoff, emergency funds, and investing basics.
         ---

@@ -1,7 +1,7 @@
         ---
         name: user-acceptance-testing-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/user-acceptance-testing-advisor/SKILL.md
         description: Design UAT plans that validate business requirements before production launch.
         ---

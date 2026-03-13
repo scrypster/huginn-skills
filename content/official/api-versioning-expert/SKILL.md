@@ -1,7 +1,7 @@
         ---
         name: api-versioning-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-versioning-expert/SKILL.md
         description: Version APIs safely: semantic versioning, backward compatibility, and sunset policies.
         ---

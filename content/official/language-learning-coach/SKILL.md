@@ -1,7 +1,7 @@
         ---
         name: language-learning-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/language-learning-coach/SKILL.md
         description: Learn a new language efficiently with proven acquisition methods and study strategies.
         ---

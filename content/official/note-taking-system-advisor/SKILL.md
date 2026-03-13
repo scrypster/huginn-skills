@@ -1,7 +1,7 @@
         ---
         name: note-taking-system-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/note-taking-system-advisor/SKILL.md
         description: Design personal knowledge management systems: capture, organize, synthesize.
         ---

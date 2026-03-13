@@ -1,7 +1,7 @@
 id: official/vector-database-expert
 name: vector-database-expert
 display_name: Vector Database Expert
-author: official
+author: community
 description: 'Choose and use vector databases: Pgvector, Pinecone, Qdrant, and Chroma.'
 version: 1.0.0
 category: ai

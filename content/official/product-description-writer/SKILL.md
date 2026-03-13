@@ -1,7 +1,7 @@
         ---
         name: product-description-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-description-writer/SKILL.md
         description: Write product descriptions that convert: features-to-benefits, sensory detail, social proof.
         ---

@@ -1,7 +1,7 @@
         ---
         name: release-tag-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/release-tag-writer/SKILL.md
         description: Create well-formed git tags and release notes following SemVer conventions.
         ---

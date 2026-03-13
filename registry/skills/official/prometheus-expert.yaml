@@ -1,7 +1,7 @@
 id: official/prometheus-expert
 name: prometheus-expert
 display_name: Prometheus Expert
-author: official
+author: community
 description: 'Instrument code with Prometheus: counters, histograms, labels, and recording
   rules.'
 version: 1.0.0

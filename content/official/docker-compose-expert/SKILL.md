@@ -1,7 +1,7 @@
         ---
         name: docker-compose-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/docker-compose-expert/SKILL.md
         description: Design Docker Compose setups for local development with health checks and volumes.
         ---

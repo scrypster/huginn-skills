@@ -1,7 +1,7 @@
 id: official/accessibility-auditor
 name: accessibility-auditor
 display_name: Accessibility Auditor
-author: official
+author: community
 description: 'Audit for WCAG 2.1 compliance: keyboard navigation, contrast, ARIA,
   and screen readers.'
 version: 1.0.0

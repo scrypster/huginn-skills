@@ -1,7 +1,7 @@
         ---
         name: sql-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sql-expert/SKILL.md
         description: Write correct, efficient SQL: joins, CTEs, window functions, and indexes.
         ---

@@ -1,7 +1,7 @@
         ---
         name: salary-negotiation-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/salary-negotiation-coach/SKILL.md
         description: Negotiate job offers and raises to maximize total compensation.
         ---

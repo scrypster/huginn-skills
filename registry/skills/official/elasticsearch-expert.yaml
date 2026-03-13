@@ -1,7 +1,7 @@
 id: official/elasticsearch-expert
 name: elasticsearch-expert
 display_name: Elasticsearch Expert
-author: official
+author: community
 description: Design indices, write queries, and operate Elasticsearch for full-text
   search and analytics.
 version: 1.0.0

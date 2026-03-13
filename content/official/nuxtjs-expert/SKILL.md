@@ -1,7 +1,7 @@
         ---
         name: nuxtjs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nuxtjs-expert/SKILL.md
         description: Build Nuxt 3 apps with composables, server routes, and auto-imports.
         ---

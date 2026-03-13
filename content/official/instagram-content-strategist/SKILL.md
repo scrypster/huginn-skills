@@ -1,7 +1,7 @@
         ---
         name: instagram-content-strategist
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/instagram-content-strategist/SKILL.md
         description: Grow an Instagram presence with strategic content, reels, and engagement tactics.
         ---

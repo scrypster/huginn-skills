@@ -1,7 +1,7 @@
         ---
         name: network-debugger
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/network-debugger/SKILL.md
         description: Debug network issues: DNS, TLS, HTTP, latency, packet loss step by step.
         ---

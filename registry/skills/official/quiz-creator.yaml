@@ -1,7 +1,7 @@
 id: official/quiz-creator
 name: quiz-creator
 display_name: Quiz Creator
-author: official
+author: community
 description: Create quizzes with effective distractors, clear stems, and difficulty
   calibration.
 version: 1.0.0

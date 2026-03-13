@@ -1,7 +1,7 @@
         ---
         name: presentation-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/presentation-coach/SKILL.md
         description: Design compelling presentations: story arc, slide design, delivery, and Q&A handling.
         ---

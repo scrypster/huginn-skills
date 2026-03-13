@@ -1,7 +1,7 @@
         ---
         name: auth-reviewer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/auth-reviewer/SKILL.md
         description: Review authentication and authorization implementations for correctness and security.
         ---

@@ -1,7 +1,7 @@
         ---
         name: landing-page-copywriter
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/landing-page-copywriter/SKILL.md
         description: Write high-converting landing pages: headline, value prop, objections, and CTA.
         ---

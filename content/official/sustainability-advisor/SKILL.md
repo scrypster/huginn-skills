@@ -1,7 +1,7 @@
         ---
         name: sustainability-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sustainability-advisor/SKILL.md
         description: Develop sustainability strategies, ESG reporting, and carbon reduction initiatives.
         ---

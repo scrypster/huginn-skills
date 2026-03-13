@@ -1,7 +1,7 @@
         ---
         name: newsletter-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/newsletter-writer/SKILL.md
         description: Write newsletters people look forward to: one insight, one story, one action.
         ---

@@ -1,7 +1,7 @@
 id: official/memory-leak-hunter
 name: memory-leak-hunter
 display_name: Memory Leak Hunter
-author: official
+author: community
 description: Identify and fix memory leaks through heap analysis and lifecycle tracing.
 version: 1.0.0
 category: debugging

@@ -1,7 +1,7 @@
         ---
         name: mutation-test-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mutation-test-analyst/SKILL.md
         description: Analyze mutation test results to identify weak assertions and improve test quality.
         ---

@@ -1,7 +1,7 @@
 id: official/data-pipeline-designer
 name: data-pipeline-designer
 display_name: Data Pipeline Designer
-author: official
+author: community
 description: 'Design reliable data pipelines: ingestion, transformation, validation,
   and lineage.'
 version: 1.0.0

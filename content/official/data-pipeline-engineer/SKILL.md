@@ -1,7 +1,7 @@
         ---
         name: data-pipeline-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-pipeline-engineer/SKILL.md
         description: Design and build reliable batch and streaming data pipelines.
         ---

@@ -1,7 +1,7 @@
         ---
         name: ios-swift-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ios-swift-expert/SKILL.md
         description: Expert iOS development with Swift — UIKit, SwiftUI, async/await, and App Store best practices.
         ---

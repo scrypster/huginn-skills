@@ -1,7 +1,7 @@
         ---
         name: figma-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/figma-expert/SKILL.md
         description: Design professional UIs in Figma with components, auto-layout, and developer handoff.
         ---

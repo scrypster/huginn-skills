@@ -1,7 +1,7 @@
         ---
         name: app-store-optimization
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/app-store-optimization/SKILL.md
         description: Optimize iOS and Android app listings for discoverability and conversion.
         ---

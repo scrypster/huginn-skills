@@ -1,7 +1,7 @@
         ---
         name: scope-creep-detector
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/scope-creep-detector/SKILL.md
         description: Identify and manage scope creep with structured change requests and impact analysis.
         ---

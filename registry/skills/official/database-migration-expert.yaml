@@ -1,7 +1,7 @@
 id: official/database-migration-expert
 name: database-migration-expert
 display_name: Database Migration Expert
-author: official
+author: community
 description: Write safe, reversible database migrations that don't lock tables in
   production.
 version: 1.0.0

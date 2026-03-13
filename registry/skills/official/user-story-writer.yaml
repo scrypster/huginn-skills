@@ -1,7 +1,7 @@
 id: official/user-story-writer
 name: user-story-writer
 display_name: User Story Writer
-author: official
+author: community
 description: 'Write well-formed user stories: As a/I want/So that with testable acceptance
   criteria.'
 version: 1.0.0

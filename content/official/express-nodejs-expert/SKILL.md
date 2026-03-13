@@ -1,7 +1,7 @@
         ---
         name: express-nodejs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/express-nodejs-expert/SKILL.md
         description: Build fast, production-grade Node.js APIs with Express, middleware, and async patterns.
         ---

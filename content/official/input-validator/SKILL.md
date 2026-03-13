@@ -1,7 +1,7 @@
         ---
         name: input-validator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/input-validator/SKILL.md
         description: Design input validation schemas that block injection, XSS, and malformed data.
         ---

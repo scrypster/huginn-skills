@@ -1,7 +1,7 @@
         ---
         name: user-story-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/user-story-writer/SKILL.md
         description: Write well-formed user stories: As a/I want/So that with testable acceptance criteria.
         ---

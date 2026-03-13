@@ -1,7 +1,7 @@
         ---
         name: career-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/career-coach/SKILL.md
         description: Guide career planning, skill development, and professional transitions.
         ---

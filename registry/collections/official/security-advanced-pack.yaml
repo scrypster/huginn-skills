@@ -1,7 +1,7 @@
 id: official/security-advanced-pack
 name: security-advanced-pack
 display_name: Security Advanced Pack
-author: official
+author: community
 description: Deep security skills for APIs and infrastructure.
 version: 1.0.0
 license: MIT

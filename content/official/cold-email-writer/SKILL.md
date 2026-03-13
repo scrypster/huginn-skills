@@ -1,7 +1,7 @@
         ---
         name: cold-email-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cold-email-writer/SKILL.md
         description: Write cold emails that get replies: hyper-personalized, brief, and clear ask.
         ---

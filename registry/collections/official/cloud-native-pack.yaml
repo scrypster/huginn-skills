@@ -1,7 +1,7 @@
 id: official/cloud-native-pack
 name: cloud-native-pack
 display_name: Cloud Native Pack
-author: official
+author: community
 description: Cloud-native infrastructure and operations.
 version: 1.0.0
 license: MIT

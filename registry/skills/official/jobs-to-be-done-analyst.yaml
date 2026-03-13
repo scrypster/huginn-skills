@@ -1,7 +1,7 @@
 id: official/jobs-to-be-done-analyst
 name: jobs-to-be-done-analyst
 display_name: Jobs-to-be-Done Analyst
-author: official
+author: community
 description: 'Apply Jobs-to-be-Done: job mapping, switch interviews, and opportunity
   scoring.'
 version: 1.0.0

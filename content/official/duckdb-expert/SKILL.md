@@ -1,7 +1,7 @@
         ---
         name: duckdb-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/duckdb-expert/SKILL.md
         description: Use DuckDB for embedded analytics: SQL on files, Parquet, and Python integration.
         ---

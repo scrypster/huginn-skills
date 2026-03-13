@@ -1,7 +1,7 @@
         ---
         name: vue3-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vue3-expert/SKILL.md
         description: Build Vue 3 apps with Composition API, Pinia, and reactive patterns.
         ---

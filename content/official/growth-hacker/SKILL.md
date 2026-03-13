@@ -1,7 +1,7 @@
         ---
         name: growth-hacker
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/growth-hacker/SKILL.md
         description: Design growth loops, referral programs, and activation experiments.
         ---

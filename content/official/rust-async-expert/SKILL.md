@@ -1,7 +1,7 @@
         ---
         name: rust-async-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rust-async-expert/SKILL.md
         description: Build async Rust services with Tokio: tasks, channels, and select!
         ---

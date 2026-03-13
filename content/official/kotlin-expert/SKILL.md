@@ -1,7 +1,7 @@
         ---
         name: kotlin-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kotlin-expert/SKILL.md
         description: Write idiomatic Kotlin: data classes, coroutines, sealed classes, and extensions.
         ---

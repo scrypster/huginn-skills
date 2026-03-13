@@ -1,7 +1,7 @@
         ---
         name: cqrs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cqrs-expert/SKILL.md
         description: Implement CQRS: separate read/write models, command handlers, and query projections.
         ---

@@ -1,7 +1,7 @@
         ---
         name: network-architecture-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/network-architecture-advisor/SKILL.md
         description: Design network architectures: VPCs, subnets, security groups, and private connectivity.
         ---

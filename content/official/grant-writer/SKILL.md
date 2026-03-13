@@ -1,7 +1,7 @@
         ---
         name: grant-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/grant-writer/SKILL.md
         description: Write grant proposals: needs statement, goals, methodology, and evaluation plan.
         ---

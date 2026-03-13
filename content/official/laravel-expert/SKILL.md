@@ -1,7 +1,7 @@
         ---
         name: laravel-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/laravel-expert/SKILL.md
         description: Build elegant PHP applications with Laravel's expressive syntax, Eloquent ORM, and ecosystem.
         ---

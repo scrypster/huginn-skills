@@ -1,7 +1,7 @@
         ---
         name: game-design-document
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/game-design-document/SKILL.md
         description: Write comprehensive Game Design Documents (GDDs) covering mechanics, systems, and player experience.
         ---

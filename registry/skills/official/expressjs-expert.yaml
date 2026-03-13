@@ -1,7 +1,7 @@
 id: official/expressjs-expert
 name: expressjs-expert
 display_name: Express.js Expert
-author: official
+author: community
 description: Build Express.js APIs with clean middleware, routing, and error handling.
 version: 1.0.0
 category: language

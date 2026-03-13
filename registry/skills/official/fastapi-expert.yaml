@@ -1,7 +1,7 @@
 id: official/fastapi-expert
 name: fastapi-expert
 display_name: FastAPI Expert
-author: official
+author: community
 description: Build high-performance Python APIs with FastAPI, Pydantic, and async
   patterns.
 version: 1.0.0

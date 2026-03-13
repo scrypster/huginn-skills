@@ -1,7 +1,7 @@
         ---
         name: docker-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/docker-expert/SKILL.md
         description: Write optimized Dockerfiles, compose configurations, and container best practices.
         ---

@@ -1,7 +1,7 @@
         ---
         name: conversation-summarizer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/conversation-summarizer/SKILL.md
         description: Summarize long conversations, preserving decisions, context, and open questions.
         ---

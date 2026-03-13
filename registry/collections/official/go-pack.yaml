@@ -1,7 +1,7 @@
 id: official/go-pack
 name: go-pack
 display_name: Go Pack
-author: official
+author: community
 description: Idiomatic Go for services and systems.
 version: 1.0.0
 license: MIT

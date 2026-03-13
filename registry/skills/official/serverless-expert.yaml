@@ -1,7 +1,7 @@
 id: official/serverless-expert
 name: serverless-expert
 display_name: Serverless Architecture Expert
-author: official
+author: community
 description: Design and optimize serverless architectures with AWS Lambda, Vercel,
   and Cloudflare Workers.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/event-driven-architect
 name: event-driven-architect
 display_name: Event-Driven Architect
-author: official
+author: community
 description: 'Design event-driven systems: event schemas, consumers, idempotency,
   and ordering.'
 version: 1.0.0

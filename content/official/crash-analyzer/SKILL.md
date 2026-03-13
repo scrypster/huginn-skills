@@ -1,7 +1,7 @@
         ---
         name: crash-analyzer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/crash-analyzer/SKILL.md
         description: Analyze crash dumps, segfaults, and panics to identify root cause and fix.
         ---

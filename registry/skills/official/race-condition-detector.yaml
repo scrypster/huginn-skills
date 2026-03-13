@@ -1,7 +1,7 @@
 id: official/race-condition-detector
 name: race-condition-detector
 display_name: Race Condition Detector
-author: official
+author: community
 description: Diagnose race conditions and concurrency bugs through systematic lock/ordering
   analysis.
 version: 1.0.0

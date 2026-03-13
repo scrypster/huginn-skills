@@ -1,7 +1,7 @@
 id: official/sales-email-sequence-writer
 name: sales-email-sequence-writer
 display_name: Sales Email Sequence Writer
-author: official
+author: community
 description: 'Write multi-touch email sequences: value-first, follow-up cadence, and
   breakup.'
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/celery-expert
 name: celery-expert
 display_name: Celery Expert
-author: official
+author: community
 description: 'Build reliable Celery task queues: retries, chords, monitoring, and
   error handling.'
 version: 1.0.0

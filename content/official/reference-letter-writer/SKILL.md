@@ -1,7 +1,7 @@
         ---
         name: reference-letter-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/reference-letter-writer/SKILL.md
         description: Write compelling reference letters that stand out with specific, credible evidence.
         ---

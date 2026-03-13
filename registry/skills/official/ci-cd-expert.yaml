@@ -1,7 +1,7 @@
 id: official/ci-cd-expert
 name: ci-cd-expert
 display_name: CI/CD Expert
-author: official
+author: community
 description: Design and implement continuous integration and delivery pipelines.
 version: 1.0.0
 category: devops

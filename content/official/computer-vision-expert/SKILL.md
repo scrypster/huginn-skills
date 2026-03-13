@@ -1,7 +1,7 @@
         ---
         name: computer-vision-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/computer-vision-expert/SKILL.md
         description: Build image classification, detection, and segmentation models with deep learning.
         ---

@@ -1,7 +1,7 @@
         ---
         name: press-release-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/press-release-writer/SKILL.md
         description: Write press releases editors actually use: inverted pyramid, quotes, and facts.
         ---

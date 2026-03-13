@@ -1,7 +1,7 @@
         ---
         name: poetry-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/poetry-writer/SKILL.md
         description: Write poetry with attention to image, rhythm, compression, and emotional truth.
         ---

@@ -1,7 +1,7 @@
         ---
         name: rag-architect
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rag-architect/SKILL.md
         description: Design retrieval-augmented generation pipelines: chunking, embedding, retrieval.
         ---

@@ -1,7 +1,7 @@
 id: official/ab-test-designer
 name: ab-test-designer
 display_name: A/B Test Designer
-author: official
+author: community
 description: 'Design statistically valid A/B tests: hypothesis, sample size, metrics,
   and analysis.'
 version: 1.0.0

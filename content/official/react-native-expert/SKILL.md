@@ -1,7 +1,7 @@
         ---
         name: react-native-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/react-native-expert/SKILL.md
         description: Build cross-platform iOS and Android apps with React Native and Expo.
         ---

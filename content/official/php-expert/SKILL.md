@@ -1,7 +1,7 @@
         ---
         name: php-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/php-expert/SKILL.md
         description: Write modern PHP 8.2+: enums, fibers, attributes, and strict types.
         ---

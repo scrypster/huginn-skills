@@ -1,7 +1,7 @@
 id: official/k6-expert
 name: k6-expert
 display_name: k6 Load Testing Expert
-author: official
+author: community
 description: 'Write k6 load tests: scenarios, thresholds, and realistic traffic modeling.'
 version: 1.0.0
 category: testing

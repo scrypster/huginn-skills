@@ -1,7 +1,7 @@
         ---
         name: business-plan-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/business-plan-writer/SKILL.md
         description: Write investor-ready business plans: executive summary, market, model, and financials.
         ---

@@ -1,7 +1,7 @@
         ---
         name: spark-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/spark-expert/SKILL.md
         description: Write efficient PySpark jobs: partitioning, caching, and avoiding shuffles.
         ---

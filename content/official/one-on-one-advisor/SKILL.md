@@ -1,7 +1,7 @@
         ---
         name: one-on-one-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/one-on-one-advisor/SKILL.md
         description: Run effective 1:1 meetings: agenda, questions, follow-through, and trust building.
         ---

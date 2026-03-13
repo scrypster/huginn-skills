@@ -1,7 +1,7 @@
         ---
         name: database-migration-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/database-migration-expert/SKILL.md
         description: Write safe, reversible database migrations that don't lock tables in production.
         ---

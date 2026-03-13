@@ -1,7 +1,7 @@
         ---
         name: board-presentation-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/board-presentation-writer/SKILL.md
         description: Write board decks that inform decisions, surface risks, and build director confidence.
         ---

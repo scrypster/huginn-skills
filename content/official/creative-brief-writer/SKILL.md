@@ -1,7 +1,7 @@
         ---
         name: creative-brief-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/creative-brief-writer/SKILL.md
         description: Write creative briefs that inspire great work: objective, audience, message, and constraints.
         ---

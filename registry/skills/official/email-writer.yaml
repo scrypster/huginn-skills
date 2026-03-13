@@ -1,7 +1,7 @@
 id: official/email-writer
 name: email-writer
 display_name: Email Writer
-author: official
+author: community
 description: 'Write clear, effective emails: subject lines, structure, and a single
   ask.'
 version: 1.0.0

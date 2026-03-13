@@ -1,7 +1,7 @@
 id: official/spring-boot-expert
 name: spring-boot-expert
 display_name: Spring Boot Expert
-author: official
+author: community
 description: Build Spring Boot REST APIs with validation, error handling, and testing.
 version: 1.0.0
 category: language

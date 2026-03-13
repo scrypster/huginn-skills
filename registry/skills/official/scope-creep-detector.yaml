@@ -1,7 +1,7 @@
 id: official/scope-creep-detector
 name: scope-creep-detector
 display_name: Scope Creep Detector
-author: official
+author: community
 description: Identify and manage scope creep with structured change requests and impact
   analysis.
 version: 1.0.0

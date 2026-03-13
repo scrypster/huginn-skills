@@ -1,7 +1,7 @@
         ---
         name: product-roadmap-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-roadmap-planner/SKILL.md
         description: Build outcome-based product roadmaps: themes, OKRs, quarterly planning, and communication.
         ---

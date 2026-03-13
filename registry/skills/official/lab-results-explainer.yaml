@@ -1,7 +1,7 @@
 id: official/lab-results-explainer
 name: lab-results-explainer
 display_name: Lab Results Explainer
-author: official
+author: community
 description: Explain medical lab results in plain language to help patients understand
   their health data.
 version: 1.0.0

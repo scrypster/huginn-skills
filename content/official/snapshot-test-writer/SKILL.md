@@ -1,7 +1,7 @@
         ---
         name: snapshot-test-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/snapshot-test-writer/SKILL.md
         description: Write focused snapshot tests with meaningful assertions and easy update paths.
         ---

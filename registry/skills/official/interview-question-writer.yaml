@@ -1,7 +1,7 @@
 id: official/interview-question-writer
 name: interview-question-writer
 display_name: Interview Question Writer
-author: official
+author: community
 description: 'Write structured interview questions: behavioral, technical, and role-specific.'
 version: 1.0.0
 category: workflow

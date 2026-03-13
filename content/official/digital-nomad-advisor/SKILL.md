@@ -1,7 +1,7 @@
         ---
         name: digital-nomad-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/digital-nomad-advisor/SKILL.md
         description: Build a location-independent lifestyle with remote work, visas, and practical nomad strategies.
         ---

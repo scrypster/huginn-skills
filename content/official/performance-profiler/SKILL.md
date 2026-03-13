@@ -1,7 +1,7 @@
         ---
         name: performance-profiler
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/performance-profiler/SKILL.md
         description: Profile slow code systematically: measure first, identify bottleneck, optimize, verify.
         ---

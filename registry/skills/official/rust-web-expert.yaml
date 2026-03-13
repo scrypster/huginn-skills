@@ -1,7 +1,7 @@
 id: official/rust-web-expert
 name: rust-web-expert
 display_name: Rust Web Expert
-author: official
+author: community
 description: 'Build Rust web services with Axum: extractors, layers, state, and error
   types.'
 version: 1.0.0

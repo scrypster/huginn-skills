@@ -1,7 +1,7 @@
 id: official/monitoring-designer
 name: monitoring-designer
 display_name: Monitoring Designer
-author: official
+author: community
 description: 'Design observability stacks: the four golden signals, dashboards, and
   alert thresholds.'
 version: 1.0.0

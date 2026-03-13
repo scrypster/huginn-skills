@@ -1,7 +1,7 @@
 id: official/go-http-expert
 name: go-http-expert
 display_name: Go HTTP Expert
-author: official
+author: community
 description: Build Go HTTP servers with correct middleware, routing, and graceful
   shutdown.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/code-refactoring-guide
 name: code-refactoring-guide
 display_name: Code Refactoring Guide
-author: official
+author: community
 description: 'Refactor code safely: extract, inline, rename, and restructure without
   breaking.'
 version: 1.0.0

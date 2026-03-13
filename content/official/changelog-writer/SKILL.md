@@ -1,7 +1,7 @@
         ---
         name: changelog-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/changelog-writer/SKILL.md
         description: Generate user-facing changelogs from commits, PRs, or feature notes.
         ---

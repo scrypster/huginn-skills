@@ -1,7 +1,7 @@
         ---
         name: tailwind-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tailwind-expert/SKILL.md
         description: Build UIs rapidly with Tailwind CSS utility classes and design system conventions.
         ---

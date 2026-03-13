@@ -1,7 +1,7 @@
         ---
         name: meeting-facilitator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meeting-facilitator/SKILL.md
         description: Facilitate effective meetings: agenda design, participation, decisions, and follow-up.
         ---

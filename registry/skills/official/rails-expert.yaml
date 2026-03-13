@@ -1,7 +1,7 @@
 id: official/rails-expert
 name: rails-expert
 display_name: Ruby on Rails Expert
-author: official
+author: community
 description: Build convention-driven web applications with Ruby on Rails and ActiveRecord.
 version: 1.0.0
 category: language

@@ -1,7 +1,7 @@
         ---
         name: memory-leak-hunter
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/memory-leak-hunter/SKILL.md
         description: Identify and fix memory leaks through heap analysis and lifecycle tracing.
         ---

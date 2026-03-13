@@ -1,7 +1,7 @@
         ---
         name: pricing-strategist
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pricing-strategist/SKILL.md
         description: Design pricing strategies: models, tiers, anchoring, and value-based pricing.
         ---

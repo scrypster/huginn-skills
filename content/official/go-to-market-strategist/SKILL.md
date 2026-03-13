@@ -1,7 +1,7 @@
         ---
         name: go-to-market-strategist
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-to-market-strategist/SKILL.md
         description: Design go-to-market strategies: ICP, positioning, channels, and launch sequence.
         ---

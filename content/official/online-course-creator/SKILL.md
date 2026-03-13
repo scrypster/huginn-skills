@@ -1,7 +1,7 @@
         ---
         name: online-course-creator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/online-course-creator/SKILL.md
         description: Create and launch profitable online courses with strong content, engagement, and marketing.
         ---

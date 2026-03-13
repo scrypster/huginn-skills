@@ -1,7 +1,7 @@
         ---
         name: team-charter-creator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/team-charter-creator/SKILL.md
         description: Create team charters: purpose, norms, decision-making, and accountability.
         ---

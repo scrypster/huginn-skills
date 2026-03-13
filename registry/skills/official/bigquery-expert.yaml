@@ -1,7 +1,7 @@
 id: official/bigquery-expert
 name: bigquery-expert
 display_name: BigQuery Expert
-author: official
+author: community
 description: 'Write cost-efficient BigQuery SQL: partitioning, clustering, and query
   optimization.'
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: llm-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-engineer/SKILL.md
         description: Build production LLM applications with RAG, fine-tuning, and evaluation frameworks.
         ---

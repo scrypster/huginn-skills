@@ -1,7 +1,7 @@
         ---
         name: system-design-interviewer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/system-design-interviewer/SKILL.md
         description: Practice and coach system design interviews covering scalability, availability, and tradeoffs.
         ---

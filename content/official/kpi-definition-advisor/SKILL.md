@@ -1,7 +1,7 @@
         ---
         name: kpi-definition-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kpi-definition-advisor/SKILL.md
         description: Define meaningful KPIs: leading vs. lagging, ownership, targets, and dashboards.
         ---

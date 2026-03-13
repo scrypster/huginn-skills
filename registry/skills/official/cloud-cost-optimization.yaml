@@ -1,7 +1,7 @@
 id: official/cloud-cost-optimization
 name: cloud-cost-optimization
 display_name: Cloud Cost Optimization Expert
-author: official
+author: community
 description: Reduce cloud infrastructure costs through rightsizing, reserved capacity,
   and architectural improvements.
 version: 1.0.0

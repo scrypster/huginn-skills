@@ -1,7 +1,7 @@
         ---
         name: interview-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/interview-coach/SKILL.md
         description: Prepare for job interviews with STAR method, behavioral practice, and technical prep.
         ---

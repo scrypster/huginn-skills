@@ -1,7 +1,7 @@
         ---
         name: monorepo-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/monorepo-advisor/SKILL.md
         description: Design and optimize monorepos for multi-package TypeScript/JS projects.
         ---

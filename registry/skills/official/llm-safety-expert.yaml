@@ -1,7 +1,7 @@
 id: official/llm-safety-expert
 name: llm-safety-expert
 display_name: LLM Safety Expert
-author: official
+author: community
 description: 'Implement LLM safety guardrails: input filtering, output validation,
   and moderation.'
 version: 1.0.0

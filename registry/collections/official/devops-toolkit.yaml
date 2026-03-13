@@ -1,7 +1,7 @@
 id: official/devops-toolkit
 name: devops-toolkit
 display_name: DevOps Toolkit
-author: official
+author: community
 description: Container, cloud, and infrastructure skills.
 version: 1.0.0
 license: MIT

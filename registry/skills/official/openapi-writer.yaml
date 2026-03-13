@@ -1,7 +1,7 @@
 id: official/openapi-writer
 name: openapi-writer
 display_name: OpenAPI Spec Writer
-author: official
+author: community
 description: Design clear, complete OpenAPI 3.x specifications for REST APIs.
 version: 1.0.0
 category: documentation

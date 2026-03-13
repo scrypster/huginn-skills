@@ -1,7 +1,7 @@
 id: official/shell-script-writer
 name: shell-script-writer
 display_name: Shell Script Writer
-author: official
+author: community
 description: Write reliable, portable shell scripts for automation and system administration.
 version: 1.0.0
 category: devops

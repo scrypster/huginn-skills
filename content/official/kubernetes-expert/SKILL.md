@@ -1,7 +1,7 @@
         ---
         name: kubernetes-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/kubernetes-expert/SKILL.md
         description: Design, deploy, and operate production Kubernetes clusters and workloads.
         ---

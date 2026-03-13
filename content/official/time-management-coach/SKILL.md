@@ -1,7 +1,7 @@
         ---
         name: time-management-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/time-management-coach/SKILL.md
         description: Apply time management systems: time blocking, deep work, energy management.
         ---

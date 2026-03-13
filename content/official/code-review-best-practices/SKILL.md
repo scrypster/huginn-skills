@@ -1,7 +1,7 @@
         ---
         name: code-review-best-practices
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-review-best-practices/SKILL.md
         description: Conduct effective code reviews: what to look for, how to give feedback.
         ---

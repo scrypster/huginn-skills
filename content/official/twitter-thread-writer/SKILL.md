@@ -1,7 +1,7 @@
         ---
         name: twitter-thread-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/twitter-thread-writer/SKILL.md
         description: Write compelling Twitter/X threads: hook tweet, value chain, and strong closer.
         ---

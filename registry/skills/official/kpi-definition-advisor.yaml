@@ -1,7 +1,7 @@
 id: official/kpi-definition-advisor
 name: kpi-definition-advisor
 display_name: KPI Definition Advisor
-author: official
+author: community
 description: 'Define meaningful KPIs: leading vs. lagging, ownership, targets, and
   dashboards.'
 version: 1.0.0

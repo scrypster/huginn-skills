@@ -1,7 +1,7 @@
 id: official/microservices-architect
 name: microservices-architect
 display_name: Microservices Architect
-author: official
+author: community
 description: Design microservices boundaries, communication patterns, and failure
   handling.
 version: 1.0.0

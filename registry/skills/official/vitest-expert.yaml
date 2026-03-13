@@ -1,7 +1,7 @@
 id: official/vitest-expert
 name: vitest-expert
 display_name: Vitest Expert
-author: official
+author: community
 description: 'Write Vitest tests: mocking, snapshot testing, and browser mode.'
 version: 1.0.0
 category: testing

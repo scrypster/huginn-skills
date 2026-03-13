@@ -1,7 +1,7 @@
 id: official/definition-of-done
 name: definition-of-done
 display_name: Definition of Done
-author: official
+author: community
 description: Create team-specific Definitions of Done that prevent scope creep and
   ensure quality.
 version: 1.0.0

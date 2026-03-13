@@ -1,7 +1,7 @@
         ---
         name: car-buying-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/car-buying-advisor/SKILL.md
         description: Navigate car buying with confidence — from research through financing and negotiation.
         ---

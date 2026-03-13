@@ -1,7 +1,7 @@
         ---
         name: crisis-communicator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/crisis-communicator/SKILL.md
         description: Guide organizations through reputational crises with clear, honest communication.
         ---

@@ -1,7 +1,7 @@
         ---
         name: swift-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/swift-expert/SKILL.md
         description: Write idiomatic Swift: optionals, Codable, async/await, and SwiftUI patterns.
         ---

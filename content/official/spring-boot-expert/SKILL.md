@@ -1,7 +1,7 @@
         ---
         name: spring-boot-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/spring-boot-expert/SKILL.md
         description: Build Spring Boot REST APIs with validation, error handling, and testing.
         ---

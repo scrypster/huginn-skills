@@ -1,7 +1,7 @@
         ---
         name: world-builder
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/world-builder/SKILL.md
         description: Build fictional worlds: geography, history, culture, rules, and internal consistency.
         ---

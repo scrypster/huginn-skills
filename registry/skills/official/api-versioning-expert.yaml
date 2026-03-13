@@ -1,7 +1,7 @@
 id: official/api-versioning-expert
 name: api-versioning-expert
 display_name: API Versioning Expert
-author: official
+author: community
 description: 'Version APIs safely: semantic versioning, backward compatibility, and
   sunset policies.'
 version: 1.0.0

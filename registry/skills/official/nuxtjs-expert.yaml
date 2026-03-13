@@ -1,7 +1,7 @@
 id: official/nuxtjs-expert
 name: nuxtjs-expert
 display_name: Nuxt 3 Expert
-author: official
+author: community
 description: Build Nuxt 3 apps with composables, server routes, and auto-imports.
 version: 1.0.0
 category: language

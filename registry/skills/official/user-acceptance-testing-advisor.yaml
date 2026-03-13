@@ -1,7 +1,7 @@
 id: official/user-acceptance-testing-advisor
 name: user-acceptance-testing-advisor
 display_name: User Acceptance Testing Advisor
-author: official
+author: community
 description: Design UAT plans that validate business requirements before production
   launch.
 version: 1.0.0

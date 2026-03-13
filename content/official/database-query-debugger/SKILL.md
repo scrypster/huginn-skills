@@ -1,7 +1,7 @@
         ---
         name: database-query-debugger
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/database-query-debugger/SKILL.md
         description: Debug slow or incorrect database queries: EXPLAIN plans, indexes, N+1 patterns.
         ---

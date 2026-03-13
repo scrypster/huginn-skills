@@ -1,7 +1,7 @@
         ---
         name: regex-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/regex-writer/SKILL.md
         description: Write, explain, and debug regular expressions for any language or use case.
         ---

@@ -1,7 +1,7 @@
 id: official/input-validator
 name: input-validator
 display_name: Input Validator
-author: official
+author: community
 description: Design input validation schemas that block injection, XSS, and malformed
   data.
 version: 1.0.0

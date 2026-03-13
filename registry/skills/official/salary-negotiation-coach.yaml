@@ -1,7 +1,7 @@
 id: official/salary-negotiation-coach
 name: salary-negotiation-coach
 display_name: Salary Negotiation Coach
-author: official
+author: community
 description: Negotiate job offers and raises to maximize total compensation.
 version: 1.0.0
 category: workflow

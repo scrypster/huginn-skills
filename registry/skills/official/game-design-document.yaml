@@ -1,7 +1,7 @@
 id: official/game-design-document
 name: game-design-document
 display_name: Game Design Document Writer
-author: official
+author: community
 description: Write comprehensive Game Design Documents (GDDs) covering mechanics,
   systems, and player experience.
 version: 1.0.0

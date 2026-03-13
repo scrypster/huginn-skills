@@ -1,7 +1,7 @@
 id: official/mlops-engineer
 name: mlops-engineer
 display_name: MLOps Engineer
-author: official
+author: community
 description: Build and operate ML infrastructure for training, serving, and monitoring
   models.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: workout-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/workout-planner/SKILL.md
         description: Design evidence-based workout programs tailored to goals, schedule, and equipment.
         ---

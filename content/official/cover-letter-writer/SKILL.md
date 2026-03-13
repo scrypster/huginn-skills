@@ -1,7 +1,7 @@
         ---
         name: cover-letter-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cover-letter-writer/SKILL.md
         description: Write compelling cover letters that connect your experience to company needs.
         ---

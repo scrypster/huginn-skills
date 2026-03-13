@@ -1,7 +1,7 @@
 id: official/privacy-policy-writer
 name: privacy-policy-writer
 display_name: Privacy Policy Writer
-author: official
+author: community
 description: Write clear, GDPR-compliant privacy policies in plain language.
 version: 1.0.0
 category: workflow

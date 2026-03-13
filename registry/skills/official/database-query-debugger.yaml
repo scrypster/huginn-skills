@@ -1,7 +1,7 @@
 id: official/database-query-debugger
 name: database-query-debugger
 display_name: Database Query Debugger
-author: official
+author: community
 description: 'Debug slow or incorrect database queries: EXPLAIN plans, indexes, N+1
   patterns.'
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: api-doc-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-doc-writer/SKILL.md
         description: Write clear API documentation: endpoint descriptions, request/response examples.
         ---

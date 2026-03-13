@@ -1,7 +1,7 @@
 id: official/ai-evaluation-designer
 name: ai-evaluation-designer
 display_name: AI Evaluation Designer
-author: official
+author: community
 description: 'Design LLM evaluation suites: golden datasets, metrics, and regression
   tests.'
 version: 1.0.0

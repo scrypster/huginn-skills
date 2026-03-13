@@ -1,7 +1,7 @@
 id: official/code-explainer
 name: code-explainer
 display_name: Code Explainer
-author: official
+author: community
 description: Translate technical code and concepts into clear explanations for any
   audience.
 version: 1.0.0

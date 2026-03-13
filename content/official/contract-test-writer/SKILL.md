@@ -1,7 +1,7 @@
         ---
         name: contract-test-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/contract-test-writer/SKILL.md
         description: Write consumer-driven contract tests to catch API compatibility breaks across services.
         ---

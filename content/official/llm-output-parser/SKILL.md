@@ -1,7 +1,7 @@
         ---
         name: llm-output-parser
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-output-parser/SKILL.md
         description: Build reliable LLM output parsers with schema validation and retry logic.
         ---

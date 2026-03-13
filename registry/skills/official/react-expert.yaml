@@ -1,7 +1,7 @@
 id: official/react-expert
 name: react-expert
 display_name: React Expert
-author: official
+author: community
 description: Build scalable React applications with hooks, context, and modern patterns.
 version: 1.0.0
 category: language

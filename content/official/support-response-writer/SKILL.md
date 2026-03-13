@@ -1,7 +1,7 @@
         ---
         name: support-response-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/support-response-writer/SKILL.md
         description: Write support responses that resolve issues and restore trust: empathy, clarity, action.
         ---

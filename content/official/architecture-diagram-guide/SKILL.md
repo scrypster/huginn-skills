@@ -1,7 +1,7 @@
         ---
         name: architecture-diagram-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/architecture-diagram-guide/SKILL.md
         description: Create clear architecture diagrams with Mermaid: system context, component, sequence.
         ---

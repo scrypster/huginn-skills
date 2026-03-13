@@ -1,7 +1,7 @@
         ---
         name: go-http-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/go-http-expert/SKILL.md
         description: Build Go HTTP servers with correct middleware, routing, and graceful shutdown.
         ---

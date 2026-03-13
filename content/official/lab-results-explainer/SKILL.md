@@ -1,7 +1,7 @@
         ---
         name: lab-results-explainer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/lab-results-explainer/SKILL.md
         description: Explain medical lab results in plain language to help patients understand their health data.
         ---

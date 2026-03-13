@@ -1,7 +1,7 @@
         ---
         name: jobs-to-be-done-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/jobs-to-be-done-analyst/SKILL.md
         description: Apply Jobs-to-be-Done: job mapping, switch interviews, and opportunity scoring.
         ---

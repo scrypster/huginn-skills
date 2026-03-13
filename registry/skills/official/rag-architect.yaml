@@ -1,7 +1,7 @@
 id: official/rag-architect
 name: rag-architect
 display_name: RAG Architect
-author: official
+author: community
 description: 'Design retrieval-augmented generation pipelines: chunking, embedding,
   retrieval.'
 version: 1.0.0

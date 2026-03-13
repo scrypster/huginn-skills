@@ -1,7 +1,7 @@
 id: official/elixir-expert
 name: elixir-expert
 display_name: Elixir Expert
-author: official
+author: community
 description: 'Write idiomatic Elixir: pattern matching, GenServer, pipelines, and
   LiveView.'
 version: 1.0.0

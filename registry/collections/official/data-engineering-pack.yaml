@@ -1,7 +1,7 @@
 id: official/data-engineering-pack
 name: data-engineering-pack
 display_name: Data Engineering Pack
-author: official
+author: community
 description: Data pipeline and analytics skills.
 version: 1.0.0
 license: MIT

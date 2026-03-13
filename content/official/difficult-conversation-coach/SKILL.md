@@ -1,7 +1,7 @@
         ---
         name: difficult-conversation-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/difficult-conversation-coach/SKILL.md
         description: Navigate difficult conversations: prepare, open, stay curious, and resolve constructively.
         ---

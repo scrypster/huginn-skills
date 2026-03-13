@@ -1,7 +1,7 @@
 id: official/sql-analytics-expert
 name: sql-analytics-expert
 display_name: SQL Analytics Expert
-author: official
+author: community
 description: Write powerful analytical SQL with window functions, CTEs, and aggregations.
 version: 1.0.0
 category: data

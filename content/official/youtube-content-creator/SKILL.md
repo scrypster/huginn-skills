@@ -1,7 +1,7 @@
         ---
         name: youtube-content-creator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/youtube-content-creator/SKILL.md
         description: Create engaging YouTube videos with strong hooks, retention, and growth strategy.
         ---

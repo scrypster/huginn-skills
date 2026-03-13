@@ -1,7 +1,7 @@
 id: official/cqrs-expert
 name: cqrs-expert
 display_name: CQRS Expert
-author: official
+author: community
 description: 'Implement CQRS: separate read/write models, command handlers, and query
   projections.'
 version: 1.0.0

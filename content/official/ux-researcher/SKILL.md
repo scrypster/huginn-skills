@@ -1,7 +1,7 @@
         ---
         name: ux-researcher
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ux-researcher/SKILL.md
         description: Plan and conduct UX research: interviews, usability tests, surveys, and synthesis.
         ---

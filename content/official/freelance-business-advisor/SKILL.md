@@ -1,7 +1,7 @@
         ---
         name: freelance-business-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/freelance-business-advisor/SKILL.md
         description: Build a sustainable freelance business with pricing, clients, contracts, and operations.
         ---

@@ -1,7 +1,7 @@
 id: official/architecture-pack
 name: architecture-pack
 display_name: Architecture Pack
-author: official
+author: community
 description: System design and architecture patterns.
 version: 1.0.0
 license: MIT

@@ -1,7 +1,7 @@
         ---
         name: mobile-app-architecture
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mobile-app-architecture/SKILL.md
         description: Design scalable mobile app architectures for iOS, Android, and cross-platform projects.
         ---

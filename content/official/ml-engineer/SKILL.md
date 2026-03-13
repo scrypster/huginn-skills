@@ -1,7 +1,7 @@
         ---
         name: ml-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ml-engineer/SKILL.md
         description: Train, evaluate, and deploy machine learning models to production systems.
         ---

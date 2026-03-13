@@ -1,7 +1,7 @@
         ---
         name: microservices-architect
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/microservices-architect/SKILL.md
         description: Design microservices boundaries, communication patterns, and failure handling.
         ---

@@ -1,7 +1,7 @@
         ---
         name: flask-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/flask-expert/SKILL.md
         description: Build Flask APIs with blueprints, application factory, and proper error handling.
         ---

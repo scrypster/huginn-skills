@@ -1,7 +1,7 @@
         ---
         name: technical-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-writer/SKILL.md
         description: Write clear, accurate technical documentation that developers and users actually use.
         ---

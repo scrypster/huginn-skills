@@ -1,7 +1,7 @@
         ---
         name: level-design-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/level-design-advisor/SKILL.md
         description: Design engaging game levels with strong pacing, navigation, and player guidance.
         ---

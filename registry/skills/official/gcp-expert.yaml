@@ -1,7 +1,7 @@
 id: official/gcp-expert
 name: gcp-expert
 display_name: GCP Expert
-author: official
+author: community
 description: 'Design GCP architectures: Cloud Run, GKE, Pub/Sub, BigQuery, and IAM.'
 version: 1.0.0
 category: devops

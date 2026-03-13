@@ -1,7 +1,7 @@
         ---
         name: cors-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cors-expert/SKILL.md
         description: Configure CORS correctly: origins, methods, credentials, and preflight handling.
         ---

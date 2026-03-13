@@ -1,7 +1,7 @@
         ---
         name: proposal-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/proposal-writer/SKILL.md
         description: Write winning sales proposals: executive summary, solution, ROI, and social proof.
         ---

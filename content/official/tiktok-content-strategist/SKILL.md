@@ -1,7 +1,7 @@
         ---
         name: tiktok-content-strategist
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tiktok-content-strategist/SKILL.md
         description: Create viral TikTok content with strong hooks, trends, and audience growth tactics.
         ---

@@ -1,7 +1,7 @@
         ---
         name: real-estate-investment-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/real-estate-investment-advisor/SKILL.md
         description: Analyze real estate investments, evaluate deals, and understand property investing strategies.
         ---

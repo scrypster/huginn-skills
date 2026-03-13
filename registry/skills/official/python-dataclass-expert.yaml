@@ -1,7 +1,7 @@
 id: official/python-dataclass-expert
 name: python-dataclass-expert
 display_name: Python Dataclass Expert
-author: official
+author: community
 description: Design clean Python data models using dataclasses and Pydantic v2.
 version: 1.0.0
 category: language

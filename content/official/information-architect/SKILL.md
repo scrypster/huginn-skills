@@ -1,7 +1,7 @@
         ---
         name: information-architect
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/information-architect/SKILL.md
         description: Design information architecture: site maps, navigation, taxonomy, and wayfinding.
         ---

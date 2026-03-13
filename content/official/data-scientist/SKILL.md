@@ -1,7 +1,7 @@
         ---
         name: data-scientist
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-scientist/SKILL.md
         description: Conduct rigorous data analysis and build predictive models using statistical methods.
         ---

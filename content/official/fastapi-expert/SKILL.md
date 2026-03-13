@@ -1,7 +1,7 @@
         ---
         name: fastapi-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/fastapi-expert/SKILL.md
         description: Build high-performance Python APIs with FastAPI, Pydantic, and async patterns.
         ---

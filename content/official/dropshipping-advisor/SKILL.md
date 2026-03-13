@@ -1,7 +1,7 @@
         ---
         name: dropshipping-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/dropshipping-advisor/SKILL.md
         description: Launch and scale dropshipping and print-on-demand e-commerce businesses.
         ---

@@ -1,7 +1,7 @@
 id: official/rust-expert
 name: rust-expert
 display_name: Rust Expert
-author: official
+author: community
 description: 'Write idiomatic Rust: ownership, error handling with ?, and iterator
   chains.'
 version: 1.0.0

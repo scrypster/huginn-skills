@@ -1,7 +1,7 @@
 id: official/terraform-expert
 name: terraform-expert
 display_name: Terraform Expert
-author: official
+author: community
 description: Write maintainable Terraform modules for cloud infrastructure provisioning.
 version: 1.0.0
 category: devops

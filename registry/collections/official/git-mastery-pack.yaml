@@ -1,7 +1,7 @@
 id: official/git-mastery-pack
 name: git-mastery-pack
 display_name: Git Mastery Pack
-author: official
+author: community
 description: Advanced Git workflows and best practices.
 version: 1.0.0
 license: MIT

@@ -1,7 +1,7 @@
         ---
         name: literature-reviewer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/literature-reviewer/SKILL.md
         description: Conduct systematic literature reviews: search strategy, synthesis, and gap analysis.
         ---

@@ -1,7 +1,7 @@
         ---
         name: rails-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rails-expert/SKILL.md
         description: Build convention-driven web applications with Ruby on Rails and ActiveRecord.
         ---

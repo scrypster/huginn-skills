@@ -1,7 +1,7 @@
         ---
         name: code-explainer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-explainer/SKILL.md
         description: Translate technical code and concepts into clear explanations for any audience.
         ---

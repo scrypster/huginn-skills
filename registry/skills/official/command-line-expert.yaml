@@ -1,7 +1,7 @@
 id: official/command-line-expert
 name: command-line-expert
 display_name: Command Line Expert
-author: official
+author: community
 description: 'Master the command line: piping, text processing, process management,
   and shortcuts.'
 version: 1.0.0

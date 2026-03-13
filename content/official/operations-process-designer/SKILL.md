@@ -1,7 +1,7 @@
         ---
         name: operations-process-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/operations-process-designer/SKILL.md
         description: Design and document efficient business operations and standard operating procedures.
         ---

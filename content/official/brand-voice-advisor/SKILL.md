@@ -1,7 +1,7 @@
         ---
         name: brand-voice-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/brand-voice-advisor/SKILL.md
         description: Define brand voice: personality attributes, tone by context, and voice do/don'ts.
         ---

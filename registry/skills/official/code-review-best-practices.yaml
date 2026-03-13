@@ -1,7 +1,7 @@
 id: official/code-review-best-practices
 name: code-review-best-practices
 display_name: Code Review Best Practices
-author: official
+author: community
 description: 'Conduct effective code reviews: what to look for, how to give feedback.'
 version: 1.0.0
 category: meta

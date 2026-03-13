@@ -1,7 +1,7 @@
 id: official/aws-expert
 name: aws-expert
 display_name: AWS Expert
-author: official
+author: community
 description: Design and implement AWS architectures following Well-Architected Framework
   principles.
 version: 1.0.0

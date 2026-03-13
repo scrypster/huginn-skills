@@ -1,7 +1,7 @@
 id: official/architecture-diagram-guide
 name: architecture-diagram-guide
 display_name: Architecture Diagram Guide
-author: official
+author: community
 description: 'Create clear architecture diagrams with Mermaid: system context, component,
   sequence.'
 version: 1.0.0

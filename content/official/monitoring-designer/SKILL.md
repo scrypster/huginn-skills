@@ -1,7 +1,7 @@
         ---
         name: monitoring-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/monitoring-designer/SKILL.md
         description: Design observability stacks: the four golden signals, dashboards, and alert thresholds.
         ---

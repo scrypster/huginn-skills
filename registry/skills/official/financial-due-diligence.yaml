@@ -1,7 +1,7 @@
 id: official/financial-due-diligence
 name: financial-due-diligence
 display_name: Financial Due Diligence Advisor
-author: official
+author: community
 description: Guide financial due diligence for M&A, investments, and business acquisitions.
 version: 1.0.0
 category: workflow

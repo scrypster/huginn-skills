@@ -1,7 +1,7 @@
 id: official/mobile-app-architecture
 name: mobile-app-architecture
 display_name: Mobile App Architecture
-author: official
+author: community
 description: Design scalable mobile app architectures for iOS, Android, and cross-platform
   projects.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/playwright-expert
 name: playwright-expert
 display_name: Playwright Expert
-author: official
+author: community
 description: 'Write Playwright tests: page objects, parallel runs, traces, and API
   testing.'
 version: 1.0.0

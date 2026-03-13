@@ -1,7 +1,7 @@
 id: official/code-comment-writer
 name: code-comment-writer
 display_name: Code Comment Writer
-author: official
+author: community
 description: Write meaningful code comments that explain why, not what.
 version: 1.0.0
 category: documentation

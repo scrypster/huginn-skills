@@ -1,7 +1,7 @@
         ---
         name: bigquery-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/bigquery-expert/SKILL.md
         description: Write cost-efficient BigQuery SQL: partitioning, clustering, and query optimization.
         ---

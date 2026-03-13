@@ -1,7 +1,7 @@
 id: official/owasp-auditor
 name: owasp-auditor
 display_name: OWASP Auditor
-author: official
+author: community
 description: 'Audit code for OWASP Top 10: injection, auth failures, XSS, and misconfiguration.'
 version: 1.0.0
 category: security

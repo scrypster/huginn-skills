@@ -1,7 +1,7 @@
 id: official/financial-model-advisor
 name: financial-model-advisor
 display_name: Financial Model Advisor
-author: official
+author: community
 description: 'Build financial models: revenue, costs, cash flow, and scenario analysis.'
 version: 1.0.0
 category: workflow

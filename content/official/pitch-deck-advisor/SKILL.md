@@ -1,7 +1,7 @@
         ---
         name: pitch-deck-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pitch-deck-advisor/SKILL.md
         description: Design investor pitch decks: story arc, 10 slides, and strong metrics narrative.
         ---

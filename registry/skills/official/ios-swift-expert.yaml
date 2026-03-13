@@ -1,7 +1,7 @@
 id: official/ios-swift-expert
 name: ios-swift-expert
 display_name: iOS Swift Expert
-author: official
+author: community
 description: Expert iOS development with Swift — UIKit, SwiftUI, async/await, and
   App Store best practices.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: webhook-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/webhook-designer/SKILL.md
         description: Design reliable webhook systems: delivery, retries, signatures, and idempotency.
         ---

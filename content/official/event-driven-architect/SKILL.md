@@ -1,7 +1,7 @@
         ---
         name: event-driven-architect
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/event-driven-architect/SKILL.md
         description: Design event-driven systems: event schemas, consumers, idempotency, and ordering.
         ---

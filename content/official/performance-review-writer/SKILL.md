@@ -1,7 +1,7 @@
         ---
         name: performance-review-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/performance-review-writer/SKILL.md
         description: Write honest, growth-oriented performance reviews: strengths, areas, and goals.
         ---

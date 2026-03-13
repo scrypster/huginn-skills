@@ -1,7 +1,7 @@
         ---
         name: sql-query-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sql-query-writer/SKILL.md
         description: Write efficient, readable SQL queries for any database system.
         ---

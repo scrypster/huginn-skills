@@ -1,7 +1,7 @@
 id: official/resume-writer
 name: resume-writer
 display_name: Resume Writer
-author: official
+author: community
 description: Write ATS-optimized resumes that highlight impact and get interviews.
 version: 1.0.0
 category: workflow

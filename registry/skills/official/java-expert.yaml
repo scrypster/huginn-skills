@@ -1,7 +1,7 @@
 id: official/java-expert
 name: java-expert
 display_name: Java Expert
-author: official
+author: community
 description: 'Write modern Java: records, sealed classes, pattern matching, and streams.'
 version: 1.0.0
 category: language

@@ -1,7 +1,7 @@
         ---
         name: tutorial-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tutorial-writer/SKILL.md
         description: Write tutorials people complete: prerequisites, steps, expected output, and troubleshooting.
         ---

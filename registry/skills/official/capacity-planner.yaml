@@ -1,7 +1,7 @@
 id: official/capacity-planner
 name: capacity-planner
 display_name: Capacity Planner
-author: official
+author: community
 description: Plan sprint capacity accounting for velocity, leave, and overhead realistically.
 version: 1.0.0
 category: workflow

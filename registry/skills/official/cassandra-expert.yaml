@@ -1,7 +1,7 @@
 id: official/cassandra-expert
 name: cassandra-expert
 display_name: Cassandra Expert
-author: official
+author: community
 description: 'Design Cassandra data models: partition keys, clustering, and query-first
   design.'
 version: 1.0.0

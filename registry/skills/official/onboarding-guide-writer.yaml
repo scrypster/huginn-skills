@@ -1,7 +1,7 @@
 id: official/onboarding-guide-writer
 name: onboarding-guide-writer
 display_name: Onboarding Guide Writer
-author: official
+author: community
 description: 'Write developer onboarding guides: setup, architecture, key workflows,
   and norms.'
 version: 1.0.0

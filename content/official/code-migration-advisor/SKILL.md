@@ -1,7 +1,7 @@
         ---
         name: code-migration-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-migration-advisor/SKILL.md
         description: Plan safe, incremental migrations between frameworks, languages, or major versions.
         ---

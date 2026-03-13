@@ -1,7 +1,7 @@
 id: official/load-balancer-expert
 name: load-balancer-expert
 display_name: Load Balancer Expert
-author: official
+author: community
 description: 'Configure load balancers: algorithms, health checks, sticky sessions,
   and SSL.'
 version: 1.0.0

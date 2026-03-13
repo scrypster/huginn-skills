@@ -1,7 +1,7 @@
         ---
         name: ruby-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ruby-expert/SKILL.md
         description: Write idiomatic Ruby: blocks, procs, modules, and meaningful DSLs.
         ---

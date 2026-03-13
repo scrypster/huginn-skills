@@ -1,7 +1,7 @@
         ---
         name: postgresql-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/postgresql-expert/SKILL.md
         description: Design schemas, write performant queries, and operate PostgreSQL in production.
         ---

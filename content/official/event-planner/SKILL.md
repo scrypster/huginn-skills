@@ -1,7 +1,7 @@
         ---
         name: event-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/event-planner/SKILL.md
         description: Plan and execute flawless events from intimate gatherings to large corporate functions.
         ---

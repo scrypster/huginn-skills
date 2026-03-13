@@ -1,7 +1,7 @@
         ---
         name: test-pyramid-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/test-pyramid-advisor/SKILL.md
         description: Audit test suites against the pyramid and recommend rebalancing for speed and coverage.
         ---

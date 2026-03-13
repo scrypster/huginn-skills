@@ -1,7 +1,7 @@
 id: official/go-expert
 name: go-expert
 display_name: Go Expert
-author: official
+author: community
 description: 'Write idiomatic Go: error wrapping, interfaces, concurrency primitives,
   and testing.'
 version: 1.0.0

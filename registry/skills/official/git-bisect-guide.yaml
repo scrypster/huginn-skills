@@ -1,7 +1,7 @@
 id: official/git-bisect-guide
 name: git-bisect-guide
 display_name: Git Bisect Guide
-author: official
+author: community
 description: Run systematic git bisect sessions to find the exact commit that introduced
   a bug.
 version: 1.0.0

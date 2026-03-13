@@ -1,7 +1,7 @@
         ---
         name: time-series-analyst
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/time-series-analyst/SKILL.md
         description: Analyze and forecast time series data using statistical and ML methods.
         ---

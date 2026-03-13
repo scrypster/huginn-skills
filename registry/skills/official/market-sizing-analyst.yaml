@@ -1,7 +1,7 @@
 id: official/market-sizing-analyst
 name: market-sizing-analyst
 display_name: Market Sizing Analyst
-author: official
+author: community
 description: 'Size markets rigorously: TAM/SAM/SOM with bottom-up and top-down approaches.'
 version: 1.0.0
 category: workflow

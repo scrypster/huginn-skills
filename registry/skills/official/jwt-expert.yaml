@@ -1,7 +1,7 @@
 id: official/jwt-expert
 name: jwt-expert
 display_name: JWT Expert
-author: official
+author: community
 description: 'Implement JWTs securely: algorithm choice, validation, expiry, and refresh
   flows.'
 version: 1.0.0

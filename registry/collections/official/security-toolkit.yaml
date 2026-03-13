@@ -1,7 +1,7 @@
 id: official/security-toolkit
 name: security-toolkit
 display_name: Security Toolkit
-author: official
+author: community
 description: Security review and hardening skills.
 version: 1.0.0
 license: MIT

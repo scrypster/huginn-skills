@@ -1,7 +1,7 @@
 id: official/risk-assessment-advisor
 name: risk-assessment-advisor
 display_name: Risk Assessment Advisor
-author: official
+author: community
 description: Identify, quantify, and prioritize risks across business, technical,
   and operational domains.
 version: 1.0.0

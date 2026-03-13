@@ -1,7 +1,7 @@
         ---
         name: python-async-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/python-async-expert/SKILL.md
         description: Write correct asyncio code: event loops, tasks, cancellation, timeouts.
         ---

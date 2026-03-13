@@ -1,7 +1,7 @@
         ---
         name: brainstorming-facilitator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/brainstorming-facilitator/SKILL.md
         description: Facilitate brainstorming sessions: diverge, converge, build on ideas, and evaluate.
         ---

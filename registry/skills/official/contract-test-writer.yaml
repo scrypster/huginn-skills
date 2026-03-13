@@ -1,7 +1,7 @@
 id: official/contract-test-writer
 name: contract-test-writer
 display_name: Contract Test Writer
-author: official
+author: community
 description: Write consumer-driven contract tests to catch API compatibility breaks
   across services.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/security-auditor
 name: security-auditor
 display_name: Security Auditor
-author: official
+author: community
 description: OWASP-aware security review — injection, auth, secrets, supply chain
 long_description: |
   Security-focused code reviewer that thinks like an attacker. Covers OWASP Top 10,

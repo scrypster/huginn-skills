@@ -1,7 +1,7 @@
 id: official/environment-debugger
 name: environment-debugger
 display_name: Environment Debugger
-author: official
+author: community
 description: 'Debug environment-specific failures: config, secrets, paths, and runtime
   differences.'
 version: 1.0.0

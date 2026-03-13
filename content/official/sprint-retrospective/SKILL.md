@@ -1,7 +1,7 @@
         ---
         name: sprint-retrospective
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sprint-retrospective/SKILL.md
         description: Facilitate structured sprint retrospectives with actionable outcomes.
         ---

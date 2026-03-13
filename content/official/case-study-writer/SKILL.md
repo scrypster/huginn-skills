@@ -1,7 +1,7 @@
         ---
         name: case-study-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/case-study-writer/SKILL.md
         description: Write customer case studies: situation, solution, results with specific metrics.
         ---

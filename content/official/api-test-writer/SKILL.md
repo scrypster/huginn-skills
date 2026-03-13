@@ -1,7 +1,7 @@
         ---
         name: api-test-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-test-writer/SKILL.md
         description: Write API tests that verify request/response contracts, auth, and error codes.
         ---

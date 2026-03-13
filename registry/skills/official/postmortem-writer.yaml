@@ -1,7 +1,7 @@
 id: official/postmortem-writer
 name: postmortem-writer
 display_name: Postmortem Writer
-author: official
+author: community
 description: 'Write blameless postmortems: timeline, root cause, impact, remediation.'
 version: 1.0.0
 category: workflow

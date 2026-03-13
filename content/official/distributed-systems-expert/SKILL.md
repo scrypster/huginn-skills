@@ -1,7 +1,7 @@
         ---
         name: distributed-systems-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/distributed-systems-expert/SKILL.md
         description: Design and reason about distributed systems including consensus, replication, and fault tolerance.
         ---

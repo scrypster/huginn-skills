@@ -1,7 +1,7 @@
 id: official/mutation-test-analyst
 name: mutation-test-analyst
 display_name: Mutation Test Analyst
-author: official
+author: community
 description: Analyze mutation test results to identify weak assertions and improve
   test quality.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: investment-thesis-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/investment-thesis-writer/SKILL.md
         description: Write compelling investment theses that articulate opportunity, risk, and return.
         ---

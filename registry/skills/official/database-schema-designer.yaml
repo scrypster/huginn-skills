@@ -1,7 +1,7 @@
 id: official/database-schema-designer
 name: database-schema-designer
 display_name: Database Schema Designer
-author: official
+author: community
 description: Design normalized, scalable database schemas with clear relationships
   and constraints.
 version: 1.0.0

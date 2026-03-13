@@ -1,7 +1,7 @@
         ---
         name: django-rest-framework-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/django-rest-framework-expert/SKILL.md
         description: Build DRF APIs with serializers, viewsets, permissions, and pagination.
         ---

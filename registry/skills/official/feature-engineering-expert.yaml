@@ -1,7 +1,7 @@
 id: official/feature-engineering-expert
 name: feature-engineering-expert
 display_name: Feature Engineering Expert
-author: official
+author: community
 description: Transform raw data into powerful features that improve model performance.
 version: 1.0.0
 category: data

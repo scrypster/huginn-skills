@@ -1,7 +1,7 @@
         ---
         name: research-methodology-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/research-methodology-advisor/SKILL.md
         description: Design research studies: qualitative vs. quantitative, sampling, bias, and validity.
         ---

@@ -1,7 +1,7 @@
 id: official/commit-splitter
 name: commit-splitter
 display_name: Commit Splitter
-author: official
+author: community
 description: Split large commits into focused, atomic commits using git add -p.
 version: 1.0.0
 category: git

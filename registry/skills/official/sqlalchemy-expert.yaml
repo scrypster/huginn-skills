@@ -1,7 +1,7 @@
 id: official/sqlalchemy-expert
 name: sqlalchemy-expert
 display_name: SQLAlchemy Expert
-author: official
+author: community
 description: Use SQLAlchemy 2.0 with async sessions, relationships, and efficient
   query patterns.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: rfc-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rfc-writer/SKILL.md
         description: Write structured RFCs / design docs that capture context, options, and decisions.
         ---

@@ -1,7 +1,7 @@
         ---
         name: serverless-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/serverless-expert/SKILL.md
         description: Design and optimize serverless architectures with AWS Lambda, Vercel, and Cloudflare Workers.
         ---

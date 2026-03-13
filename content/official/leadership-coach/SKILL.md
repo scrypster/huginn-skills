@@ -1,7 +1,7 @@
         ---
         name: leadership-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/leadership-coach/SKILL.md
         description: Coach leaders through common challenges: delegation, giving feedback, and building trust.
         ---

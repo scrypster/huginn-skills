@@ -1,7 +1,7 @@
         ---
         name: shell-script-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/shell-script-writer/SKILL.md
         description: Write reliable, portable shell scripts for automation and system administration.
         ---

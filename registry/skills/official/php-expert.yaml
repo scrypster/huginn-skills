@@ -1,7 +1,7 @@
 id: official/php-expert
 name: php-expert
 display_name: PHP Expert
-author: official
+author: community
 description: 'Write modern PHP 8.2+: enums, fibers, attributes, and strict types.'
 version: 1.0.0
 category: language

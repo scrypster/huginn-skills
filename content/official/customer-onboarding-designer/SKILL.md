@@ -1,7 +1,7 @@
         ---
         name: customer-onboarding-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/customer-onboarding-designer/SKILL.md
         description: Design customer onboarding: time-to-value, milestones, checkpoints, and success criteria.
         ---

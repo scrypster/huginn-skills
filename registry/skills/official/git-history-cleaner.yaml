@@ -1,7 +1,7 @@
 id: official/git-history-cleaner
 name: git-history-cleaner
 display_name: Git History Cleaner
-author: official
+author: community
 description: 'Clean up messy commit history with interactive rebase: squash, fixup,
   reword.'
 version: 1.0.0

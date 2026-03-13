@@ -1,7 +1,7 @@
 id: official/poetry-writer
 name: poetry-writer
 display_name: Poetry Writer
-author: official
+author: community
 description: Write poetry with attention to image, rhythm, compression, and emotional
   truth.
 version: 1.0.0

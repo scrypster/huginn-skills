@@ -1,7 +1,7 @@
 id: official/api-design-expert
 name: api-design-expert
 display_name: API Design Expert
-author: official
+author: community
 description: Design intuitive, consistent REST APIs with excellent developer experience.
 version: 1.0.0
 category: workflow

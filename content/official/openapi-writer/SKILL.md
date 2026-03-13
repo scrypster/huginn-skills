@@ -1,7 +1,7 @@
         ---
         name: openapi-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/openapi-writer/SKILL.md
         description: Design clear, complete OpenAPI 3.x specifications for REST APIs.
         ---

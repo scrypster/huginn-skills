@@ -1,7 +1,7 @@
         ---
         name: pr-description-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/pr-description-writer/SKILL.md
         description: Write clear, reviewer-friendly PR descriptions with context, changes, and test plan.
         ---

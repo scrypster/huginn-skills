@@ -1,7 +1,7 @@
 id: official/objection-handler
 name: objection-handler
 display_name: Objection Handler
-author: official
+author: community
 description: 'Address sales objections: acknowledge, explore, reframe, and validate.'
 version: 1.0.0
 category: workflow

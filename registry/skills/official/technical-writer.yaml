@@ -1,7 +1,7 @@
 id: official/technical-writer
 name: technical-writer
 display_name: Technical Writer
-author: official
+author: community
 description: Write clear, accurate technical documentation that developers and users
   actually use.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: goal-setting-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/goal-setting-coach/SKILL.md
         description: Set goals with SMART criteria, implementation intentions, and progress tracking.
         ---

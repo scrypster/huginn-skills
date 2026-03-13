@@ -1,7 +1,7 @@
         ---
         name: financial-model-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/financial-model-advisor/SKILL.md
         description: Build financial models: revenue, costs, cash flow, and scenario analysis.
         ---

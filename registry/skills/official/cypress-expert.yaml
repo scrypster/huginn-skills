@@ -1,7 +1,7 @@
 id: official/cypress-expert
 name: cypress-expert
 display_name: Cypress Expert
-author: official
+author: community
 description: 'Write Cypress E2E tests: commands, fixtures, intercepts, and CI integration.'
 version: 1.0.0
 category: testing

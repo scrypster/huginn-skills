@@ -1,7 +1,7 @@
 id: official/oauth-security-expert
 name: oauth-security-expert
 display_name: OAuth & Authentication Expert
-author: official
+author: community
 description: Implement secure authentication and authorization with OAuth2, OIDC,
   and JWT.
 version: 1.0.0

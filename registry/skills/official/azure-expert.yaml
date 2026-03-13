@@ -1,7 +1,7 @@
 id: official/azure-expert
 name: azure-expert
 display_name: Azure Expert
-author: official
+author: community
 description: 'Design Azure architectures: AKS, App Service, SQL, and Azure DevOps
   pipelines.'
 version: 1.0.0

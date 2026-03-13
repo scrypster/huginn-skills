@@ -1,7 +1,7 @@
 id: official/load-testing-advisor
 name: load-testing-advisor
 display_name: Load Testing Advisor
-author: official
+author: community
 description: Design and interpret load tests that reveal how systems perform under
   real traffic.
 version: 1.0.0

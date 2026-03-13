@@ -1,7 +1,7 @@
         ---
         name: react-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/react-expert/SKILL.md
         description: Build scalable React applications with hooks, context, and modern patterns.
         ---

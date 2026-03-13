@@ -1,7 +1,7 @@
 id: official/team-charter-creator
 name: team-charter-creator
 display_name: Team Charter Creator
-author: official
+author: community
 description: 'Create team charters: purpose, norms, decision-making, and accountability.'
 version: 1.0.0
 category: workflow

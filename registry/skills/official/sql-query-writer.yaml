@@ -1,7 +1,7 @@
 id: official/sql-query-writer
 name: sql-query-writer
 display_name: SQL Query Writer
-author: official
+author: community
 description: Write efficient, readable SQL queries for any database system.
 version: 1.0.0
 category: data

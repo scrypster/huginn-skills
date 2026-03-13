@@ -1,7 +1,7 @@
 id: official/pandas-expert
 name: pandas-expert
 display_name: Pandas Expert
-author: official
+author: community
 description: 'Use pandas efficiently: vectorized operations, memory management, and
   method chains.'
 version: 1.0.0

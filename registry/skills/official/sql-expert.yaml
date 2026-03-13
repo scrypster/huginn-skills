@@ -1,7 +1,7 @@
 id: official/sql-expert
 name: sql-expert
 display_name: SQL Expert
-author: official
+author: community
 description: 'Write correct, efficient SQL: joins, CTEs, window functions, and indexes.'
 version: 1.0.0
 category: language

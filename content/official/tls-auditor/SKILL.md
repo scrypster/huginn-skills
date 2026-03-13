@@ -1,7 +1,7 @@
         ---
         name: tls-auditor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tls-auditor/SKILL.md
         description: Audit TLS configurations for cipher suites, certificate chains, and HSTS.
         ---

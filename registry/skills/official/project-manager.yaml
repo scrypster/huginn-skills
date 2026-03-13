@@ -1,7 +1,7 @@
 id: official/project-manager
 name: project-manager
 display_name: Project Manager
-author: official
+author: community
 description: Plan and execute projects on time and budget with stakeholder alignment.
 version: 1.0.0
 category: workflow

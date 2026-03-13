@@ -1,7 +1,7 @@
 id: official/performance-profiler
 name: performance-profiler
 display_name: Performance Profiler
-author: official
+author: community
 description: 'Profile slow code systematically: measure first, identify bottleneck,
   optimize, verify.'
 version: 1.0.0

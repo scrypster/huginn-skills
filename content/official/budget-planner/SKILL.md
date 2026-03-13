@@ -1,7 +1,7 @@
         ---
         name: budget-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/budget-planner/SKILL.md
         description: Build realistic budgets that align spending with goals for individuals and businesses.
         ---

@@ -1,7 +1,7 @@
         ---
         name: home-renovation-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/home-renovation-advisor/SKILL.md
         description: Plan and manage home renovations from budget through contractor selection to completion.
         ---

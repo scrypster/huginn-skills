@@ -1,7 +1,7 @@
         ---
         name: git-history-cleaner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/git-history-cleaner/SKILL.md
         description: Clean up messy commit history with interactive rebase: squash, fixup, reword.
         ---

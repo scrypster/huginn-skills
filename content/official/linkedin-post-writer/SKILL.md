@@ -1,7 +1,7 @@
         ---
         name: linkedin-post-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/linkedin-post-writer/SKILL.md
         description: Write LinkedIn posts that build audience: hook, story, insight, and engagement.
         ---

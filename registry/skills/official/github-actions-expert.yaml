@@ -1,7 +1,7 @@
 id: official/github-actions-expert
 name: github-actions-expert
 display_name: GitHub Actions Expert
-author: official
+author: community
 description: 'Write efficient GitHub Actions workflows: caching, matrices, and reusable
   workflows.'
 version: 1.0.0

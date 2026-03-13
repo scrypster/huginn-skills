@@ -1,7 +1,7 @@
         ---
         name: video-production-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/video-production-advisor/SKILL.md
         description: Produce high-quality video content from pre-production through post-production.
         ---

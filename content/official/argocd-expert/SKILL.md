@@ -1,7 +1,7 @@
         ---
         name: argocd-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/argocd-expert/SKILL.md
         description: Configure ArgoCD GitOps workflows: apps, app-of-apps, sync policies, and RBAC.
         ---

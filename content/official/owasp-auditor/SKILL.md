@@ -1,7 +1,7 @@
         ---
         name: owasp-auditor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/owasp-auditor/SKILL.md
         description: Audit code for OWASP Top 10: injection, auth failures, XSS, and misconfiguration.
         ---

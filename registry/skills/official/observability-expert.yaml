@@ -1,7 +1,7 @@
 id: official/observability-expert
 name: observability-expert
 display_name: Observability Expert
-author: official
+author: community
 description: Instrument applications with logs, metrics, and traces using OpenTelemetry.
 version: 1.0.0
 category: devops

@@ -1,7 +1,7 @@
 id: official/docker-compose-expert
 name: docker-compose-expert
 display_name: Docker Compose Expert
-author: official
+author: community
 description: Design Docker Compose setups for local development with health checks
   and volumes.
 version: 1.0.0

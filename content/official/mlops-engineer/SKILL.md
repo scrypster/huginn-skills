@@ -1,7 +1,7 @@
         ---
         name: mlops-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mlops-engineer/SKILL.md
         description: Build and operate ML infrastructure for training, serving, and monitoring models.
         ---

@@ -1,7 +1,7 @@
 id: official/cors-expert
 name: cors-expert
 display_name: CORS Expert
-author: official
+author: community
 description: 'Configure CORS correctly: origins, methods, credentials, and preflight
   handling.'
 version: 1.0.0

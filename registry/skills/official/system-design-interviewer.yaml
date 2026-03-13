@@ -1,7 +1,7 @@
 id: official/system-design-interviewer
 name: system-design-interviewer
 display_name: System Design Interview Coach
-author: official
+author: community
 description: Practice and coach system design interviews covering scalability, availability,
   and tradeoffs.
 version: 1.0.0

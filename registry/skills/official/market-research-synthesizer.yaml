@@ -1,7 +1,7 @@
 id: official/market-research-synthesizer
 name: market-research-synthesizer
 display_name: Market Research Synthesizer
-author: official
+author: community
 description: Synthesize market research data into clear insights and actionable recommendations.
 version: 1.0.0
 category: workflow

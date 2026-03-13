@@ -1,7 +1,7 @@
 id: official/typescript-web-pack
 name: typescript-web-pack
 display_name: TypeScript Web Pack
-author: official
+author: community
 description: TypeScript and frontend framework skills.
 version: 1.0.0
 license: MIT

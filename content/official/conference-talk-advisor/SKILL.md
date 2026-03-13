@@ -1,7 +1,7 @@
         ---
         name: conference-talk-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/conference-talk-advisor/SKILL.md
         description: Design, write, and rehearse compelling conference talks that earn standing ovations.
         ---

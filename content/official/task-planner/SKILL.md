@@ -1,7 +1,7 @@
         ---
         name: task-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/task-planner/SKILL.md
         description: Break any goal into a sequenced, dependency-aware task list with time estimates.
         ---

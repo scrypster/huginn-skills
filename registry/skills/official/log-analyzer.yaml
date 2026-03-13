@@ -1,7 +1,7 @@
 id: official/log-analyzer
 name: log-analyzer
 display_name: Log Analyzer
-author: official
+author: community
 description: Analyze log streams to extract patterns, errors, and anomalies systematically.
 version: 1.0.0
 category: debugging

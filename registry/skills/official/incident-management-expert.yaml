@@ -1,7 +1,7 @@
 id: official/incident-management-expert
 name: incident-management-expert
 display_name: Incident Management Expert
-author: official
+author: community
 description: Manage production incidents effectively with structured response and
   blameless postmortems.
 version: 1.0.0

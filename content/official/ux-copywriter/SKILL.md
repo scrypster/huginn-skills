@@ -1,7 +1,7 @@
         ---
         name: ux-copywriter
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ux-copywriter/SKILL.md
         description: Write UI microcopy: buttons, error messages, empty states, and onboarding flows.
         ---

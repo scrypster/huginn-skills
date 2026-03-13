@@ -1,7 +1,7 @@
         ---
         name: onboarding-guide-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/onboarding-guide-writer/SKILL.md
         description: Write developer onboarding guides: setup, architecture, key workflows, and norms.
         ---

@@ -1,7 +1,7 @@
 id: official/postgresql-expert
 name: postgresql-expert
 display_name: PostgreSQL Expert
-author: official
+author: community
 description: Design schemas, write performant queries, and operate PostgreSQL in production.
 version: 1.0.0
 category: data

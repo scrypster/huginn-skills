@@ -1,7 +1,7 @@
 id: official/code-migration-advisor
 name: code-migration-advisor
 display_name: Code Migration Advisor
-author: official
+author: community
 description: Plan safe, incremental migrations between frameworks, languages, or major
   versions.
 version: 1.0.0

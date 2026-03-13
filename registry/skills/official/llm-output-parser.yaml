@@ -1,7 +1,7 @@
 id: official/llm-output-parser
 name: llm-output-parser
 display_name: LLM Output Parser
-author: official
+author: community
 description: Build reliable LLM output parsers with schema validation and retry logic.
 version: 1.0.0
 category: ai

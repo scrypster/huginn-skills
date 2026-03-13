@@ -1,7 +1,7 @@
         ---
         name: meeting-notes
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meeting-notes/SKILL.md
         description: Transform raw meeting transcripts or bullet dumps into clean, structured notes.
         ---

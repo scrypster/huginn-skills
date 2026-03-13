@@ -1,7 +1,7 @@
         ---
         name: helm-chart-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/helm-chart-writer/SKILL.md
         description: Write maintainable Helm charts with sane defaults and documented values.
         ---

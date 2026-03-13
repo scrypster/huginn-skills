@@ -1,7 +1,7 @@
 id: official/agent-designer
 name: agent-designer
 display_name: AI Agent Designer
-author: official
+author: community
 description: 'Design reliable AI agent systems: tools, memory, planning, and failure
   handling.'
 version: 1.0.0

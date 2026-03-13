@@ -1,7 +1,7 @@
 id: official/figma-expert
 name: figma-expert
 display_name: Figma Design Expert
-author: official
+author: community
 description: Design professional UIs in Figma with components, auto-layout, and developer
   handoff.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: newsletter-growth-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/newsletter-growth-expert/SKILL.md
         description: Grow and monetize an email newsletter with strong content and acquisition strategies.
         ---

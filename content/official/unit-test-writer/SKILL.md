@@ -1,7 +1,7 @@
         ---
         name: unit-test-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/unit-test-writer/SKILL.md
         description: Write thorough unit tests: happy path, error paths, edge cases, and mocks.
         ---

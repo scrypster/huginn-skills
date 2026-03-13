@@ -1,7 +1,7 @@
 id: official/airflow-expert
 name: airflow-expert
 display_name: Apache Airflow Expert
-author: official
+author: community
 description: 'Design Airflow DAGs: task dependencies, sensors, dynamic tasks, and
   backfill.'
 version: 1.0.0

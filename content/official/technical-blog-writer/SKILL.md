@@ -1,7 +1,7 @@
         ---
         name: technical-blog-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/technical-blog-writer/SKILL.md
         description: Write engaging technical blog posts that educate developers without losing readers.
         ---

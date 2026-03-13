@@ -1,7 +1,7 @@
 id: official/weekly-review
 name: weekly-review
 display_name: Weekly Review
-author: official
+author: community
 description: Run a GTD-style weekly review to clear inboxes and set weekly priorities.
 version: 1.0.0
 category: workflow

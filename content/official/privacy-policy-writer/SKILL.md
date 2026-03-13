@@ -1,7 +1,7 @@
         ---
         name: privacy-policy-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/privacy-policy-writer/SKILL.md
         description: Write clear, GDPR-compliant privacy policies in plain language.
         ---

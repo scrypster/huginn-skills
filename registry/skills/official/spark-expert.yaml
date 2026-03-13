@@ -1,7 +1,7 @@
 id: official/spark-expert
 name: spark-expert
 display_name: Apache Spark Expert
-author: official
+author: community
 description: 'Write efficient PySpark jobs: partitioning, caching, and avoiding shuffles.'
 version: 1.0.0
 category: data

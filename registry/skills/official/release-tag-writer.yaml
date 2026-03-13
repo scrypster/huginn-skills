@@ -1,7 +1,7 @@
 id: official/release-tag-writer
 name: release-tag-writer
 display_name: Release Tag Writer
-author: official
+author: community
 description: Create well-formed git tags and release notes following SemVer conventions.
 version: 1.0.0
 category: git

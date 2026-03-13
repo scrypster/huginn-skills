@@ -1,7 +1,7 @@
 id: official/linux-sysadmin
 name: linux-sysadmin
 display_name: Linux SysAdmin Expert
-author: official
+author: community
 description: 'Diagnose Linux systems: CPU, memory, I/O, network, and process issues.'
 version: 1.0.0
 category: devops

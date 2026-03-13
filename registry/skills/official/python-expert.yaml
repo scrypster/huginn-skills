@@ -1,7 +1,7 @@
 id: official/python-expert
 name: python-expert
 display_name: Python Expert
-author: official
+author: community
 description: 'Write idiomatic Python: type hints, dataclasses, generators, context
   managers.'
 version: 1.0.0

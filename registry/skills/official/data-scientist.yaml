@@ -1,7 +1,7 @@
 id: official/data-scientist
 name: data-scientist
 display_name: Data Scientist
-author: official
+author: community
 description: Conduct rigorous data analysis and build predictive models using statistical
   methods.
 version: 1.0.0

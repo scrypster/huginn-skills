@@ -1,7 +1,7 @@
 id: official/culture-document-writer
 name: culture-document-writer
 display_name: Culture Document Writer
-author: official
+author: community
 description: 'Write culture documents: values with behaviors, anti-patterns, and real
   examples.'
 version: 1.0.0

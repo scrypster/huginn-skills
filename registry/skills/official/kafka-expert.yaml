@@ -1,7 +1,7 @@
 id: official/kafka-expert
 name: kafka-expert
 display_name: Apache Kafka Expert
-author: official
+author: community
 description: Design Kafka topics, consumer groups, schemas, and exactly-once semantics.
 version: 1.0.0
 category: data

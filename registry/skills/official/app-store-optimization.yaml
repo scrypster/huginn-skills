@@ -1,7 +1,7 @@
 id: official/app-store-optimization
 name: app-store-optimization
 display_name: App Store Optimization
-author: official
+author: community
 description: Optimize iOS and Android app listings for discoverability and conversion.
 version: 1.0.0
 category: workflow

@@ -1,7 +1,7 @@
 id: official/git-alias-advisor
 name: git-alias-advisor
 display_name: Git Alias Advisor
-author: official
+author: community
 description: Set up powerful git aliases and config that reduce friction in daily
   workflows.
 version: 1.0.0

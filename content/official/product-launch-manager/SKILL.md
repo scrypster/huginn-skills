@@ -1,7 +1,7 @@
         ---
         name: product-launch-manager
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-launch-manager/SKILL.md
         description: Plan and execute successful product launches with cross-functional coordination.
         ---

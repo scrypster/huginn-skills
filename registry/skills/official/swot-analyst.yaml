@@ -1,7 +1,7 @@
 id: official/swot-analyst
 name: swot-analyst
 display_name: SWOT Analyst
-author: official
+author: community
 description: 'Run rigorous SWOT analyses: internal factors, external forces, and strategic
   implications.'
 version: 1.0.0

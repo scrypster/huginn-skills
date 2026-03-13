@@ -1,7 +1,7 @@
         ---
         name: sql-analytics-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sql-analytics-expert/SKILL.md
         description: Write powerful analytical SQL with window functions, CTEs, and aggregations.
         ---

@@ -1,7 +1,7 @@
         ---
         name: unreal-engine-developer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/unreal-engine-developer/SKILL.md
         description: Build AAA-quality games and simulations with Unreal Engine 5.
         ---

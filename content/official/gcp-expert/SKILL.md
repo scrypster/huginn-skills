@@ -1,7 +1,7 @@
         ---
         name: gcp-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/gcp-expert/SKILL.md
         description: Design GCP architectures: Cloud Run, GKE, Pub/Sub, BigQuery, and IAM.
         ---

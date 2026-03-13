@@ -1,7 +1,7 @@
         ---
         name: ecommerce-conversion-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ecommerce-conversion-expert/SKILL.md
         description: Optimize e-commerce sites to increase conversion rates and average order value.
         ---

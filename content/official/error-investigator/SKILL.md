@@ -1,7 +1,7 @@
         ---
         name: error-investigator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/error-investigator/SKILL.md
         description: Analyze error messages and stack traces to identify root cause before suggesting fixes.
         ---

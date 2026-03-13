@@ -1,7 +1,7 @@
         ---
         name: academic-paper-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/academic-paper-writer/SKILL.md
         description: Write rigorous academic papers with proper structure, citation, and scholarly conventions.
         ---

@@ -1,7 +1,7 @@
         ---
         name: grafana-dashboard-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/grafana-dashboard-designer/SKILL.md
         description: Design Grafana dashboards: panel types, variables, thresholds, and alerting.
         ---

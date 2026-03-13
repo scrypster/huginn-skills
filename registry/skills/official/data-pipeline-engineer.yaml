@@ -1,7 +1,7 @@
 id: official/data-pipeline-engineer
 name: data-pipeline-engineer
 display_name: Data Pipeline Engineer
-author: official
+author: community
 description: Design and build reliable batch and streaming data pipelines.
 version: 1.0.0
 category: data

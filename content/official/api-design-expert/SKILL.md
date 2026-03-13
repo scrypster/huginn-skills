@@ -1,7 +1,7 @@
         ---
         name: api-design-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-design-expert/SKILL.md
         description: Design intuitive, consistent REST APIs with excellent developer experience.
         ---

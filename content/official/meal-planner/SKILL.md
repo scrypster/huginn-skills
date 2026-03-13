@@ -1,7 +1,7 @@
         ---
         name: meal-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meal-planner/SKILL.md
         description: Create practical weekly meal plans that balance nutrition, budget, and time efficiency.
         ---

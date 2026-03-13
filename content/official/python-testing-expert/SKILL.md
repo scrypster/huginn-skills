@@ -1,7 +1,7 @@
         ---
         name: python-testing-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/python-testing-expert/SKILL.md
         description: Write pytest suites with fixtures, parametrize, and async support.
         ---

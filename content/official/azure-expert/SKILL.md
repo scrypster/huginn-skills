@@ -1,7 +1,7 @@
         ---
         name: azure-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/azure-expert/SKILL.md
         description: Design Azure architectures: AKS, App Service, SQL, and Azure DevOps pipelines.
         ---

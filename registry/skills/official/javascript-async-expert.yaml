@@ -1,7 +1,7 @@
 id: official/javascript-async-expert
 name: javascript-async-expert
 display_name: JavaScript Async Expert
-author: official
+author: community
 description: 'Write correct async JS: Promise patterns, error handling, and AbortController.'
 version: 1.0.0
 category: language

@@ -1,7 +1,7 @@
 id: official/model-evaluation-expert
 name: model-evaluation-expert
 display_name: Model Evaluation Expert
-author: official
+author: community
 description: Choose the right metrics and evaluation frameworks for ML model assessment.
 version: 1.0.0
 category: ai

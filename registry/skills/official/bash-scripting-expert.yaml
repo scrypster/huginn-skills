@@ -1,7 +1,7 @@
 id: official/bash-scripting-expert
 name: bash-scripting-expert
 display_name: Bash Scripting Expert
-author: official
+author: community
 description: 'Write robust Bash scripts: error handling, quoting, and portable patterns.'
 version: 1.0.0
 category: language

@@ -1,7 +1,7 @@
 id: official/prompt-engineer
 name: prompt-engineer
 display_name: Prompt Engineer
-author: official
+author: community
 description: Write effective system prompts and few-shot examples for reliable LLM
   behavior.
 version: 1.0.0

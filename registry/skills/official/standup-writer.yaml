@@ -1,7 +1,7 @@
 id: official/standup-writer
 name: standup-writer
 display_name: Standup Writer
-author: official
+author: community
 description: Draft concise daily standups from raw notes, commits, or stream-of-consciousness.
 version: 1.0.0
 category: workflow

@@ -1,7 +1,7 @@
 id: official/ruby-expert
 name: ruby-expert
 display_name: Ruby Expert
-author: official
+author: community
 description: 'Write idiomatic Ruby: blocks, procs, modules, and meaningful DSLs.'
 version: 1.0.0
 category: language

@@ -1,7 +1,7 @@
         ---
         name: commit-splitter
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/commit-splitter/SKILL.md
         description: Split large commits into focused, atomic commits using git add -p.
         ---

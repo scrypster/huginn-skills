@@ -1,7 +1,7 @@
 id: official/product-metrics-advisor
 name: product-metrics-advisor
 display_name: Product Metrics Advisor
-author: official
+author: community
 description: 'Define product metrics: north star, input metrics, guardrails, and metric
   trees.'
 version: 1.0.0

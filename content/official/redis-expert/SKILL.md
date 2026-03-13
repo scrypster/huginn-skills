@@ -1,7 +1,7 @@
         ---
         name: redis-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/redis-expert/SKILL.md
         description: Use Redis as a cache, message broker, session store, and real-time data structure server.
         ---

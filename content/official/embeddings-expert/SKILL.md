@@ -1,7 +1,7 @@
         ---
         name: embeddings-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/embeddings-expert/SKILL.md
         description: Generate and use text embeddings for semantic search and clustering.
         ---

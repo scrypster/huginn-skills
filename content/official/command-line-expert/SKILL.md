@@ -1,7 +1,7 @@
         ---
         name: command-line-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/command-line-expert/SKILL.md
         description: Master the command line: piping, text processing, process management, and shortcuts.
         ---

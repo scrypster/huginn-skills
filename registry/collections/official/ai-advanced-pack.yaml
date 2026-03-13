@@ -1,7 +1,7 @@
 id: official/ai-advanced-pack
 name: ai-advanced-pack
 display_name: AI Advanced Pack
-author: official
+author: community
 description: Advanced AI engineering skills for production LLM systems.
 version: 1.0.0
 license: MIT

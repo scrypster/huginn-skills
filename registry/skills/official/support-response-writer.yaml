@@ -1,7 +1,7 @@
 id: official/support-response-writer
 name: support-response-writer
 display_name: Support Response Writer
-author: official
+author: community
 description: 'Write support responses that resolve issues and restore trust: empathy,
   clarity, action.'
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: css-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/css-expert/SKILL.md
         description: Write maintainable, performant CSS with modern layout, animations, and design tokens.
         ---

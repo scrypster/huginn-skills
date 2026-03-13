@@ -1,7 +1,7 @@
         ---
         name: sqlalchemy-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sqlalchemy-expert/SKILL.md
         description: Use SQLAlchemy 2.0 with async sessions, relationships, and efficient query patterns.
         ---

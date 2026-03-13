@@ -1,7 +1,7 @@
 id: official/fine-tuning-guide
 name: fine-tuning-guide
 display_name: Fine-tuning Guide
-author: official
+author: community
 description: 'Plan LLM fine-tuning: dataset preparation, training config, and evaluation.'
 version: 1.0.0
 category: ai

@@ -1,7 +1,7 @@
 id: official/python-power-pack
 name: python-power-pack
 display_name: Python Power Pack
-author: official
+author: community
 description: Complete Python development skills for modern Python 3.11+.
 version: 1.0.0
 license: MIT

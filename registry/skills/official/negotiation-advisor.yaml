@@ -1,7 +1,7 @@
 id: official/negotiation-advisor
 name: negotiation-advisor
 display_name: Negotiation Advisor
-author: official
+author: community
 description: 'Negotiate with principled tactics: BATNA, anchoring, interests vs. positions.'
 version: 1.0.0
 category: workflow

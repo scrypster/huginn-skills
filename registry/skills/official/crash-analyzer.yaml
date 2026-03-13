@@ -1,7 +1,7 @@
 id: official/crash-analyzer
 name: crash-analyzer
 display_name: Crash Analyzer
-author: official
+author: community
 description: Analyze crash dumps, segfaults, and panics to identify root cause and
   fix.
 version: 1.0.0

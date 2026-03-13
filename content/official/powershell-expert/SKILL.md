@@ -1,7 +1,7 @@
         ---
         name: powershell-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/powershell-expert/SKILL.md
         description: Write robust PowerShell scripts with error handling and module patterns.
         ---

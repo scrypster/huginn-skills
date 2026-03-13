@@ -1,7 +1,7 @@
         ---
         name: seo-content-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/seo-content-writer/SKILL.md
         description: Write SEO-optimized content: search intent, E-E-A-T, structure, and internal linking.
         ---

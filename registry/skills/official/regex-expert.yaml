@@ -1,7 +1,7 @@
 id: official/regex-expert
 name: regex-expert
 display_name: Regular Expression Expert
-author: official
+author: community
 description: Write and explain regular expressions for validation, extraction, and
   transformation.
 version: 1.0.0

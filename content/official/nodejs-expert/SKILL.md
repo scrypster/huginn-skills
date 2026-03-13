@@ -1,7 +1,7 @@
         ---
         name: nodejs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nodejs-expert/SKILL.md
         description: Build Node.js servers with proper error handling, streaming, and backpressure.
         ---

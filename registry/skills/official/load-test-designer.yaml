@@ -1,7 +1,7 @@
 id: official/load-test-designer
 name: load-test-designer
 display_name: Load Test Designer
-author: official
+author: community
 description: Design load test scenarios that surface real bottlenecks under realistic
   traffic.
 version: 1.0.0

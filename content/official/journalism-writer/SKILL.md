@@ -1,7 +1,7 @@
         ---
         name: journalism-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/journalism-writer/SKILL.md
         description: Report and write compelling journalism with rigorous sourcing and narrative structure.
         ---

@@ -1,7 +1,7 @@
         ---
         name: race-condition-detector
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/race-condition-detector/SKILL.md
         description: Diagnose race conditions and concurrency bugs through systematic lock/ordering analysis.
         ---

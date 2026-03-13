@@ -1,7 +1,7 @@
 id: official/data-platform-pack
 name: data-platform-pack
 display_name: Data Platform Pack
-author: official
+author: community
 description: Complete data engineering and analytics skills.
 version: 1.0.0
 license: MIT

@@ -1,7 +1,7 @@
 id: official/duckdb-expert
 name: duckdb-expert
 display_name: DuckDB Expert
-author: official
+author: community
 description: 'Use DuckDB for embedded analytics: SQL on files, Parquet, and Python
   integration.'
 version: 1.0.0

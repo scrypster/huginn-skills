@@ -1,7 +1,7 @@
         ---
         name: recipe-developer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/recipe-developer/SKILL.md
         description: Develop, test, and write well-structured recipes with accurate measurements and technique.
         ---

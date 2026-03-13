@@ -1,7 +1,7 @@
 id: official/meeting-notes
 name: meeting-notes
 display_name: Meeting Notes
-author: official
+author: community
 description: Transform raw meeting transcripts or bullet dumps into clean, structured
   notes.
 version: 1.0.0

@@ -1,7 +1,7 @@
         ---
         name: prompt-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/prompt-engineer/SKILL.md
         description: Write effective system prompts and few-shot examples for reliable LLM behavior.
         ---

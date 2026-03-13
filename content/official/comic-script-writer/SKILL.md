@@ -1,7 +1,7 @@
         ---
         name: comic-script-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/comic-script-writer/SKILL.md
         description: Write panel-by-panel comic scripts that collaborate effectively with visual artists.
         ---

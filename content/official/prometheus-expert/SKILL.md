@@ -1,7 +1,7 @@
         ---
         name: prometheus-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/prometheus-expert/SKILL.md
         description: Instrument code with Prometheus: counters, histograms, labels, and recording rules.
         ---

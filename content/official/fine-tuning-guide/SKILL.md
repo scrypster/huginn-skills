@@ -1,7 +1,7 @@
         ---
         name: fine-tuning-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/fine-tuning-guide/SKILL.md
         description: Plan LLM fine-tuning: dataset preparation, training config, and evaluation.
         ---

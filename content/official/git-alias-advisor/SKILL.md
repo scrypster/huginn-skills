@@ -1,7 +1,7 @@
         ---
         name: git-alias-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/git-alias-advisor/SKILL.md
         description: Set up powerful git aliases and config that reduce friction in daily workflows.
         ---

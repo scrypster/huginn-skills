@@ -1,7 +1,7 @@
 id: official/csharp-expert
 name: csharp-expert
 display_name: C# Expert
-author: official
+author: community
 description: Write modern C# with records, pattern matching, LINQ, and async/await.
 version: 1.0.0
 category: language

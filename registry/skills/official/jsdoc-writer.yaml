@@ -1,7 +1,7 @@
 id: official/jsdoc-writer
 name: jsdoc-writer
 display_name: JSDoc Writer
-author: official
+author: community
 description: Write complete JSDoc comments for public APIs with types, params, and
   examples.
 version: 1.0.0

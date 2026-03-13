@@ -1,7 +1,7 @@
 id: official/auth-reviewer
 name: auth-reviewer
 display_name: Auth Reviewer
-author: official
+author: community
 description: Review authentication and authorization implementations for correctness
   and security.
 version: 1.0.0

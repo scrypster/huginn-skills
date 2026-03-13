@@ -1,7 +1,7 @@
 id: official/data-visualization-advisor
 name: data-visualization-advisor
 display_name: Data Visualization Advisor
-author: official
+author: community
 description: Choose the right chart, eliminate chartjunk, and make data tell a clear
   story.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/error-investigator
 name: error-investigator
 display_name: Error Investigator
-author: official
+author: community
 description: Analyze error messages and stack traces to identify root cause before
   suggesting fixes.
 version: 1.0.0

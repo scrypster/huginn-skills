@@ -1,7 +1,7 @@
         ---
         name: nlp-engineer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nlp-engineer/SKILL.md
         description: Build natural language processing pipelines for text classification, NER, and generation.
         ---

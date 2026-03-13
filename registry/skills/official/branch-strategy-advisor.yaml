@@ -1,7 +1,7 @@
 id: official/branch-strategy-advisor
 name: branch-strategy-advisor
 display_name: Branch Strategy Advisor
-author: official
+author: community
 description: 'Advise on branch strategies: trunk-based development, GitFlow, and feature
   flags.'
 version: 1.0.0

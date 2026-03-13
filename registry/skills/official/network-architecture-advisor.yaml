@@ -1,7 +1,7 @@
 id: official/network-architecture-advisor
 name: network-architecture-advisor
 display_name: Network Architecture Advisor
-author: official
+author: community
 description: 'Design network architectures: VPCs, subnets, security groups, and private
   connectivity.'
 version: 1.0.0

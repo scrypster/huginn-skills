@@ -1,7 +1,7 @@
         ---
         name: vault-secrets-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vault-secrets-expert/SKILL.md
         description: Manage secrets with Vault: dynamic credentials, leases, and auth methods.
         ---

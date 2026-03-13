@@ -1,7 +1,7 @@
 id: official/snapshot-test-writer
 name: snapshot-test-writer
 display_name: Snapshot Test Writer
-author: official
+author: community
 description: Write focused snapshot tests with meaningful assertions and easy update
   paths.
 version: 1.0.0

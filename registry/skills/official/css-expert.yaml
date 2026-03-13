@@ -1,7 +1,7 @@
 id: official/css-expert
 name: css-expert
 display_name: CSS Expert
-author: official
+author: community
 description: Write maintainable, performant CSS with modern layout, animations, and
   design tokens.
 version: 1.0.0

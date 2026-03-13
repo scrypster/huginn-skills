@@ -1,7 +1,7 @@
 id: official/aws-architect
 name: aws-architect
 display_name: AWS Architect
-author: official
+author: community
 description: 'Design AWS architectures: compute, storage, networking, and cost optimization.'
 version: 1.0.0
 category: devops

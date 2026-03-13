@@ -1,7 +1,7 @@
 id: official/time-series-analyst
 name: time-series-analyst
 display_name: Time Series Analyst
-author: official
+author: community
 description: Analyze and forecast time series data using statistical and ML methods.
 version: 1.0.0
 category: data

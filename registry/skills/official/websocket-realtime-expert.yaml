@@ -1,7 +1,7 @@
 id: official/websocket-realtime-expert
 name: websocket-realtime-expert
 display_name: WebSocket & Real-Time Expert
-author: official
+author: community
 description: Build real-time features with WebSockets, Server-Sent Events, and efficient
   connection management.
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/context-window-optimizer
 name: context-window-optimizer
 display_name: Context Window Optimizer
-author: official
+author: community
 description: 'Optimize context window usage: compress, summarize, and prioritize information.'
 version: 1.0.0
 category: meta

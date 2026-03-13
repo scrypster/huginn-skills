@@ -1,7 +1,7 @@
         ---
         name: definition-of-done
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/definition-of-done/SKILL.md
         description: Create team-specific Definitions of Done that prevent scope creep and ensure quality.
         ---

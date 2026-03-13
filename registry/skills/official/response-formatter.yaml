@@ -1,7 +1,7 @@
 id: official/response-formatter
 name: response-formatter
 display_name: Response Formatter
-author: official
+author: community
 description: 'Format AI responses optimally: structure, length, and format matched
   to context.'
 version: 1.0.0

@@ -1,7 +1,7 @@
 id: official/sprint-retrospective
 name: sprint-retrospective
 display_name: Sprint Retrospective
-author: official
+author: community
 description: Facilitate structured sprint retrospectives with actionable outcomes.
 version: 1.0.0
 category: workflow

@@ -1,7 +1,7 @@
         ---
         name: cassandra-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cassandra-expert/SKILL.md
         description: Design Cassandra data models: partition keys, clustering, and query-first design.
         ---

@@ -1,7 +1,7 @@
         ---
         name: project-kickoff
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/project-kickoff/SKILL.md
         description: Run structured project kickoffs that surface assumptions and align teams early.
         ---

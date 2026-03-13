@@ -1,7 +1,7 @@
         ---
         name: log-analyzer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/log-analyzer/SKILL.md
         description: Analyze log streams to extract patterns, errors, and anomalies systematically.
         ---

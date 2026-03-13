@@ -1,7 +1,7 @@
         ---
         name: wedding-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/wedding-planner/SKILL.md
         description: Plan weddings from engagement to honeymoon with checklists, timelines, and vendor guidance.
         ---

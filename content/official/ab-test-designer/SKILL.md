@@ -1,7 +1,7 @@
         ---
         name: ab-test-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ab-test-designer/SKILL.md
         description: Design statistically valid A/B tests: hypothesis, sample size, metrics, and analysis.
         ---

@@ -1,7 +1,7 @@
 id: official/powershell-expert
 name: powershell-expert
 display_name: PowerShell Expert
-author: official
+author: community
 description: Write robust PowerShell scripts with error handling and module patterns.
 version: 1.0.0
 category: language

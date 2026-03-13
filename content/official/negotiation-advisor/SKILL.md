@@ -1,7 +1,7 @@
         ---
         name: negotiation-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/negotiation-advisor/SKILL.md
         description: Negotiate with principled tactics: BATNA, anchoring, interests vs. positions.
         ---

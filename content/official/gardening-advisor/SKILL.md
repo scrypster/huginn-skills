@@ -1,7 +1,7 @@
         ---
         name: gardening-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/gardening-advisor/SKILL.md
         description: Guide gardeners from seed selection to harvest with science-backed, practical advice.
         ---

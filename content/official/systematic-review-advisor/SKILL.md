@@ -1,7 +1,7 @@
         ---
         name: systematic-review-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/systematic-review-advisor/SKILL.md
         description: Design and conduct systematic literature reviews to synthesize research evidence.
         ---

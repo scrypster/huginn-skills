@@ -1,7 +1,7 @@
         ---
         name: product-owner-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-owner-advisor/SKILL.md
         description: Write great user stories, manage product backlogs, and maximize team value delivery.
         ---

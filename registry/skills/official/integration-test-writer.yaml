@@ -1,7 +1,7 @@
 id: official/integration-test-writer
 name: integration-test-writer
 display_name: Integration Test Writer
-author: official
+author: community
 description: Write integration tests that validate real system interactions end-to-end.
 version: 1.0.0
 category: testing

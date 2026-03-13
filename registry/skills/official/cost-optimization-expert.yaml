@@ -1,7 +1,7 @@
 id: official/cost-optimization-expert
 name: cost-optimization-expert
 display_name: Cloud Cost Optimizer
-author: official
+author: community
 description: 'Identify and fix cloud cost waste: right-sizing, reserved instances,
   and idle resources.'
 version: 1.0.0

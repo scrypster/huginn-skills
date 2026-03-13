@@ -1,7 +1,7 @@
 id: official/adr-writer
 name: adr-writer
 display_name: Architecture Decision Record Writer
-author: official
+author: community
 description: Write clear Architecture Decision Records that capture context, options,
   and rationale.
 version: 1.0.0

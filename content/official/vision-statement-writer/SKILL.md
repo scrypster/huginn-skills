@@ -1,7 +1,7 @@
         ---
         name: vision-statement-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/vision-statement-writer/SKILL.md
         description: Write inspiring vision statements: aspirational, specific, memorable, and time-bound.
         ---

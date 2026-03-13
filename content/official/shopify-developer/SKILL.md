@@ -1,7 +1,7 @@
         ---
         name: shopify-developer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/shopify-developer/SKILL.md
         description: Build and customize Shopify stores with Liquid templates, apps, and custom themes.
         ---

@@ -1,7 +1,7 @@
 id: official/naming-conventions-guide
 name: naming-conventions-guide
 display_name: Naming Conventions Guide
-author: official
+author: community
 description: 'Name variables, functions, and modules clearly: intent over abbreviation.'
 version: 1.0.0
 category: meta

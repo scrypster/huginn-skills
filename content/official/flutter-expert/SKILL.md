@@ -1,7 +1,7 @@
         ---
         name: flutter-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/flutter-expert/SKILL.md
         description: Build beautiful cross-platform apps with Flutter and Dart.
         ---

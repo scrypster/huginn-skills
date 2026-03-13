@@ -1,7 +1,7 @@
 id: official/python-web-pack
 name: python-web-pack
 display_name: Python Web Pack
-author: official
+author: community
 description: Full-stack Python web development skills.
 version: 1.0.0
 license: MIT

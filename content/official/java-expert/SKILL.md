@@ -1,7 +1,7 @@
         ---
         name: java-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/java-expert/SKILL.md
         description: Write modern Java: records, sealed classes, pattern matching, and streams.
         ---

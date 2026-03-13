@@ -1,7 +1,7 @@
 id: official/embeddings-expert
 name: embeddings-expert
 display_name: Embeddings Expert
-author: official
+author: community
 description: Generate and use text embeddings for semantic search and clustering.
 version: 1.0.0
 category: ai

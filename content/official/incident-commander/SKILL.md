@@ -1,7 +1,7 @@
         ---
         name: incident-commander
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/incident-commander/SKILL.md
         description: Run structured incident response: commander, scribe, timeline, and communication.
         ---

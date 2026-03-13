@@ -1,7 +1,7 @@
         ---
         name: grpc-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/grpc-expert/SKILL.md
         description: Design gRPC services with proto3 schemas, streaming, and error handling.
         ---

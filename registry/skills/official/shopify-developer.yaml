@@ -1,7 +1,7 @@
 id: official/shopify-developer
 name: shopify-developer
 display_name: Shopify Developer
-author: official
+author: community
 description: Build and customize Shopify stores with Liquid templates, apps, and custom
   themes.
 version: 1.0.0

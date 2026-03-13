@@ -1,7 +1,7 @@
 id: official/redis-expert
 name: redis-expert
 display_name: Redis Expert
-author: official
+author: community
 description: Use Redis as a cache, message broker, session store, and real-time data
   structure server.
 version: 1.0.0

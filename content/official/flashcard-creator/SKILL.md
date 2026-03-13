@@ -1,7 +1,7 @@
         ---
         name: flashcard-creator
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/flashcard-creator/SKILL.md
         description: Create effective flashcards for spaced repetition: atomic, clear, and memorable.
         ---

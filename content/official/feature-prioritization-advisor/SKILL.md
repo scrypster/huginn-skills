@@ -1,7 +1,7 @@
         ---
         name: feature-prioritization-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/feature-prioritization-advisor/SKILL.md
         description: Prioritize features using RICE, ICE, MoSCoW, and impact-vs-effort frameworks.
         ---

@@ -1,7 +1,7 @@
         ---
         name: value-proposition-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/value-proposition-designer/SKILL.md
         description: Design compelling value propositions using the Value Prop Canvas and Jobs-to-be-Done.
         ---

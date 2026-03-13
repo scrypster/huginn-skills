@@ -1,7 +1,7 @@
         ---
         name: startup-fundraising-advisor
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/startup-fundraising-advisor/SKILL.md
         description: Navigate startup fundraising from pre-seed through Series A with investor-ready materials.
         ---

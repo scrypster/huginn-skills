@@ -1,7 +1,7 @@
         ---
         name: nestjs-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nestjs-expert/SKILL.md
         description: Build NestJS services with modules, guards, pipes, and proper DI patterns.
         ---

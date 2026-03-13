@@ -1,7 +1,7 @@
         ---
         name: storytelling-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/storytelling-coach/SKILL.md
         description: Tell compelling stories: structure, stakes, conflict, character, and emotional truth.
         ---

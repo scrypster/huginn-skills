@@ -1,7 +1,7 @@
 id: official/grpc-expert
 name: grpc-expert
 display_name: gRPC Expert
-author: official
+author: community
 description: Design gRPC services with proto3 schemas, streaming, and error handling.
 version: 1.0.0
 category: language

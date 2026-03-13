@@ -1,7 +1,7 @@
 id: official/angular-expert
 name: angular-expert
 display_name: Angular Expert
-author: official
+author: community
 description: Build enterprise-scale SPAs with Angular, RxJS, and strong typing.
 version: 1.0.0
 category: language

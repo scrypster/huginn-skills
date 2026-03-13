@@ -1,7 +1,7 @@
         ---
         name: llm-safety-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-safety-expert/SKILL.md
         description: Implement LLM safety guardrails: input filtering, output validation, and moderation.
         ---

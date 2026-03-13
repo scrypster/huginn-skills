@@ -1,7 +1,7 @@
         ---
         name: celery-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/celery-expert/SKILL.md
         description: Build reliable Celery task queues: retries, chords, monitoring, and error handling.
         ---

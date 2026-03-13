@@ -1,7 +1,7 @@
         ---
         name: git-bisect-guide
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/git-bisect-guide/SKILL.md
         description: Run systematic git bisect sessions to find the exact commit that introduced a bug.
         ---

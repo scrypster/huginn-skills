@@ -1,7 +1,7 @@
         ---
         name: objection-handler
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/objection-handler/SKILL.md
         description: Address sales objections: acknowledge, explore, reframe, and validate.
         ---

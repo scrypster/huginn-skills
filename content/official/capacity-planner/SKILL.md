@@ -1,7 +1,7 @@
         ---
         name: capacity-planner
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/capacity-planner/SKILL.md
         description: Plan sprint capacity accounting for velocity, leave, and overhead realistically.
         ---

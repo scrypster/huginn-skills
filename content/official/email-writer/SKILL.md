@@ -1,7 +1,7 @@
         ---
         name: email-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/email-writer/SKILL.md
         description: Write clear, effective emails: subject lines, structure, and a single ask.
         ---

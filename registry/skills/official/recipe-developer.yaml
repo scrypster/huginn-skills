@@ -1,7 +1,7 @@
 id: official/recipe-developer
 name: recipe-developer
 display_name: Recipe Developer
-author: official
+author: community
 description: Develop, test, and write well-structured recipes with accurate measurements
   and technique.
 version: 1.0.0

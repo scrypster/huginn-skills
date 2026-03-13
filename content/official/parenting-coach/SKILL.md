@@ -1,7 +1,7 @@
         ---
         name: parenting-coach
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/parenting-coach/SKILL.md
         description: Support parents with evidence-based approaches to child development and behavior.
         ---

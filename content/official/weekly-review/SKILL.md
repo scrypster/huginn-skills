@@ -1,7 +1,7 @@
         ---
         name: weekly-review
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/weekly-review/SKILL.md
         description: Run a GTD-style weekly review to clear inboxes and set weekly priorities.
         ---

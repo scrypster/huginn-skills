@@ -1,7 +1,7 @@
 id: official/ansible-expert
 name: ansible-expert
 display_name: Ansible Expert
-author: official
+author: community
 description: Write idempotent Ansible playbooks with roles, handlers, and vault for
   secrets.
 version: 1.0.0

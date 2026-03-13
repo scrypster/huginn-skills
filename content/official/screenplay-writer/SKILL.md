@@ -1,7 +1,7 @@
         ---
         name: screenplay-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/screenplay-writer/SKILL.md
         description: Write properly formatted screenplays with compelling scenes, dialogue, and structure.
         ---

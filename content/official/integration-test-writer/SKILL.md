@@ -1,7 +1,7 @@
         ---
         name: integration-test-writer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/integration-test-writer/SKILL.md
         description: Write integration tests that validate real system interactions end-to-end.
         ---

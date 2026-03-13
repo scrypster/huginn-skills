@@ -1,7 +1,7 @@
         ---
         name: data-pipeline-designer
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-pipeline-designer/SKILL.md
         description: Design reliable data pipelines: ingestion, transformation, validation, and lineage.
         ---

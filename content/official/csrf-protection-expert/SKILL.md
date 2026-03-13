@@ -1,7 +1,7 @@
         ---
         name: csrf-protection-expert
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/csrf-protection-expert/SKILL.md
         description: Implement CSRF protection: synchronizer tokens, SameSite cookies, and double submit.
         ---

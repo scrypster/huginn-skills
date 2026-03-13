@@ -1,7 +1,7 @@
         ---
         name: domain-driven-design
         version: 1.0.0
-        author: official
+        author: community
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/domain-driven-design/SKILL.md
         description: Apply DDD concepts: aggregates, entities, value objects, and bounded contexts.
         ---
