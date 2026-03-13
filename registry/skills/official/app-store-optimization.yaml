@@ -1,0 +1,16 @@
+id: official/app-store-optimization
+name: app-store-optimization
+display_name: App Store Optimization
+author: official
+description: Optimize iOS and Android app listings for discoverability and conversion.
+version: 1.0.0
+category: workflow
+tags:
+- aso
+- app-store
+- play-store
+- mobile-growth
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/app-store-optimization/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

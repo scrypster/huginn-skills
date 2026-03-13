@@ -1,0 +1,17 @@
+id: official/instagram-content-strategist
+name: instagram-content-strategist
+display_name: Instagram Content Strategist
+author: official
+description: Grow an Instagram presence with strategic content, reels, and engagement
+  tactics.
+version: 1.0.0
+category: workflow
+tags:
+- instagram
+- reels
+- visual-content
+- social-media
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/instagram-content-strategist/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

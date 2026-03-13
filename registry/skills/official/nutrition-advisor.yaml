@@ -1,0 +1,17 @@
+id: official/nutrition-advisor
+name: nutrition-advisor
+display_name: Nutrition Advisor
+author: official
+description: Provide evidence-based nutrition guidance for health, performance, and
+  body composition goals.
+version: 1.0.0
+category: workflow
+tags:
+- nutrition
+- diet
+- meal-planning
+- health
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nutrition-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

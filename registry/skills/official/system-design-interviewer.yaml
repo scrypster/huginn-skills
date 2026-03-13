@@ -1,0 +1,17 @@
+id: official/system-design-interviewer
+name: system-design-interviewer
+display_name: System Design Interview Coach
+author: official
+description: Practice and coach system design interviews covering scalability, availability,
+  and tradeoffs.
+version: 1.0.0
+category: workflow
+tags:
+- system-design
+- interviews
+- architecture
+- scalability
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/system-design-interviewer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -2,14 +2,14 @@ id: official/graphql-expert
 name: graphql-expert
 display_name: GraphQL Expert
 author: official
-description: Design GraphQL schemas with proper types, mutations, subscriptions, and
-  N+1 fixes.
+description: Design and implement GraphQL APIs and clients with schemas, resolvers,
+  and subscriptions.
 version: 1.0.0
 category: language
 tags:
 - graphql
+- apollo
 - schema
-- resolvers
 - api
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/graphql-expert/SKILL.md
 license: MIT

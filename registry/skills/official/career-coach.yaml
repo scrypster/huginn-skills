@@ -1,0 +1,16 @@
+id: official/career-coach
+name: career-coach
+display_name: Career Coach
+author: official
+description: Guide career planning, skill development, and professional transitions.
+version: 1.0.0
+category: workflow
+tags:
+- career-coaching
+- professional-development
+- growth
+- mentorship
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/career-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

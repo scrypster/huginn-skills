@@ -1,0 +1,17 @@
+id: official/level-design-advisor
+name: level-design-advisor
+display_name: Level Design Advisor
+author: official
+description: Design engaging game levels with strong pacing, navigation, and player
+  guidance.
+version: 1.0.0
+category: workflow
+tags:
+- level-design
+- game-dev
+- environment
+- pacing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/level-design-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

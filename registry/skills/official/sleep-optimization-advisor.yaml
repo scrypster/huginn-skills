@@ -1,0 +1,17 @@
+id: official/sleep-optimization-advisor
+name: sleep-optimization-advisor
+display_name: Sleep Optimization Advisor
+author: official
+description: Optimize sleep quality and quantity using evidence-based sleep hygiene
+  strategies.
+version: 1.0.0
+category: workflow
+tags:
+- sleep
+- circadian-rhythm
+- health
+- performance
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/sleep-optimization-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

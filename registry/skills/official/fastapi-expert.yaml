@@ -2,15 +2,15 @@ id: official/fastapi-expert
 name: fastapi-expert
 display_name: FastAPI Expert
 author: official
-description: Build production FastAPI services with dependency injection, validation,
-  and async.
+description: Build high-performance Python APIs with FastAPI, Pydantic, and async
+  patterns.
 version: 1.0.0
 category: language
 tags:
-- python
 - fastapi
+- python
 - rest-api
-- pydantic
+- async
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/fastapi-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

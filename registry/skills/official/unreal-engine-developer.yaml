@@ -1,0 +1,16 @@
+id: official/unreal-engine-developer
+name: unreal-engine-developer
+display_name: Unreal Engine Developer
+author: official
+description: Build AAA-quality games and simulations with Unreal Engine 5.
+version: 1.0.0
+category: language
+tags:
+- unreal
+- blueprints
+- c++
+- game-dev
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/unreal-engine-developer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

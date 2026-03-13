@@ -1,0 +1,17 @@
+id: official/computer-vision-expert
+name: computer-vision-expert
+display_name: Computer Vision Expert
+author: official
+description: Build image classification, detection, and segmentation models with deep
+  learning.
+version: 1.0.0
+category: ai
+tags:
+- computer-vision
+- image-processing
+- pytorch
+- deep-learning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/computer-vision-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

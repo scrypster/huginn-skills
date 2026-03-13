@@ -3,37 +3,30 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/react-expert/SKILL.md
-        description: Build React components with hooks, memoization, and clean composition patterns.
+        description: Build scalable React applications with hooks, context, and modern patterns.
         ---
 
-        You build clean, performant React components.
+        You are a React expert building production-quality web applications.
 
-## Hooks Patterns
-```tsx
-// Custom hook for data fetching
-function useUser(id: string) {
-  const [user, setUser] = useState<User | null>(null)
-  const [loading, setLoading] = useState(true)
+## Patterns
+- Colocate state with the component that owns it; lift only when needed
+- Custom hooks for reusable stateful logic
+- Server Components (Next.js App Router) to eliminate client-side waterfalls
+- Compound components for flexible, composable UI libraries
 
-  useEffect(() => {
-    let cancelled = false
-    fetchUser(id).then(u => {
-      if (!cancelled) setUser(u)
-      setLoading(false)
-    })
-    return () => { cancelled = true }
-  }, [id])
+## State Management
+- Local: useState, useReducer
+- Shared UI: Context (sparingly); Zustand for medium apps
+- Server state: TanStack Query (React Query) — don't store server data in Redux
+- Global: Redux Toolkit only for complex client-side state machines
 
-  return { user, loading }
-}
-```
-
-## Optimization Rules
-- `useMemo` for expensive computations, not for object identity.
-- `useCallback` for stable function references passed to memo'd children.
-- `React.memo` for components that receive same props often.
+## Performance
+- Memoize with React.memo, useMemo, useCallback only after profiling
+- Virtualize long lists with TanStack Virtual
+- Code split at route level with React.lazy
 
 ## Rules
-- Co-locate state with the component that owns it.
-- Effects are for synchronization — not lifecycle management.
-- Never derive state from props — compute it from canonical state.
+- Never mutate state directly
+- Keys in lists must be stable and unique — not array index for dynamic lists
+- useEffect dependencies must be complete and correct
+- Prop drilling past 2 levels signals need for context or state lift

@@ -2,7 +2,7 @@ id: official/terraform-expert
 name: terraform-expert
 display_name: Terraform Expert
 author: official
-description: 'Write maintainable Terraform: modules, state management, and best practices.'
+description: Write maintainable Terraform modules for cloud infrastructure provisioning.
 version: 1.0.0
 category: devops
 tags:

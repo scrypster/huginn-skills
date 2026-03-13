@@ -1,0 +1,17 @@
+id: official/cover-letter-writer
+name: cover-letter-writer
+display_name: Cover Letter Writer
+author: official
+description: Write compelling cover letters that connect your experience to company
+  needs.
+version: 1.0.0
+category: workflow
+tags:
+- cover-letter
+- career
+- job-search
+- writing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/cover-letter-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

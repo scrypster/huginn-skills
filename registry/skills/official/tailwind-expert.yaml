@@ -1,0 +1,17 @@
+id: official/tailwind-expert
+name: tailwind-expert
+display_name: Tailwind CSS Expert
+author: official
+description: Build UIs rapidly with Tailwind CSS utility classes and design system
+  conventions.
+version: 1.0.0
+category: language
+tags:
+- tailwind
+- css
+- utility-first
+- design-system
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tailwind-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

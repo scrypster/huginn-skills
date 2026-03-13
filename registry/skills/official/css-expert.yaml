@@ -1,0 +1,17 @@
+id: official/css-expert
+name: css-expert
+display_name: CSS Expert
+author: official
+description: Write maintainable, performant CSS with modern layout, animations, and
+  design tokens.
+version: 1.0.0
+category: language
+tags:
+- css
+- tailwind
+- animations
+- responsive
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/css-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

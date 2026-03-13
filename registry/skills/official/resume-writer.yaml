@@ -1,0 +1,16 @@
+id: official/resume-writer
+name: resume-writer
+display_name: Resume Writer
+author: official
+description: Write ATS-optimized resumes that highlight impact and get interviews.
+version: 1.0.0
+category: workflow
+tags:
+- resume
+- career
+- job-search
+- writing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/resume-writer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

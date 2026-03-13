@@ -3,33 +3,30 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/svelte-expert/SKILL.md
-        description: Build Svelte/SvelteKit applications with runes, stores, and server-side loading.
+        description: Build highly performant web apps with Svelte's compile-time reactivity and SvelteKit.
         ---
 
-        You build clean Svelte and SvelteKit applications.
+        You are a Svelte expert building lean, performant web applications.
 
-## SvelteKit Patterns
-```svelte
-<!-- +page.server.ts -->
-export async function load({ params }) {
-  const user = await db.getUser(params.id)
-  if (!user) error(404, 'User not found')
-  return { user }
-}
+## Svelte Patterns
+- Reactivity via assignment: `count += 1` triggers reactivity (no hooks needed)
+- Stores: writable/readable/derived for shared state
+- `$:` reactive statements for derived values and side effects
+- Component composition over inheritance; slot-based API
 
-<!-- +page.svelte (Svelte 5 runes) -->
-<script lang="ts">
-  let { data } = $props()
-  let count = $state(0)
-  let doubled = $derived(count * 2)
-</script>
+## SvelteKit
+- File-based routing with +page.svelte, +layout.svelte, +server.ts
+- Load functions run server-side by default; use `browser` guard for client-only
+- Form actions for mutations — no client JS needed for basic forms
+- Adapters: node, vercel, cloudflare, static
 
-<h1>{data.user.name}</h1>
-<p>{count} × 2 = {doubled}</p>
-<button onclick={() => count++}>+</button>
-```
+## Performance
+- Svelte compiles to vanilla JS — zero runtime overhead
+- Use `svelte:component` for dynamic components
+- Transition API for accessible animations
+- `use:action` for DOM interaction patterns
 
 ## Rules
-- Use `$props()`, `$state()`, `$derived()` runes in Svelte 5.
-- `+page.server.ts` for data fetching and form actions — not client-side API calls.
-- Svelte stores for cross-component state, props for parent-child.
+- Don't spread event handlers ($on) unnecessarily — use component events
+- Two-way binding (bind:) is fine for form elements; avoid for complex state
+- Test with Playwright for E2E; Vitest for unit and component tests

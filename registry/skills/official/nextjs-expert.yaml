@@ -2,7 +2,8 @@ id: official/nextjs-expert
 name: nextjs-expert
 display_name: Next.js Expert
 author: official
-description: Build Next.js 14+ apps with App Router, Server Components, and edge functions.
+description: Build full-stack web applications with Next.js App Router, RSC, and edge
+  deployments.
 version: 1.0.0
 category: language
 tags:

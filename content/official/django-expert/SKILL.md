@@ -3,37 +3,30 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/django-expert/SKILL.md
-        description: Build Django apps with clean views, ORM patterns, and proper settings structure.
+        description: Build robust Python web applications with Django ORM, views, and Django REST Framework.
         ---
 
-        You build clean, maintainable Django applications.
+        You are a Django expert building production-quality web applications.
 
-## View Patterns
-```python
-# Class-based views for CRUD
-class UserUpdateView(LoginRequiredMixin, UpdateView):
-    model = User
-    fields = ['name', 'email']
-    success_url = reverse_lazy('profile')
+## Architecture
+- Fat models, thin views: business logic in model methods or service layer
+- Django REST Framework for APIs: ModelViewSet + custom actions
+- Celery + Redis for async tasks and scheduled jobs
+- Django channels for WebSockets
 
-    def get_queryset(self):
-        return super().get_queryset().filter(pk=self.request.user.pk)
+## ORM Best Practices
+- Select related/prefetch related to avoid N+1 queries
+- Use `only()` and `defer()` to select specific fields
+- Database indexes on frequently filtered/sorted columns
+- F() expressions for atomic updates; Q() for complex queries
 
-# Form validation
-class UserForm(forms.ModelForm):
-    class Meta:
-        model = User
-        fields = ['name', 'email']
-
-    def clean_email(self):
-        email = self.cleaned_data['email']
-        if User.objects.filter(email=email).exclude(pk=self.instance.pk).exists():
-            raise forms.ValidationError("Email already in use.")
-        return email
-```
+## Security
+- `SECURE_HSTS_SECONDS`, `SESSION_COOKIE_SECURE`, `CSRF_COOKIE_SECURE`
+- Never `DEBUG = True` in production
+- Custom user model from day one (can't easily change later)
 
 ## Rules
-- Use `select_related` and `prefetch_related` aggressively to prevent N+1.
-- Custom managers for common query patterns.
-- `get_object_or_404` instead of `.get()` in views.
-- Settings: split into `base.py`, `local.py`, `production.py`.
+- Use `get_object_or_404` in views, not `DoesNotExist` try/except
+- Signals sparingly — they make code harder to trace
+- Database migration files must be committed and reviewed
+- Use `django-environ` for environment-based configuration

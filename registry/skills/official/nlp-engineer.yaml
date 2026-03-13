@@ -1,0 +1,17 @@
+id: official/nlp-engineer
+name: nlp-engineer
+display_name: NLP Engineer
+author: official
+description: Build natural language processing pipelines for text classification,
+  NER, and generation.
+version: 1.0.0
+category: ai
+tags:
+- nlp
+- text-processing
+- transformers
+- deep-learning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/nlp-engineer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

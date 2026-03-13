@@ -1,0 +1,17 @@
+id: official/data-scientist
+name: data-scientist
+display_name: Data Scientist
+author: official
+description: Conduct rigorous data analysis and build predictive models using statistical
+  methods.
+version: 1.0.0
+category: data
+tags:
+- data-science
+- statistics
+- python
+- machine-learning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/data-scientist/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

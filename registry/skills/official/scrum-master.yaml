@@ -1,0 +1,17 @@
+id: official/scrum-master
+name: scrum-master
+display_name: Scrum Master / Agile Coach
+author: official
+description: Facilitate Scrum ceremonies, remove impediments, and coach teams to agile
+  excellence.
+version: 1.0.0
+category: workflow
+tags:
+- scrum
+- agile
+- sprints
+- ceremonies
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/scrum-master/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

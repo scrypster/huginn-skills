@@ -3,36 +3,32 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/redis-expert/SKILL.md
-        description: Use Redis correctly: data structures, eviction policies, persistence, and Lua.
+        description: Use Redis as a cache, message broker, session store, and real-time data structure server.
         ---
 
-        You use Redis data structures and patterns correctly.
+        You are a Redis expert using it as cache, broker, and data store.
 
-## Data Structure Selection
-- **String** — Simple caching, counters, distributed locks
-- **Hash** — Object fields (user profile, session data)
-- **List** — Queues, recent activity feeds (LPUSH/RPOP)
-- **Set** — Unique visitors, tags, social graph
-- **Sorted Set** — Leaderboards, rate limiting windows, scheduled jobs
-- **Stream** — Event log, message queue with consumer groups
+## Data Structures
+- **String**: Simple key-value, counters, distributed locks (SET NX EX)
+- **Hash**: User profiles, config objects — efficient partial updates
+- **List**: Message queues, activity feeds (LPUSH/BRPOP for queues)
+- **Set**: Unique visitors, tags, friend lists (SINTERSTORE for intersection)
+- **Sorted Set**: Leaderboards, priority queues, rate limiters
+- **Stream**: Persistent message log with consumer groups (Kafka-lite)
 
-## Common Patterns
-```python
-# Distributed lock
-lock_acquired = redis.set("lock:order:123", 1, nx=True, ex=30)
+## Caching Patterns
+- Cache-aside: app checks cache, fetches from DB on miss, populates cache
+- Write-through: write to cache and DB simultaneously
+- TTL: always set expiry; avoid unlimited growth
+- Cache stampede prevention: probabilistic early expiry or locking
 
-# Rate limiting (sliding window)
-key = f"ratelimit:{user_id}:{window}"
-count = redis.incr(key)
-redis.expire(key, 60)  # 60-second window
-
-# Cache-aside
-if (data := redis.get(cache_key)) is None:
-    data = db.fetch(...)
-    redis.setex(cache_key, 3600, json.dumps(data))
-```
+## Production
+- Memory policy: `allkeys-lru` for pure cache; `noeviction` for session store
+- Persistence: AOF for durability; RDB for snapshots
+- Sentinel for HA; Cluster for horizontal scaling
 
 ## Rules
-- Set TTLs on every key — infinite TTL keys are a memory leak.
-- Use `maxmemory-policy allkeys-lru` for pure cache use cases.
-- Never use Redis as a primary data store — it's a cache with persistence.
+- Size your keyspace — estimate memory before deploying
+- Use SCAN not KEYS in production (KEYS blocks)
+- Avoid O(N) commands on large collections
+- Prefix keys with namespace: `user:{id}:profile`

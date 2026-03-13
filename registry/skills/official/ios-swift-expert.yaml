@@ -1,0 +1,17 @@
+id: official/ios-swift-expert
+name: ios-swift-expert
+display_name: iOS Swift Expert
+author: official
+description: Expert iOS development with Swift — UIKit, SwiftUI, async/await, and
+  App Store best practices.
+version: 1.0.0
+category: language
+tags:
+- ios
+- swift
+- xcode
+- apple
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/ios-swift-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/podcast-producer
+name: podcast-producer
+display_name: Podcast Producer
+author: official
+description: Produce engaging podcasts with compelling interviews, editing, and growth
+  strategy.
+version: 1.0.0
+category: workflow
+tags:
+- podcast
+- audio
+- content-creation
+- interviewing
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/podcast-producer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

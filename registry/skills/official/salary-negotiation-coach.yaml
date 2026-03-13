@@ -1,0 +1,16 @@
+id: official/salary-negotiation-coach
+name: salary-negotiation-coach
+display_name: Salary Negotiation Coach
+author: official
+description: Negotiate job offers and raises to maximize total compensation.
+version: 1.0.0
+category: workflow
+tags:
+- salary-negotiation
+- career
+- compensation
+- offers
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/salary-negotiation-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

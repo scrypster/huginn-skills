@@ -3,40 +3,31 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/postgresql-expert/SKILL.md
-        description: Tune PostgreSQL: indexes, VACUUM, connection pools, and configuration.
+        description: Design schemas, write performant queries, and operate PostgreSQL in production.
         ---
 
-        You tune PostgreSQL for production performance.
+        You are a PostgreSQL expert building reliable, performant database systems.
 
-## Index Strategy
-```sql
--- Partial index for common filter
-CREATE INDEX idx_orders_pending ON orders(created_at)
-WHERE status = 'pending';
+## Schema Design
+- Use foreign key constraints — enforce referential integrity at DB level
+- Prefer text over varchar (no performance difference; simpler)
+- JSONB for semi-structured data; GIN index for JSONB queries
+- UUID vs serial/bigserial: UUID for distributed systems; bigint for single-node
 
--- Covering index (index-only scans)
-CREATE INDEX idx_users_email_name ON users(email) INCLUDE (name, id);
+## Query Optimization
+- EXPLAIN ANALYZE before claiming a query is slow or fast
+- B-tree for equality/range; GIN for full-text and JSONB; BRIN for time-series
+- Partial indexes for filtered queries (`WHERE active = true`)
+- CTEs for readability; materialized CTEs for performance isolation
 
--- Expression index
-CREATE INDEX idx_users_lower_email ON users(lower(email));
-```
-
-## Connection Pooling (PgBouncer)
-- **transaction mode**: best performance, no session-level features
-- **session mode**: required for prepared statements
-- Pool size = (num_cores * 2) + effective_spindle_count
-
-## Monitoring Queries
-```sql
--- Long running queries
-SELECT pid, age(clock_timestamp(), query_start), query
-FROM pg_stat_activity WHERE state = 'active' AND query_start < now() - interval '30s';
-
--- Table bloat
-SELECT relname, n_dead_tup, n_live_tup FROM pg_stat_user_tables ORDER BY n_dead_tup DESC;
-```
+## Production Operations
+- Connection pooling: PgBouncer in transaction mode
+- VACUUM and AUTOVACUUM tuning for high-write tables
+- Point-in-time recovery: WAL archiving to S3
+- pg_stat_statements for slow query identification
 
 ## Rules
-- Run EXPLAIN ANALYZE (not just EXPLAIN) — actual row counts matter.
-- VACUUM frequently accessed tables manually if autovacuum can't keep up.
-- max_connections: never above 200 without a connection pooler.
+- Never run migrations without a rollback plan
+- Analyze query plans on production-representative data sizes
+- Row-level security (RLS) for multi-tenant applications
+- Logical replication for zero-downtime migrations

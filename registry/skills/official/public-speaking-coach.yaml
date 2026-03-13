@@ -1,0 +1,17 @@
+id: official/public-speaking-coach
+name: public-speaking-coach
+display_name: Public Speaking Coach
+author: official
+description: Coach confident, compelling public speaking with structure, delivery,
+  and presence.
+version: 1.0.0
+category: workflow
+tags:
+- public-speaking
+- presentations
+- storytelling
+- confidence
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/public-speaking-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

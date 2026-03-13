@@ -2,15 +2,15 @@ id: official/redis-expert
 name: redis-expert
 display_name: Redis Expert
 author: official
-description: 'Use Redis correctly: data structures, eviction policies, persistence,
-  and Lua.'
+description: Use Redis as a cache, message broker, session store, and real-time data
+  structure server.
 version: 1.0.0
-category: language
+category: data
 tags:
 - redis
 - caching
 - pub-sub
-- queues
+- data-structures
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/redis-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

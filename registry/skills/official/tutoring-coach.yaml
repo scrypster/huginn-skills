@@ -1,0 +1,16 @@
+id: official/tutoring-coach
+name: tutoring-coach
+display_name: Tutoring & Teaching Coach
+author: official
+description: Teach complex concepts effectively with proven pedagogical techniques.
+version: 1.0.0
+category: workflow
+tags:
+- tutoring
+- teaching
+- learning
+- education
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/tutoring-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/youtube-content-creator
+name: youtube-content-creator
+display_name: YouTube Content Creator
+author: official
+description: Create engaging YouTube videos with strong hooks, retention, and growth
+  strategy.
+version: 1.0.0
+category: workflow
+tags:
+- youtube
+- video
+- content-creation
+- audience-growth
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/youtube-content-creator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

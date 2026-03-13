@@ -1,0 +1,17 @@
+id: official/financial-modeling-expert
+name: financial-modeling-expert
+display_name: Financial Modeling Expert
+author: official
+description: Build rigorous financial models for forecasting, valuation, and business
+  planning.
+version: 1.0.0
+category: workflow
+tags:
+- financial-modeling
+- excel
+- forecasting
+- valuation
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/financial-modeling-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

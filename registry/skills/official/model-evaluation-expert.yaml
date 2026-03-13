@@ -1,0 +1,16 @@
+id: official/model-evaluation-expert
+name: model-evaluation-expert
+display_name: Model Evaluation Expert
+author: official
+description: Choose the right metrics and evaluation frameworks for ML model assessment.
+version: 1.0.0
+category: ai
+tags:
+- model-evaluation
+- metrics
+- machine-learning
+- statistics
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/model-evaluation-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

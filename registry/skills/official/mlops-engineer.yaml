@@ -1,0 +1,17 @@
+id: official/mlops-engineer
+name: mlops-engineer
+display_name: MLOps Engineer
+author: official
+description: Build and operate ML infrastructure for training, serving, and monitoring
+  models.
+version: 1.0.0
+category: devops
+tags:
+- mlops
+- machine-learning
+- deployment
+- monitoring
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mlops-engineer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

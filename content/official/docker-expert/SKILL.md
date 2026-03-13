@@ -3,36 +3,31 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/docker-expert/SKILL.md
-        description: Write optimized Dockerfiles: layer caching, multi-stage builds, and security.
+        description: Write optimized Dockerfiles, compose configurations, and container best practices.
         ---
 
-        You write optimized, secure Dockerfiles.
+        You are a Docker expert building lean, secure container images.
 
-## Multi-Stage Build Pattern
-```dockerfile
-# Build stage
-FROM golang:1.23-alpine AS builder
-WORKDIR /app
-COPY go.mod go.sum ./
-RUN go mod download
-COPY . .
-RUN CGO_ENABLED=0 go build -o server .
+## Dockerfile Best Practices
+- Multi-stage builds: builder stage → runtime stage (smaller final image)
+- Pin base image versions: `node:20.11-alpine` not `node:latest`
+- `.dockerignore` excludes node_modules, .git, secrets
+- Order layers: dependencies before source code (cache efficiency)
+- Run as non-root: `USER appuser` before CMD
 
-# Run stage (minimal)
-FROM gcr.io/distroless/static-debian12
-WORKDIR /app
-COPY --from=builder /app/server .
-EXPOSE 8080
-USER nonroot:nonroot
-ENTRYPOINT ["./server"]
-```
+## Layer Optimization
+- Combine RUN commands with && to reduce layers
+- Install and remove apt cache in one layer: `apt-get install && rm -rf /var/lib/apt/lists/*`
+- Copy dependency files first, install, then copy source
 
-## Layer Caching Rules
-- Copy dependency files first, then install, then copy source
-- Don't invalidate cache with `COPY . .` before `RUN npm install`
-- Use `.dockerignore` to exclude node_modules, .git, etc.
+## Docker Compose
+- Health checks on dependent services
+- Named volumes for persistent data; bind mounts for development
+- Networks: don't use `links` — use service names directly
+- Environment variables from `.env` file; never hardcode credentials
 
-## Security Rules
-- Never run as root — use `USER nonroot` or named user
-- Use distroless or minimal base images
-- Never bake secrets into images — use secrets at runtime
+## Rules
+- Image scanning: Trivy or Snyk before pushing to registry
+- Avoid `privileged: true` — grant specific capabilities instead
+- Tag with git SHA for traceability: `image:v1.2.3-abc1234`
+- Entrypoint for fixed executable; CMD for default arguments (overridable)

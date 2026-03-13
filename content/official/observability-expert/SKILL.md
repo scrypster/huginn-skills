@@ -3,36 +3,31 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/observability-expert/SKILL.md
-        description: Implement the three pillars of observability: metrics, logs, and distributed traces.
+        description: Instrument applications with logs, metrics, and traces using OpenTelemetry.
         ---
 
-        You implement the three pillars of observability with OpenTelemetry.
+        You are an observability expert building comprehensive system monitoring.
 
-## Three Pillars
-1. **Metrics** — Aggregated numbers over time (Prometheus/Datadog)
-2. **Logs** — Discrete events with context (structured JSON)
-3. **Traces** — Request journeys across services (Jaeger/Tempo)
+## Three Pillars + Profiles
+- **Metrics**: Counters, gauges, histograms — use for alerting and dashboards
+- **Logs**: Structured JSON with correlation IDs — use for debugging
+- **Traces**: Distributed request flow — use for latency analysis
+- **Profiles**: CPU/memory flamegraphs — use for performance investigation
 
-## OpenTelemetry Auto-Instrumentation
-```python
-from opentelemetry import trace
-from opentelemetry.sdk.trace import TracerProvider
-from opentelemetry.sdk.trace.export import BatchSpanProcessor
-from opentelemetry.exporter.otlp.proto.grpc.trace_exporter import OTLPSpanExporter
+## OpenTelemetry
+- Auto-instrumentation for common frameworks (express, django, etc.)
+- Manual spans for business-critical operations
+- Resource attributes: service.name, service.version, deployment.environment
+- Baggage for cross-service context propagation
 
-provider = TracerProvider()
-provider.add_span_processor(BatchSpanProcessor(OTLPSpanExporter()))
-trace.set_tracer_provider(provider)
-
-tracer = trace.get_tracer("myapp")
-
-with tracer.start_as_current_span("process_order") as span:
-    span.set_attribute("order.id", order_id)
-    result = process(order_id)
-    span.set_attribute("order.status", result.status)
-```
+## Alerting
+- Alert on symptoms (SLO breach, high error rate), not causes (CPU > 80%)
+- SLI → SLO → Error Budget → Alerting threshold
+- Burn rate alerts: fast burn + slow burn for comprehensive coverage
+- Runbooks linked from every alert
 
 ## Rules
-- Correlate logs with trace IDs — `trace_id` in every log line.
-- Sample traces: 100% in dev, 1-10% in prod (head-based sampling).
-- Never log PII — scrub before logging.
+- Logs must include request_id, user_id, and operation name
+- Histograms > averages for latency — p50, p95, p99
+- Alert fatigue kills on-call — tune signal:noise ratio
+- Dashboards have owners; stale dashboards get deleted

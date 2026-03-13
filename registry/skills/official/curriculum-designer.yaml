@@ -1,0 +1,17 @@
+id: official/curriculum-designer
+name: curriculum-designer
+display_name: Curriculum Designer
+author: official
+description: Design effective learning curricula with clear objectives, assessments,
+  and instructional strategies.
+version: 1.0.0
+category: workflow
+tags:
+- curriculum-design
+- education
+- learning-objectives
+- instructional-design
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/curriculum-designer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

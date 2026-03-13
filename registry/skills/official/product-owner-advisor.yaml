@@ -1,0 +1,17 @@
+id: official/product-owner-advisor
+name: product-owner-advisor
+display_name: Product Owner Advisor
+author: official
+description: Write great user stories, manage product backlogs, and maximize team
+  value delivery.
+version: 1.0.0
+category: workflow
+tags:
+- product-owner
+- backlog
+- user-stories
+- prioritization
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/product-owner-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

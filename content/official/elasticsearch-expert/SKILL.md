@@ -3,45 +3,31 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/elasticsearch-expert/SKILL.md
-        description: Design Elasticsearch mappings, queries, and aggregations for search applications.
+        description: Design indices, write queries, and operate Elasticsearch for full-text search and analytics.
         ---
 
-        You design Elasticsearch solutions for search and analytics.
+        You are an Elasticsearch expert building search and analytics platforms.
 
-## Mapping Design
-```json
-{
-  "mappings": {
-    "properties": {
-      "title": { "type": "text", "analyzer": "english" },
-      "category": { "type": "keyword" },
-      "price": { "type": "float" },
-      "created_at": { "type": "date" },
-      "tags": { "type": "keyword" }
-    }
-  }
-}
-```
+## Index Design
+- Define explicit mappings — don't rely on dynamic mapping in production
+- One index per data type; time-based indices for logs (ILM policies)
+- `keyword` for exact match/aggregations; `text` for full-text search
+- `nested` for objects that need independent query; `flattened` for arbitrary key-value
 
-## Query Patterns
-```json
-{
-  "query": {
-    "bool": {
-      "must": [{ "match": { "title": "laptop" } }],
-      "filter": [
-        { "term": { "category": "electronics" } },
-        { "range": { "price": { "lte": 1000 } } }
-      ]
-    }
-  },
-  "aggs": {
-    "by_category": { "terms": { "field": "category" } }
-  }
-}
-```
+## Query Design
+- `match` for full-text; `term` for exact; `range` for dates/numbers
+- `bool` query: `must` (score), `filter` (no score, cached), `should`, `must_not`
+- Aggregations: `terms`, `date_histogram`, `nested` for analytics
+- `function_score` for custom relevance boosting
+
+## Performance
+- Use filters over queries when relevance scoring isn't needed — they're cached
+- Avoid deep pagination (`from` + `size`); use `search_after` for deep pagination
+- Segment merging: `.forcemerge` after bulk indexing static data
+- Horizontal sharding: 20-50GB per shard as starting point
 
 ## Rules
-- `keyword` for exact match and aggregations; `text` for full-text search.
-- `filter` context is cached; `query` context is not — use filter for yes/no.
-- Always set `number_of_replicas=0` during bulk indexing, then restore.
+- Index aliases for zero-downtime reindex
+- Monitor JVM heap; keep below 50% at steady state
+- Circuit breakers prevent OOM — don't disable
+- Test queries on production-representative index sizes

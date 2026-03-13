@@ -1,0 +1,16 @@
+id: official/rails-expert
+name: rails-expert
+display_name: Ruby on Rails Expert
+author: official
+description: Build convention-driven web applications with Ruby on Rails and ActiveRecord.
+version: 1.0.0
+category: language
+tags:
+- rails
+- ruby
+- activerecord
+- mvc
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/rails-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

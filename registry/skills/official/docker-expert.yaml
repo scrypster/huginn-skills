@@ -2,14 +2,15 @@ id: official/docker-expert
 name: docker-expert
 display_name: Docker Expert
 author: official
-description: 'Write optimized Dockerfiles: layer caching, multi-stage builds, and
-  security.'
+description: Write optimized Dockerfiles, compose configurations, and container best
+  practices.
 version: 1.0.0
 category: devops
 tags:
 - docker
 - containers
 - dockerfile
+- compose
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/docker-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

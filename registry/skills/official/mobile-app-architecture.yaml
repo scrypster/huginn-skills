@@ -1,0 +1,17 @@
+id: official/mobile-app-architecture
+name: mobile-app-architecture
+display_name: Mobile App Architecture
+author: official
+description: Design scalable mobile app architectures for iOS, Android, and cross-platform
+  projects.
+version: 1.0.0
+category: workflow
+tags:
+- mobile
+- architecture
+- ios
+- android
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mobile-app-architecture/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

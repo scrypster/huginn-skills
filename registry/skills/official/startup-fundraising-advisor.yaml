@@ -1,0 +1,17 @@
+id: official/startup-fundraising-advisor
+name: startup-fundraising-advisor
+display_name: Startup Fundraising Advisor
+author: official
+description: Navigate startup fundraising from pre-seed through Series A with investor-ready
+  materials.
+version: 1.0.0
+category: workflow
+tags:
+- fundraising
+- venture-capital
+- pitch
+- startup
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/startup-fundraising-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

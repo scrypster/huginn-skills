@@ -1,0 +1,17 @@
+id: official/meditation-mindfulness-guide
+name: meditation-mindfulness-guide
+display_name: Meditation & Mindfulness Guide
+author: official
+description: Guide meditation practice and mindfulness techniques for stress reduction
+  and focus.
+version: 1.0.0
+category: workflow
+tags:
+- meditation
+- mindfulness
+- mental-health
+- wellness
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/meditation-mindfulness-guide/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

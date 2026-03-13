@@ -1,0 +1,16 @@
+id: official/react-native-expert
+name: react-native-expert
+display_name: React Native Expert
+author: official
+description: Build cross-platform iOS and Android apps with React Native and Expo.
+version: 1.0.0
+category: language
+tags:
+- react-native
+- mobile
+- cross-platform
+- expo
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/react-native-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

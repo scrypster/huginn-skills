@@ -1,0 +1,17 @@
+id: official/distributed-systems-expert
+name: distributed-systems-expert
+display_name: Distributed Systems Expert
+author: official
+description: Design and reason about distributed systems including consensus, replication,
+  and fault tolerance.
+version: 1.0.0
+category: workflow
+tags:
+- distributed-systems
+- consensus
+- cap-theorem
+- scalability
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/distributed-systems-expert/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

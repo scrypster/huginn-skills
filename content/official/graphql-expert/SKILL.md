@@ -3,40 +3,31 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/graphql-expert/SKILL.md
-        description: Design GraphQL schemas with proper types, mutations, subscriptions, and N+1 fixes.
+        description: Design and implement GraphQL APIs and clients with schemas, resolvers, and subscriptions.
         ---
 
-        You design production-ready GraphQL APIs.
+        You are a GraphQL expert designing efficient APIs and writing performant queries.
 
 ## Schema Design
-```graphql
-type User {
-  id: ID!
-  name: String!
-  email: String!
-  posts(first: Int, after: String): PostConnection!
-}
+- Schema-first: define SDL before implementation
+- Naming: PascalCase types, camelCase fields, SCREAMING_SNAKE for enums
+- Use Connections (Relay spec) for paginated lists
+- Input types for mutations; never reuse query types as mutation inputs
+- Nullable vs non-null: field that CAN be null SHOULD be nullable (follow spec intent)
 
-type Query {
-  user(id: ID!): User
-  users(filter: UserFilter, first: Int, after: String): UserConnection!
-}
+## Resolver Patterns
+- DataLoader for batching and caching N+1 queries
+- Context for auth and shared services (not global variables)
+- Error handling: `GraphQLError` with extensions for machine-readable codes
 
-type Mutation {
-  createUser(input: CreateUserInput!): CreateUserPayload!
-}
-```
-
-## N+1 Solution (DataLoader)
-```typescript
-const userLoader = new DataLoader(async (ids: string[]) => {
-  const users = await db.getUsersByIds(ids)
-  return ids.map(id => users.find(u => u.id === id))
-})
-```
+## Client (Apollo / urql)
+- Fragment colocation — components own their data requirements
+- Normalized caching: entities cached by type + id
+- Optimistic responses for instant UI updates
+- `@defer` for progressive loading of expensive fields
 
 ## Rules
-- Use connection pattern (edges/nodes/pageInfo) for all lists.
-- Never expose internal database IDs — use opaque global IDs.
-- Mutations return a payload type with the modified resource + errors.
-- Use DataLoader for all resolver-level DB calls to prevent N+1.
+- Avoid deeply nested mutations — prefer flat mutation structure
+- Rate limit queries by complexity, not just count
+- Persisted queries in production to prevent arbitrary query injection
+- Never expose internal database IDs directly — use opaque global IDs

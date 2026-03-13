@@ -2,14 +2,15 @@ id: official/elasticsearch-expert
 name: elasticsearch-expert
 display_name: Elasticsearch Expert
 author: official
-description: Design Elasticsearch mappings, queries, and aggregations for search applications.
+description: Design indices, write queries, and operate Elasticsearch for full-text
+  search and analytics.
 version: 1.0.0
-category: language
+category: data
 tags:
 - elasticsearch
 - search
 - lucene
-- full-text
+- opensearch
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/elasticsearch-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

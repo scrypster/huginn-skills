@@ -2,15 +2,14 @@ id: official/api-design-expert
 name: api-design-expert
 display_name: API Design Expert
 author: official
-description: 'Design intuitive REST APIs: resources, verbs, versioning, and error
-  schemas.'
+description: Design intuitive, consistent REST APIs with excellent developer experience.
 version: 1.0.0
 category: workflow
 tags:
 - api-design
 - rest
-- http
-- versioning
+- openapi
+- developer-experience
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-design-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/interview-coach
+name: interview-coach
+display_name: Interview Coach
+author: official
+description: Prepare for job interviews with STAR method, behavioral practice, and
+  technical prep.
+version: 1.0.0
+category: workflow
+tags:
+- interview-prep
+- career
+- behavioral
+- technical
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/interview-coach/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

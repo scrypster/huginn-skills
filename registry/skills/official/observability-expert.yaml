@@ -2,15 +2,14 @@ id: official/observability-expert
 name: observability-expert
 display_name: Observability Expert
 author: official
-description: 'Implement the three pillars of observability: metrics, logs, and distributed
-  traces.'
+description: Instrument applications with logs, metrics, and traces using OpenTelemetry.
 version: 1.0.0
 category: devops
 tags:
 - observability
+- monitoring
 - opentelemetry
-- tracing
-- logging
+- sre
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/observability-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

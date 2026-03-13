@@ -2,15 +2,15 @@ id: official/django-expert
 name: django-expert
 display_name: Django Expert
 author: official
-description: Build Django apps with clean views, ORM patterns, and proper settings
-  structure.
+description: Build robust Python web applications with Django ORM, views, and Django
+  REST Framework.
 version: 1.0.0
 category: language
 tags:
-- python
 - django
+- python
 - orm
-- views
+- rest-framework
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/django-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

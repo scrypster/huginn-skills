@@ -1,0 +1,17 @@
+id: official/llm-engineer
+name: llm-engineer
+display_name: LLM Engineer
+author: official
+description: Build production LLM applications with RAG, fine-tuning, and evaluation
+  frameworks.
+version: 1.0.0
+category: ai
+tags:
+- llm
+- prompt-engineering
+- rag
+- fine-tuning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/llm-engineer/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

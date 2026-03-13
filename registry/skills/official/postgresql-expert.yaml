@@ -2,14 +2,14 @@ id: official/postgresql-expert
 name: postgresql-expert
 display_name: PostgreSQL Expert
 author: official
-description: 'Tune PostgreSQL: indexes, VACUUM, connection pools, and configuration.'
+description: Design schemas, write performant queries, and operate PostgreSQL in production.
 version: 1.0.0
-category: language
+category: data
 tags:
 - postgresql
-- postgres
-- database
 - sql
+- database
+- indexing
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/postgresql-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

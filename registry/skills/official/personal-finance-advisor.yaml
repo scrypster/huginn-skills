@@ -1,0 +1,17 @@
+id: official/personal-finance-advisor
+name: personal-finance-advisor
+display_name: Personal Finance Advisor
+author: official
+description: Build financial foundations with budgeting, debt payoff, emergency funds,
+  and investing basics.
+version: 1.0.0
+category: workflow
+tags:
+- personal-finance
+- budgeting
+- investing
+- financial-planning
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/personal-finance-advisor/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

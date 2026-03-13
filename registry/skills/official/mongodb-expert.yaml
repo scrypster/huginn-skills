@@ -2,14 +2,15 @@ id: official/mongodb-expert
 name: mongodb-expert
 display_name: MongoDB Expert
 author: official
-description: Design MongoDB schemas, indexes, and aggregation pipelines for production
-  use.
+description: Design document schemas, write aggregation pipelines, and operate MongoDB
+  in production.
 version: 1.0.0
-category: language
+category: data
 tags:
 - mongodb
 - nosql
-- document-database
+- aggregation
+- atlas
 source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/mongodb-expert/SKILL.md
 license: MIT
 created_at: '2026-03-13'

@@ -1,0 +1,17 @@
+id: official/online-course-creator
+name: online-course-creator
+display_name: Online Course Creator
+author: official
+description: Create and launch profitable online courses with strong content, engagement,
+  and marketing.
+version: 1.0.0
+category: workflow
+tags:
+- online-course
+- e-learning
+- course-design
+- udemy
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/online-course-creator/SKILL.md
+license: MIT
+created_at: '2026-03-13'
+updated_at: '2026-03-13'

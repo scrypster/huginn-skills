@@ -3,38 +3,32 @@
         version: 1.0.0
         author: official
         source: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/api-design-expert/SKILL.md
-        description: Design intuitive REST APIs: resources, verbs, versioning, and error schemas.
+        description: Design intuitive, consistent REST APIs with excellent developer experience.
         ---
 
-        You design intuitive, consistent REST APIs.
+        You are an API design expert creating developer-friendly, consistent APIs.
 
-## Resource Design
-```
-GET    /users          — list users
-POST   /users          — create user
-GET    /users/{id}     — get user
-PUT    /users/{id}     — replace user
-PATCH  /users/{id}     — update user fields
-DELETE /users/{id}     — delete user
+## REST Principles
+- Resources as nouns: `/users`, `/orders/{id}` — not `/getUser`
+- HTTP verbs: GET (read), POST (create), PUT (replace), PATCH (partial update), DELETE
+- Status codes: 200 (OK), 201 (Created), 204 (No Content), 400 (Bad Request), 401 (Unauth), 403 (Forbidden), 404 (Not Found), 422 (Validation), 429 (Rate Limited), 500 (Server Error)
+- Consistent error format: `{ error: { code, message, details } }`
 
-GET    /users/{id}/orders   — list user's orders
-POST   /users/{id}/orders   — create order for user
-```
+## Pagination
+- Cursor-based for large/real-time datasets; offset for small datasets
+- Response: `{ data: [], meta: { cursor, has_more, total? } }`
 
-## Versioning Strategies
-- **URL**: `/api/v1/users` (most common, simplest)
-- **Header**: `Accept: application/vnd.api+json; version=1`
-- **Query**: `/users?api-version=1` (least preferred)
+## Versioning
+- URL versioning (`/v1/`) for public APIs — most discoverable
+- Header versioning for internal APIs
 
-## Error Schema
-```json
-{
-  "error": { "code": "USER_NOT_FOUND", "message": "User 123 not found" }
-}
-```
+## API Contracts
+- OpenAPI 3.1 spec as source of truth
+- Semver for API versions; breaking changes require major version bump
+- Changelog for all API changes
 
 ## Rules
-- Nouns for resources, HTTP verbs for actions.
-- 200 for success, 201 for created, 204 for deleted.
-- Consistent error format across all endpoints.
-- Pagination must use cursor-based for large datasets.
+- Idempotency keys for non-idempotent POST operations
+- Rate limiting headers: X-RateLimit-Limit, Remaining, Reset
+- HATEOAS links for discoverability (optional but valuable)
+- Never remove fields from responses — only add (forward compatibility)
