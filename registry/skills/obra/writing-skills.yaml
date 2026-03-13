@@ -1,0 +1,17 @@
+id: obra/writing-skills
+name: writing-skills
+display_name: Writing Skills
+author: obra
+description: Create and validate new skills — structure, tone, triggers, and effectiveness
+long_description: |
+  Guides writing new skills with the right structure: trigger conditions, the process to
+  follow, red flags, and expected output. Validates that skills are self-contained and
+  clear enough for an agent with zero context. Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [meta, skills, documentation, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

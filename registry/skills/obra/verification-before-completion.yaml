@@ -1,0 +1,19 @@
+id: obra/verification-before-completion
+name: verification-before-completion
+display_name: Verification Before Completion
+author: obra
+description: Verify work before claiming success — evidence before assertions, always
+long_description: |
+  Before claiming a task is complete, fixed, or passing: run the verification commands,
+  read the actual output, confirm it matches the expected result. Prevents the common
+  failure mode of claiming success without checking. "Tests passing" means you ran them
+  and read the output — not that you think they should pass.
+  Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [quality, verification, testing, workflow, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/verification-before-completion/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

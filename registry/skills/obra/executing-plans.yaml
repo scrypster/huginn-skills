@@ -1,0 +1,18 @@
+id: obra/executing-plans
+name: executing-plans
+display_name: Executing Plans
+author: obra
+description: Execute implementation plans in batches with human review checkpoints
+long_description: |
+  Works through a written implementation plan in logical batches, pausing after each batch
+  for review. Tracks progress with checkboxes, handles blockers, and ensures each batch
+  leaves the codebase in a working state. Use when you want to stay in the loop between
+  batches. Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [planning, implementation, workflow, tdd, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/executing-plans/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

@@ -1,0 +1,32 @@
+id: obra/superpowers
+name: superpowers
+display_name: Superpowers
+author: obra
+description: A cohesive workflow system for disciplined AI-assisted development
+long_description: |
+  Superpowers is a collection of 14 interlocking skills that enforce structured,
+  disciplined development workflows. Skills cover the full dev lifecycle: brainstorming
+  → planning → TDD implementation → code review → debugging → branch completion.
+  They are designed to work as a system — install using-superpowers as your entry point
+  and the others become available as needed.
+version: "1.0.0"
+license: MIT
+tags: [workflow, tdd, planning, debugging, code-review, git, superpowers]
+skills:
+  - obra/using-superpowers
+  - obra/brainstorming
+  - obra/writing-plans
+  - obra/executing-plans
+  - obra/subagent-driven-development
+  - obra/test-driven-development
+  - obra/systematic-debugging
+  - obra/dispatching-parallel-agents
+  - obra/verification-before-completion
+  - obra/requesting-code-review
+  - obra/receiving-code-review
+  - obra/finishing-a-development-branch
+  - obra/using-git-worktrees
+  - obra/writing-skills
+source_repo: https://github.com/obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

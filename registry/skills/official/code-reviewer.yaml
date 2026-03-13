@@ -1,0 +1,16 @@
+id: official/code-reviewer
+name: code-reviewer
+display_name: Code Reviewer
+author: official
+description: Systematic code review — correctness, security, maintainability, tests
+long_description: |
+  A meticulous code reviewer that covers correctness, edge cases, security vulnerabilities,
+  test coverage, and maintainability. Produces structured, actionable review feedback with
+  severity levels (blocking, important, suggestion).
+version: "1.0.0"
+category: workflow
+tags: [code-review, quality, security, testing]
+license: MIT
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/code-reviewer/SKILL.md
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

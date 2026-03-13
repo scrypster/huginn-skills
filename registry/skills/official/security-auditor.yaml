@@ -1,0 +1,16 @@
+id: official/security-auditor
+name: security-auditor
+display_name: Security Auditor
+author: official
+description: OWASP-aware security review — injection, auth, secrets, supply chain
+long_description: |
+  Security-focused code reviewer that thinks like an attacker. Covers OWASP Top 10,
+  injection flaws, broken authentication, sensitive data exposure, XXE, access control,
+  security misconfiguration, XSS, insecure deserialization, and supply chain risks.
+version: "1.0.0"
+category: security
+tags: [security, owasp, audit, injection, authentication]
+license: MIT
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/security-auditor/SKILL.md
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

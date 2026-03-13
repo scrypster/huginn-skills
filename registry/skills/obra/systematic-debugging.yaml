@@ -1,0 +1,19 @@
+id: obra/systematic-debugging
+name: systematic-debugging
+display_name: Systematic Debugging
+author: obra
+description: Root-cause-first debugging discipline — never fix symptoms, always find cause
+long_description: |
+  Enforces four strict phases: root cause investigation (evidence gathering, reproduction,
+  data flow tracing), pattern analysis (find working examples, identify differences),
+  hypothesis testing (one change at a time), and implementation (failing test first).
+  If 3+ fixes fail, questions the architecture rather than trying again.
+  Part of the Superpowers collection.
+version: "1.0.0"
+category: debugging
+tags: [debugging, root-cause, systematic, tdd, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

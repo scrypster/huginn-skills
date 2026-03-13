@@ -1,0 +1,18 @@
+id: obra/brainstorming
+name: brainstorming
+display_name: Brainstorming
+author: obra
+description: Turn ideas into fully-formed designs through structured collaborative dialogue
+long_description: |
+  Guides you from raw idea to approved design spec through structured questioning. Explores
+  purpose, constraints, and success criteria one question at a time. Proposes 2-3 approaches
+  with trade-offs, presents design sections for approval, then hands off to writing-plans.
+  Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [planning, design, spec, architecture, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/brainstorming/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

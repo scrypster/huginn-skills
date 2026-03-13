@@ -1,0 +1,18 @@
+id: obra/finishing-a-development-branch
+name: finishing-a-development-branch
+display_name: Finishing a Development Branch
+author: obra
+description: Complete development work — verify tests, then merge, PR, keep, or discard
+long_description: |
+  Runs the test suite, then presents exactly four structured options: merge locally,
+  push and create a PR, keep as-is, or discard. Handles the chosen path including
+  worktree cleanup. Requires typed confirmation before destructive actions.
+  Part of the Superpowers collection.
+version: "1.0.0"
+category: git
+tags: [git, pr, merge, workflow, completion, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

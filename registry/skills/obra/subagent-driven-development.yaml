@@ -1,0 +1,18 @@
+id: obra/subagent-driven-development
+name: subagent-driven-development
+display_name: Subagent-Driven Development
+author: obra
+description: Execute plans with fresh subagents per task and two-stage spec + quality review
+long_description: |
+  Dispatches a fresh subagent for each task in the plan, preventing context pollution.
+  After each task: spec compliance review first (does it match the spec exactly?), then
+  code quality review (is it well-built?). Loops until both pass. Faster than sequential
+  with human checkpoints. Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [agents, tdd, workflow, implementation, review, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/subagent-driven-development/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

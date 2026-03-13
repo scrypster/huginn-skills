@@ -1,0 +1,18 @@
+id: obra/receiving-code-review
+name: receiving-code-review
+display_name: Receiving Code Review
+author: obra
+description: Handle code review feedback with technical rigor — verify before implementing
+long_description: |
+  When receiving code review comments, applies technical rigor before acting: reads feedback
+  carefully, verifies claims, pushes back respectfully on incorrect suggestions, and
+  implements only valid feedback. Prevents blind acceptance of review comments that
+  introduce bugs or regressions. Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [code-review, feedback, quality, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/receiving-code-review/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

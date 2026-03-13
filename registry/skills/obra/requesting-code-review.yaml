@@ -1,0 +1,17 @@
+id: obra/requesting-code-review
+name: requesting-code-review
+display_name: Requesting Code Review
+author: obra
+description: Structure and request code reviews effectively with the right context
+long_description: |
+  Prepares a code review request with the right context: what changed, why, what to
+  focus on, and what to skip. Structures the request so reviewers can be efficient
+  and give useful feedback. Part of the Superpowers collection.
+version: "1.0.0"
+category: workflow
+tags: [code-review, workflow, collaboration, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/requesting-code-review/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

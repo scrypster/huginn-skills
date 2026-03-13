@@ -1,0 +1,16 @@
+id: official/debug-assistant
+name: debug-assistant
+display_name: Debug Assistant
+author: official
+description: Root-cause-first debugging — reproduce → trace → hypothesis → minimal fix
+long_description: |
+  Systematic debugger that never guesses. Follows a strict reproduce → trace → hypothesis →
+  minimal-fix loop. Refuses to apply patches without first understanding root cause.
+  Effective for test failures, runtime bugs, and unexpected behavior.
+version: "1.0.0"
+category: debugging
+tags: [debugging, root-cause, testing, systematic]
+license: MIT
+source_url: https://raw.githubusercontent.com/scrypster/huginn-skills/main/content/official/debug-assistant/SKILL.md
+created_at: "2025-03-01"
+updated_at: "2025-03-01"

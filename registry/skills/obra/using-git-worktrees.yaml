@@ -1,0 +1,18 @@
+id: obra/using-git-worktrees
+name: using-git-worktrees
+display_name: Using Git Worktrees
+author: obra
+description: Isolated workspace setup using git worktrees — safe feature branch workflow
+long_description: |
+  Creates and manages git worktrees to give each feature an isolated workspace, preventing
+  branch switching from disrupting in-progress work. Handles setup, smart directory
+  selection, safety verification, and cleanup after merging. Pairs with
+  finishing-a-development-branch. Part of the Superpowers collection.
+version: "1.0.0"
+category: git
+tags: [git, worktrees, isolation, workflow, superpowers]
+license: MIT
+source_url: https://raw.githubusercontent.com/obra/superpowers/main/skills/using-git-worktrees/SKILL.md
+collection: obra/superpowers
+created_at: "2025-03-01"
+updated_at: "2025-03-01"
